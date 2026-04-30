@@ -43,7 +43,7 @@ This repo can be hosted directly with GitHub Pages from the repository root.
 Recommended Pages settings:
 
 - Source: deploy from branch
-- Branch: `master`
+- Branch: `main`
 - Folder: `/ (root)`
 
 ## Disclaimer
