@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>League Skin Poll Trends</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <p>League of Legends</p>
+          <h1>Skin Poll Trends</h1>
+        </div>
+
+        <label class="search">
+          <span>Search</span>
+          <input id="search" type="search" placeholder="Champion or skin" autocomplete="off" />
+        </label>
+
+        <div class="controls">
+          <label>
+            <span>View</span>
+            <select id="year"></select>
+          </label>
+
+          <label>
+            <span>Sort by</span>
+            <select id="sort">
+              <option value="champion">Champion</option>
+              <option value="votes">Total votes</option>
+              <option value="winnerShare">Winner share</option>
+              <option value="margin">Closest race</option>
+              <option value="changes">Recent changes</option>
+              <option value="years">Years covered</option>
+              <option value="updated">Recent vote</option>
+            </select>
+          </label>
+
+          <label>
+            <span>Filter</span>
+            <select id="filter">
+              <option value="all">All champions</option>
+              <option value="changed">Changed winner</option>
+              <option value="stable">Stable winners</option>
+              <option value="landslides">Landslides</option>
+              <option value="close">Close races</option>
+              <option value="low">Under 25 votes</option>
+            </select>
+          </label>
+        </div>
+
+        <div id="summary" class="summary"></div>
+        <nav id="championList" class="champion-list" aria-label="Champions"></nav>
+      </aside>
+
+      <section class="detail">
+        <header class="detail-top">
+          <div>
+            <p id="subreddit" class="eyebrow"></p>
+            <h2 id="championTitle"></h2>
+          </div>
+          <div class="actions">
+            <a id="pollLink" class="button" target="_blank" rel="noreferrer">Poll</a>
+            <a id="resultsLink" class="button primary" target="_blank" rel="noreferrer">Results</a>
+          </div>
+        </header>
+
+        <section class="stats" aria-label="Poll statistics">
+          <div>
+            <span>Total votes</span>
+            <strong id="totalVotes"></strong>
+          </div>
+          <div>
+            <span>Winner share</span>
+            <strong id="winnerShare"></strong>
+          </div>
+          <div>
+            <span>Margin</span>
+            <strong id="margin"></strong>
+          </div>
+          <div>
+            <span>Last vote</span>
+            <strong id="lastVote"></strong>
+          </div>
+        </section>
+
+        <section id="insights" class="insights" aria-label="Notable trends"></section>
+        <section id="winnerPanel" class="winner-panel"></section>
+        <section id="trendPanel" class="trend-panel"></section>
+        <section id="history" class="history" aria-label="Yearly winner history"></section>
+        <section id="options" class="options" aria-label="Skin results"></section>
+      </section>
+    </main>
+
+    <script src="data/polls.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
