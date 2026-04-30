@@ -48,4 +48,8 @@ Recommended Pages settings:
 
 ## Disclaimer
 
-This is an unofficial fan project. League of Legends is a trademark of Riot Games. This project is not endorsed by Riot Games, Reddit, or StrawPoll.
+League Skin Poll Trends was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.
+
+League of Legends, champion names, skin names, and related artwork are owned by Riot Games. Poll data comes from public Reddit and StrawPoll pages. This project is not endorsed by Riot Games, Reddit, or StrawPoll.
+
+The MIT license in this repository applies only to this project's original code and documentation. It does not grant rights to Riot Games intellectual property or third-party poll content.

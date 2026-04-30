@@ -502,6 +502,19 @@ select {
   color: var(--danger);
 }
 
+.legal-footer {
+  border-top: 1px solid var(--line);
+  background: #0a0f15;
+  color: var(--muted);
+  padding: 14px 24px;
+  font-size: 12px;
+}
+
+.legal-footer p {
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
 @media (max-width: 880px) {
   .shell {
     grid-template-columns: 1fr;
