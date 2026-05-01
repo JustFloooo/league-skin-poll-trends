@@ -33,6 +33,7 @@ const SOURCES = [
 ];
 
 const OUT_FILE = resolve("data/polls.js");
+const LINKS_FILE = resolve("data/links.json");
 const CONCURRENCY = 8;
 
 const sleep = (ms) => new Promise((resolveSleep) => setTimeout(resolveSleep, ms));
@@ -442,28 +443,82 @@ async function loadExistingData() {
 function parseArgs() {
   const args = process.argv.slice(2);
   const yearFlag = args.indexOf("--year");
-  if (yearFlag !== -1 && args[yearFlag + 1]) {
-    return { year: Number(args[yearFlag + 1]) };
-  }
-  return { year: null };
+  const cacheLinks = args.includes("--cache-links");
+  return {
+    year: yearFlag !== -1 && args[yearFlag + 1] ? Number(args[yearFlag + 1]) : null,
+    cacheLinks,
+  };
 }
 
-async function main() {
-  const { year: onlyYear } = parseArgs();
-  const startedAt = new Date().toISOString();
+async function loadLinksCache() {
+  try {
+    return JSON.parse(await readFile(LINKS_FILE, "utf8"));
+  } catch {
+    return null;
+  }
+}
 
-  const activeSources = onlyYear
+async function cacheLinksFromReddit(onlyYear) {
+  const existing = await loadLinksCache() ?? [];
+  const toFetch = onlyYear
     ? SOURCES.filter((s) => s.year === onlyYear)
     : SOURCES;
 
-  if (onlyYear && !activeSources.length) {
+  if (onlyYear && !toFetch.length) throw new Error(`No source for year ${onlyYear}`);
+
+  const fresh = await Promise.all(toFetch.map(fetchRowsForSource));
+  const freshEntries = fresh.flatMap((source) =>
+    source.rows.map((row) => ({
+      year: row.year,
+      label: row.label,
+      champion: row.champion,
+      pollUrl: row.pollUrl,
+      redditUrl: row.redditUrl,
+      subreddit: row.subreddit,
+    })),
+  );
+
+  const kept = onlyYear ? existing.filter((e) => e.year !== onlyYear) : [];
+  const merged = [...kept, ...freshEntries].sort(
+    (a, b) => b.year - a.year || a.champion.localeCompare(b.champion),
+  );
+
+  await mkdir(dirname(LINKS_FILE), { recursive: true });
+  await writeFile(LINKS_FILE, JSON.stringify(merged, null, 2) + "\n", "utf8");
+  console.log(`Cached ${freshEntries.length} links to ${LINKS_FILE} (${merged.length} total)`);
+}
+
+async function getRows(onlyYear) {
+  const cache = await loadLinksCache();
+  if (cache) {
+    const rows = onlyYear ? cache.filter((r) => r.year === onlyYear) : cache;
+    console.log(`Loaded ${rows.length} links from cache`);
+    return { rows, sources: [] };
+  }
+
+  console.log("No link cache found, fetching from Reddit...");
+  const toFetch = onlyYear ? SOURCES.filter((s) => s.year === onlyYear) : SOURCES;
+  const sources = await Promise.all(toFetch.map(fetchRowsForSource));
+  return { rows: sources.flatMap((s) => s.rows), sources };
+}
+
+async function main() {
+  const { year: onlyYear, cacheLinks } = parseArgs();
+
+  if (cacheLinks) {
+    await cacheLinksFromReddit(onlyYear);
+    return;
+  }
+
+  const startedAt = new Date().toISOString();
+
+  if (onlyYear && !SOURCES.some((s) => s.year === onlyYear)) {
     throw new Error(`No source configured for year ${onlyYear}`);
   }
 
   if (onlyYear) console.log(`Updating only ${onlyYear} polls...`);
 
-  const sources = await Promise.all(activeSources.map(fetchRowsForSource));
-  const rows = sources.flatMap((source) => source.rows);
+  const { rows, sources } = await getRows(onlyYear);
   const failures = [];
 
   console.log(`Found ${rows.length} polls across ${sources.length} source post(s).`);
