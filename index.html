@@ -14,42 +14,51 @@
           <h1>Skin Poll Trends</h1>
         </div>
 
-        <label class="search">
-          <span>Search</span>
-          <input id="search" type="search" placeholder="Champion or skin" autocomplete="off" />
-        </label>
+        <details class="filter-panel" open>
+          <summary>
+            <span>Controls</span>
+            <strong>Hide</strong>
+          </summary>
 
-        <div class="controls">
-          <label>
-            <span>View</span>
-            <select id="year"></select>
-          </label>
+          <div class="filter-body">
+            <label class="search">
+              <span>Search</span>
+              <input id="search" type="search" placeholder="Champion or skin" autocomplete="off" />
+            </label>
 
-          <label>
-            <span>Sort by</span>
-            <select id="sort">
-              <option value="champion">Champion</option>
-              <option value="votes">Total votes</option>
-              <option value="winnerShare">Winner share</option>
-              <option value="margin">Closest race</option>
-              <option value="changes">Recent changes</option>
-              <option value="years">Years covered</option>
-              <option value="updated">Recent vote</option>
-            </select>
-          </label>
+            <div class="controls">
+              <label>
+                <span>View</span>
+                <select id="year"></select>
+              </label>
 
-          <label>
-            <span>Filter</span>
-            <select id="filter">
-              <option value="all">All champions</option>
-              <option value="changed">Changed winner</option>
-              <option value="stable">Stable winners</option>
-              <option value="landslides">Landslides</option>
-              <option value="close">Close races</option>
-              <option value="low">Under 25 votes</option>
-            </select>
-          </label>
-        </div>
+              <label>
+                <span>Sort by</span>
+                <select id="sort">
+                  <option value="champion">Champion</option>
+                  <option value="votes">Total votes</option>
+                  <option value="winnerShare">Winner share</option>
+                  <option value="margin">Closest race</option>
+                  <option value="changes">Recent changes</option>
+                  <option value="years">Years covered</option>
+                  <option value="updated">Recent vote</option>
+                </select>
+              </label>
+
+              <label>
+                <span>Filter</span>
+                <select id="filter">
+                  <option value="all">All champions</option>
+                  <option value="changed">Changed winner</option>
+                  <option value="stable">Stable winners</option>
+                  <option value="landslides">Landslides</option>
+                  <option value="close">Close races</option>
+                  <option value="low">Under 25 votes</option>
+                </select>
+              </label>
+            </div>
+          </div>
+        </details>
 
         <div id="summary" class="summary"></div>
         <nav id="championList" class="champion-list" aria-label="Champions"></nav>

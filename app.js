@@ -208,7 +208,7 @@ function renderList(champions) {
         }" type="button" data-champion="${champion}">
           <span>
             <strong>${champion}</strong>
-            <small>${poll?.winner ? skinLabel(poll.winner) : poll?.error ?? "No result"}${summary?.changedFromPrevious ? " - changed" : ""}</small>
+            <small>${poll?.winner ? skinLabel(poll.winner) : poll?.error ?? "No result"}</small>
           </span>
           <span class="vote-pill ${selectedYear() === "all" ? "" : badgeClass}">${selectedYear() === "all" ? years : formatter.format(poll?.totalVotes ?? 0)}</span>
         </button>
