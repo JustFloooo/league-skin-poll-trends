@@ -26,7 +26,7 @@ function normalizeKey(name) {
     .replace(/\s+/g, " ");
 }
 
-function splashUrl(path) {
+function cdnUrl(path) {
   if (!path) return null;
   return "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/" +
     path.replace("/lol-game-data/assets/", "").toLowerCase();
@@ -34,44 +34,41 @@ function splashUrl(path) {
 
 async function main() {
   console.log("Fetching CommunityDragon skins...");
-  const res = await fetch(`${CDRAGON}/skins.json`);
-  const raw = await res.json();
+  const raw = await fetch(`${CDRAGON}/skins.json`).then((r) => r.json());
 
   console.log("Fetching champion list...");
-  const champRes = await fetch(`${CDRAGON}/champion-summary.json`);
-  const champs = await champRes.json();
+  const champs = await fetch(`${CDRAGON}/champion-summary.json`).then((r) => r.json());
   const champById = new Map(champs.map((c) => [c.id, c.name]));
+
+  console.log("Fetching skin lines...");
+  const lines = await fetch(`${CDRAGON}/skinlines.json`).then((r) => r.json());
+  const lineById = new Map(lines.map((l) => [l.id, l.name]));
 
   const skins = {};
   for (const skin of Object.values(raw)) {
-    if (skin.isBase) {
-      const champId = Math.floor(skin.id / 1000);
-      const champion = champById.get(champId) ?? null;
-      if (champion) {
-        skins["original " + normalizeKey(champion)] = {
-          name: skin.name,
-          champion,
-          rarity: null,
-          isLegacy: false,
-          splash: splashUrl(skin.uncenteredSplashPath),
-          tile: splashUrl(skin.tilePath),
-        };
-      }
-      continue;
-    }
-    const rarity = RARITY_MAP[skin.rarity] ?? null;
     const champId = Math.floor(skin.id / 1000);
     const champion = champById.get(champId) ?? null;
-    const fullKey = normalizeKey(skin.name);
+    const rarity = RARITY_MAP[skin.rarity] ?? null;
+    const skinLine = skin.skinLines?.[0]?.id ? lineById.get(skin.skinLines[0].id) ?? null : null;
+
     const entry = {
       name: skin.name,
       champion,
       rarity,
       isLegacy: skin.isLegacy || false,
-      splash: splashUrl(skin.uncenteredSplashPath),
-      tile: splashUrl(skin.tilePath),
+      splash: cdnUrl(skin.uncenteredSplashPath),
+      splashCentered: cdnUrl(skin.splashPath),
+      tile: cdnUrl(skin.tilePath),
+      description: skin.description || null,
+      skinLine,
+      chromas: skin.chromas?.length ?? 0,
     };
-    skins[fullKey] = entry;
+
+    if (skin.isBase) {
+      if (champion) skins["original " + normalizeKey(champion)] = entry;
+    } else {
+      skins[normalizeKey(skin.name)] = entry;
+    }
   }
 
   await mkdir("data", { recursive: true });

@@ -7,7 +7,11 @@ function lookupSkin(option, champion) {
   const key = option.normalizedKey ?? "";
   const champ = (champion ?? "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
     .replace(/&/g, " and ").replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+/g, " ");
-  return skinDB[key + " " + champ] ?? skinDB[key] ?? null;
+  const withChamp = key + " " + champ;
+  // Handle year variants like "prestige blood moon 2022" -> "prestige blood moon aatrox 2022"
+  const yearMatch = key.match(/^(.+)\s(\d{4})$/);
+  const withChampYear = yearMatch ? yearMatch[1] + " " + champ + " " + yearMatch[2] : null;
+  return skinDB[withChamp] ?? skinDB[withChampYear] ?? skinDB[key] ?? null;
 }
 
 function rarityBadge(option, champion) {
@@ -463,7 +467,7 @@ function renderDetail(champion) {
     .map((option) => {
       const share = optionShare(option, poll);
       return `
-        <article class="option-card">
+        <article class="option-card" data-option-index="${option.rank - 1}" role="button" tabindex="0">
           ${option.imageUrl ? `<img src="${option.imageUrl}" alt="${skinLabel(option)}" loading="lazy" />` : '<div class="no-image small"></div>'}
           <div>
             <h3>${option.rank}. ${skinLabel(option)}</h3>
@@ -478,6 +482,11 @@ function renderDetail(champion) {
       `;
     })
     .join("");
+
+  els.options.querySelectorAll(".option-card").forEach((card) => {
+    const idx = Number(card.dataset.optionIndex);
+    card.addEventListener("click", () => openSkinModal(poll.options[idx], champion, poll));
+  });
 }
 
 function render() {
@@ -514,3 +523,56 @@ els.filter.addEventListener("change", (event) => {
 });
 
 render();
+
+
+const modal = document.getElementById("skinModal");
+const modalSplash = modal.querySelector(".skin-modal-splash");
+const modalBody = modal.querySelector(".skin-modal-body");
+
+function openSkinModal(option, champion, poll) {
+  const skin = lookupSkin(option, champion);
+  const img = skin?.splashCentered ?? skin?.splash ?? option.imageUrl;
+  modalSplash.src = img ?? "";
+  modalSplash.alt = skinLabel(option);
+  modalSplash.style.display = img ? "" : "none";
+
+  const tags = [];
+  if (skin?.rarity) tags.push(`<span class="modal-tag"><img src="assets/rarity/${skin.rarity}.png" alt="">${skin.rarity[0].toUpperCase() + skin.rarity.slice(1)}</span>`);
+  if (skin?.skinLine) tags.push(`<span class="modal-tag">${skin.skinLine}</span>`);
+  if (skin?.isLegacy) tags.push(`<span class="modal-tag">Legacy Vault</span>`);
+  if (skin?.chromas) tags.push(`<span class="modal-tag">${skin.chromas} chromas</span>`);
+  if (!skin?.rarity && option.normalizedKey === "original") tags.push(`<span class="modal-tag">Base Skin</span>`);
+
+  // Build trend across all years for this skin
+  const history = (byChampion.get(champion) ?? []).map((p) => {
+    const match = p.options.find((o) => o.normalizedKey === option.normalizedKey);
+    return match ? { year: p.year, votes: match.votes, total: p.totalVotes, rank: match.rank, count: p.options.length } : null;
+  }).filter(Boolean).sort((a, b) => b.year - a.year);
+
+  const trendRows = history.map((h) =>
+    `<div class="modal-trend-row">
+      <span>${h.year}</span>
+      <strong>#${h.rank}</strong>
+      <span>${formatter.format(h.votes)} votes</span>
+      <span>${percent.format(h.votes / h.total)}</span>
+    </div>`
+  ).join("");
+
+  modalBody.innerHTML = `
+    <h3>${skin?.name ?? skinLabel(option)}</h3>
+    ${tags.length ? `<div class="modal-meta">${tags.join("")}</div>` : ""}
+    ${skin?.description ? `<p class="modal-desc">${skin.description}</p>` : ""}
+    ${trendRows ? `<div class="modal-trend">${trendRows}</div>` : ""}
+  `;
+
+  modal.hidden = false;
+}
+
+function closeSkinModal() {
+  modal.hidden = true;
+  modalSplash.src = "";
+}
+
+modal.querySelector(".skin-modal-backdrop").addEventListener("click", closeSkinModal);
+modal.querySelector(".skin-modal-close").addEventListener("click", closeSkinModal);
+document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !modal.hidden) closeSkinModal(); });
