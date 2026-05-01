@@ -176,6 +176,7 @@ function visibleChampions() {
 
 function selectChampion(champion) {
   state.selectedChampion = champion;
+  if (window.innerWidth <= 880) document.getElementById("sidebarToggle").checked = true;
   render();
 }
 
