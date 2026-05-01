@@ -138,7 +138,6 @@ function matchesFilter(champion) {
   if (state.filter === "stable") return (summary?.consensusWins ?? 0) >= Math.min(3, summary?.yearCount ?? 0);
   if (state.filter === "landslides") return (poll?.winnerShare ?? 0) >= 0.45;
   if (state.filter === "close") return poll ? poll.marginShare <= 0.05 : false;
-  if (state.filter === "low") return poll ? poll.totalVotes < 25 : false;
   return true;
 }
 
@@ -192,10 +191,9 @@ function selectDetailYear(year) {
 }
 
 function renderYearSelect() {
-  els.year.innerHTML = [
-    `<option value="all">Trend</option>`,
-    ...data.years.map((year) => `<option value="${year}">${year}</option>`),
-  ].join("");
+  els.year.innerHTML = data.years
+    .map((year) => `<option value="${year}">${year}</option>`)
+    .join("");
   els.year.value = String(state.year);
 }
 
