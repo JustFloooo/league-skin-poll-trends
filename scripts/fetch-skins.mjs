@@ -44,7 +44,21 @@ async function main() {
 
   const skins = {};
   for (const skin of Object.values(raw)) {
-    if (skin.isBase) continue;
+    if (skin.isBase) {
+      const champId = Math.floor(skin.id / 1000);
+      const champion = champById.get(champId) ?? null;
+      if (champion) {
+        skins["original " + normalizeKey(champion)] = {
+          name: skin.name,
+          champion,
+          rarity: null,
+          isLegacy: false,
+          splash: splashUrl(skin.uncenteredSplashPath),
+          tile: splashUrl(skin.tilePath),
+        };
+      }
+      continue;
+    }
     const rarity = RARITY_MAP[skin.rarity] ?? null;
     const champId = Math.floor(skin.id / 1000);
     const champion = champById.get(champId) ?? null;

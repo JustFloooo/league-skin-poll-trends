@@ -1,4 +1,12 @@
 {
+  "original annie": {
+    "name": "Annie",
+    "champion": "Annie",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/base/images/annie_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/base/images/annie_splash_tile_0.jpg"
+  },
   "goth annie": {
     "name": "Goth Annie",
     "champion": "Annie",
@@ -143,6 +151,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/images/annie_splash_uncentered_59.skins_annie_skin59.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/images/annie_splash_tile_59.skins_annie_skin59.jpg"
   },
+  "original olaf": {
+    "name": "Olaf",
+    "champion": "Olaf",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/base/images/olaf_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/base/images/olaf_splash_tile_0.jpg"
+  },
   "forsaken olaf": {
     "name": "Forsaken Olaf",
     "champion": "Olaf",
@@ -231,6 +247,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin44/images/olaf_splash_uncentered_44.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin44/images/olaf_splash_tile_44.jpg"
   },
+  "original galio": {
+    "name": "Galio",
+    "champion": "Galio",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/base/images/galio_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/base/images/galio_splash_tile_0.jpg"
+  },
   "enchanted galio": {
     "name": "Enchanted Galio",
     "champion": "Galio",
@@ -310,6 +334,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/images/galio_splash_uncentered_40.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/images/galio_splash_tile_40.jpg"
+  },
+  "original twisted fate": {
+    "name": "Twisted Fate",
+    "champion": "Twisted Fate",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/base/images/twistedfate_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/base/images/twistedfate_splash_tile_0.jpg"
   },
   "pax twisted fate": {
     "name": "PAX Twisted Fate",
@@ -439,6 +471,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/images/twistedfate_splash_uncentered_45.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/images/twistedfate_splash_tile_45.jpg"
   },
+  "original xin zhao": {
+    "name": "Xin Zhao",
+    "champion": "Xin Zhao",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/base/images/xinzhaorework_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/base/images/xinzhaorework_splash_tile_0.jpg"
+  },
   "commando xin zhao": {
     "name": "Commando Xin Zhao",
     "champion": "Xin Zhao",
@@ -527,6 +567,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin47/images/xinzhao_splash_uncentered_47.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin47/images/xinzhao_splash_tile_47.jpg"
   },
+  "original urgot": {
+    "name": "Urgot",
+    "champion": "Urgot",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/base/images/urgot_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/base/images/urgot_splash_tile_0.jpg"
+  },
   "giant enemy crabgot": {
     "name": "Giant Enemy Crabgot",
     "champion": "Urgot",
@@ -582,6 +630,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin32/images/urgot_splash_uncentered_32.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin32/images/urgot_splash_tile_32.jpg"
+  },
+  "original leblanc": {
+    "name": "LeBlanc",
+    "champion": "LeBlanc",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/base/images/leblanc_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/base/images/leblanc_splash_tile_0.jpg"
   },
   "wicked leblanc": {
     "name": "Wicked LeBlanc",
@@ -686,6 +742,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_uncentered_55.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_tile_55.jpg"
+  },
+  "original vladimir": {
+    "name": "Vladimir",
+    "champion": "Vladimir",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/base/images/vladimir_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/base/images/vladimir_splash_tile_0.jpg"
   },
   "count vladimir": {
     "name": "Count Vladimir",
@@ -799,6 +863,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin49/images/vladimir_splash_uncentered_49.skins_vladimir_skin49.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin49/images/vladimir_splash_tile_49.skins_vladimir_skin49.jpg"
   },
+  "original fiddlesticks": {
+    "name": "Fiddlesticks",
+    "champion": "Fiddlesticks",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/base/images/fiddlesticks_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/base/images/fiddlesticks_splash_tile_0.jpg"
+  },
   "spectral fiddlesticks": {
     "name": "Spectral Fiddlesticks",
     "champion": "Fiddlesticks",
@@ -894,6 +966,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin46/images/fiddlesticks_splash_uncentered_46.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin46/images/fiddlesticks_splash_tile_46.jpg"
+  },
+  "original kayle": {
+    "name": "Kayle",
+    "champion": "Kayle",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/base/images/kayle_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/base/images/kayle_splash_tile_0.jpg"
   },
   "silver kayle": {
     "name": "Silver Kayle",
@@ -1030,6 +1110,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin78/images/kayle_splash_uncentered_78.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin78/images/kayle_splash_tile_78.jpg"
+  },
+  "original master yi": {
+    "name": "Master Yi",
+    "champion": "Master Yi",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/base/images/masteryi_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/base/images/masteryi_splash_tile_0.jpg"
   },
   "assassin master yi": {
     "name": "Assassin Master Yi",
@@ -1175,6 +1263,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_uncentered_116.skins_masteryi_skin116.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_tile_116.skins_masteryi_skin116.jpg"
   },
+  "original alistar": {
+    "name": "Alistar",
+    "champion": "Alistar",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/base/images/alistar_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/base/images/alistar_splash_tile_0.jpg"
+  },
   "black alistar": {
     "name": "Black Alistar",
     "champion": "Alistar",
@@ -1295,6 +1391,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin40/images/alistar_splash_uncentered_40.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin40/images/alistar_splash_tile_40.jpg"
   },
+  "original ryze": {
+    "name": "Ryze",
+    "champion": "Ryze",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/base/images/ryze_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/base/images/ryze_splash_tile_0.jpg"
+  },
   "young ryze": {
     "name": "Young Ryze",
     "champion": "Ryze",
@@ -1407,6 +1511,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin29/images/ryze_splash_uncentered_29.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin29/images/ryze_splash_tile_29.jpg"
   },
+  "original sion": {
+    "name": "Sion",
+    "champion": "Sion",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/base/images/sion_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/base/images/sion_splash_tile_0.jpg"
+  },
   "hextech sion": {
     "name": "Hextech Sion",
     "champion": "Sion",
@@ -1486,6 +1598,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/images/sion_splash_uncentered_49.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/images/sion_splash_tile_49.jpg"
+  },
+  "original sivir": {
+    "name": "Sivir",
+    "champion": "Sivir",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/base/images/sivir_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/base/images/sivir_splash_tile_0.jpg"
   },
   "warrior princess sivir": {
     "name": "Warrior Princess Sivir",
@@ -1639,6 +1759,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin72/images/sivir_splash_uncentered_72.skins_sivir_skin72.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin72/images/sivir_splash_tile_72.skins_sivir_skin72.jpg"
   },
+  "original soraka": {
+    "name": "Soraka",
+    "champion": "Soraka",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/base/images/soraka_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/base/images/soraka_splash_tile_0.jpg"
+  },
   "dryad soraka": {
     "name": "Dryad Soraka",
     "champion": "Soraka",
@@ -1775,6 +1903,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin53/images/soraka_splash_uncentered_53.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin53/images/soraka_splash_tile_53.jpg"
   },
+  "original teemo": {
+    "name": "Teemo",
+    "champion": "Teemo",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/base/images/teemo_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/base/images/teemo_splash_tile_0.jpg"
+  },
   "happy elf teemo": {
     "name": "Happy Elf Teemo",
     "champion": "Teemo",
@@ -1894,6 +2030,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin54/images/teemo_splash_uncentered_54.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin54/images/teemo_splash_tile_54.jpg"
+  },
+  "original tristana": {
+    "name": "Tristana",
+    "champion": "Tristana",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/base/images/tristana_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/base/images/tristana_splash_tile_0.jpg"
   },
   "riot girl tristana": {
     "name": "Riot Girl Tristana",
@@ -2023,6 +2167,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin70/images/tristana_splash_uncentered_70.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin70/images/tristana_splash_tile_70.jpg"
   },
+  "original warwick": {
+    "name": "Warwick",
+    "champion": "Warwick",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/base/images/warwick_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/base/images/warwick_splash_tile_0.jpg"
+  },
   "grey warwick": {
     "name": "Grey Warwick",
     "champion": "Warwick",
@@ -2151,6 +2303,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin58/images/warwick_splash_uncentered_58.skins_warwick_skin58.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin58/images/warwick_splash_tile_58.skins_warwick_skin58.jpg"
   },
+  "original nunu and willump": {
+    "name": "Nunu & Willump",
+    "champion": "Nunu & Willump",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/base/images/nunu_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/base/images/nunu_splash_tile_0.jpg"
+  },
   "sasquatch nunu and willump": {
     "name": "Sasquatch Nunu & Willump",
     "champion": "Nunu & Willump",
@@ -2246,6 +2406,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin44/images/nunu_splash_uncentered_44.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin44/images/nunu_splash_tile_44.jpg"
+  },
+  "original miss fortune": {
+    "name": "Miss Fortune",
+    "champion": "Miss Fortune",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/base/images/missfortune_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/base/images/missfortune_splash_tile_0.jpg"
   },
   "cowgirl miss fortune": {
     "name": "Cowgirl Miss Fortune",
@@ -2423,6 +2591,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin60/images/missfortune_splash_uncentered_60.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin60/images/missfortune_splash_tile_60.jpg"
   },
+  "original ashe": {
+    "name": "Ashe",
+    "champion": "Ashe",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/base/images/ashe_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/base/images/ashe_splash_tile_0.jpg"
+  },
   "freljord ashe": {
     "name": "Freljord Ashe",
     "champion": "Ashe",
@@ -2583,6 +2759,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_uncentered_84.skins_ashe_skin84.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_tile_84.skins_ashe_skin84.jpg"
   },
+  "original tryndamere": {
+    "name": "Tryndamere",
+    "champion": "Tryndamere",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/base/images/tryndamere_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/base/images/tryndamere_splash_tile_0.jpg"
+  },
   "highland tryndamere": {
     "name": "Highland Tryndamere",
     "champion": "Tryndamere",
@@ -2686,6 +2870,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin37/images/tryndamere_splash_uncentered_37.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin37/images/tryndamere_splash_tile_37.jpg"
+  },
+  "original jax": {
+    "name": "Jax",
+    "champion": "Jax",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/base/images/jax_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/base/images/jax_splash_tile_0.jpg"
   },
   "the mighty jax": {
     "name": "The Mighty Jax",
@@ -2814,6 +3006,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin33/images/jax_splash_uncentered_33.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin33/images/jax_splash_tile_33.jpg"
+  },
+  "original morgana": {
+    "name": "Morgana",
+    "champion": "Morgana",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/base/images/morgana_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/base/images/morgana_splash_tile_0.jpg"
   },
   "exiled morgana": {
     "name": "Exiled Morgana",
@@ -2951,6 +3151,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin81/images/morgana_splash_uncentered_81.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin81/images/morgana_splash_tile_81.jpg"
   },
+  "original zilean": {
+    "name": "Zilean",
+    "champion": "Zilean",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/base/images/zilean_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/base/images/zilean_splash_tile_0.jpg"
+  },
   "old saint zilean": {
     "name": "Old Saint Zilean",
     "champion": "Zilean",
@@ -3014,6 +3222,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin24/images/zilean_splash_uncentered_24.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin24/images/zilean_splash_tile_24.jpg"
+  },
+  "original singed": {
+    "name": "Singed",
+    "champion": "Singed",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/singed/skins/base/images/singed_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/singed/skins/base/images/singed_splash_tile_0.jpg"
   },
   "riot squad singed": {
     "name": "Riot Squad Singed",
@@ -3110,6 +3326,14 @@
     "isLegacy": true,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/singed/skins/skin28/images/singed_splash_uncentered_28.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/singed/skins/skin28/images/singed_splash_tile_28.jpg"
+  },
+  "original evelynn": {
+    "name": "Evelynn",
+    "champion": "Evelynn",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/base/images/evelynn_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/base/images/evelynn_splash_tile_0.jpg"
   },
   "shadow evelynn": {
     "name": "Shadow Evelynn",
@@ -3239,6 +3463,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin64/images/evelynn_splash_uncentered_64.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin64/images/evelynn_splash_tile_64.jpg"
   },
+  "original twitch": {
+    "name": "Twitch",
+    "champion": "Twitch",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twitch/skins/base/images/twitch_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twitch/skins/base/images/twitch_splash_tile_0.jpg"
+  },
   "kingpin twitch": {
     "name": "Kingpin Twitch",
     "champion": "Twitch",
@@ -3351,6 +3583,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twitch/skins/skin64/images/twitch_splash_uncentered_64.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twitch/skins/skin64/images/twitch_splash_tile_64.jpg"
   },
+  "original karthus": {
+    "name": "Karthus",
+    "champion": "Karthus",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/base/images/karthus_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/base/images/karthus_splash_tile_0.jpg"
+  },
   "phantom karthus": {
     "name": "Phantom Karthus",
     "champion": "Karthus",
@@ -3430,6 +3670,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin35/images/karthus_splash_uncentered_35.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin35/images/karthus_splash_tile_35.jpg"
+  },
+  "original cho gath": {
+    "name": "Cho'Gath",
+    "champion": "Cho'Gath",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/base/images/chogath_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/base/images/chogath_splash_tile_0.jpg"
   },
   "nightmare cho gath": {
     "name": "Nightmare Cho'Gath",
@@ -3518,6 +3766,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin41/images/chogath_splash_uncentered_41.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin41/images/chogath_splash_tile_41.jpg"
+  },
+  "original amumu": {
+    "name": "Amumu",
+    "champion": "Amumu",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/base/images/amumu_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/base/images/amumu_splash_tile_0.jpg"
   },
   "pharaoh amumu": {
     "name": "Pharaoh Amumu",
@@ -3631,6 +3887,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin53/images/amumu_splash_uncentered_53.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin53/images/amumu_splash_tile_53.jpg"
   },
+  "original rammus": {
+    "name": "Rammus",
+    "champion": "Rammus",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/base/images/rammus_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/base/images/rammus_splash_tile_0.jpg"
+  },
   "king rammus": {
     "name": "King Rammus",
     "champion": "Rammus",
@@ -3718,6 +3982,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin26/images/rammus_splash_uncentered_26.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin26/images/rammus_splash_tile_26.jpg"
+  },
+  "original anivia": {
+    "name": "Anivia",
+    "champion": "Anivia",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/base/images/anivia_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/base/images/anivia_splash_tile_0.jpg"
   },
   "team spirit anivia": {
     "name": "Team Spirit Anivia",
@@ -3814,6 +4086,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin46/images/anivia_splash_uncentered_46.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin46/images/anivia_splash_tile_46.jpg"
+  },
+  "original shaco": {
+    "name": "Shaco",
+    "champion": "Shaco",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/base/images/shaco_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/base/images/shaco_splash_tile_0.jpg"
   },
   "mad hatter shaco": {
     "name": "Mad Hatter Shaco",
@@ -3943,6 +4223,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/images/shaco_splash_uncentered_71.skins_shaco_skin71.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/images/shaco_splash_tile_71.skins_shaco_skin71.jpg"
   },
+  "original dr mundo": {
+    "name": "Dr. Mundo",
+    "champion": "Dr. Mundo",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/base/images/drmundo_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/base/images/drmundo_splash_tile_0.jpg"
+  },
   "toxic dr mundo": {
     "name": "Toxic Dr. Mundo",
     "champion": "Dr. Mundo",
@@ -4030,6 +4318,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin21/images/drmundo_splash_uncentered_21.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin21/images/drmundo_splash_tile_21.jpg"
+  },
+  "original sona": {
+    "name": "Sona",
+    "champion": "Sona",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/base/images/sona_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/base/images/sona_splash_tile_0.jpg"
   },
   "muse sona": {
     "name": "Muse Sona",
@@ -4159,6 +4455,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin75/images/sona_splash_uncentered_75.skins_sona_skin75.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin75/images/sona_splash_tile_75.skins_sona_skin75.jpg"
   },
+  "original kassadin": {
+    "name": "Kassadin",
+    "champion": "Kassadin",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/base/images/kassadin_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/base/images/kassadin_splash_tile_0.jpg"
+  },
   "festival kassadin": {
     "name": "Festival Kassadin",
     "champion": "Kassadin",
@@ -4230,6 +4534,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin24/images/kassadin_splash_uncentered_24.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin24/images/kassadin_splash_tile_24.jpg"
+  },
+  "original irelia": {
+    "name": "Irelia",
+    "champion": "Irelia",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/base/images/irelia_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/base/images/irelia_splash_tile_0.jpg"
   },
   "nightblade irelia": {
     "name": "Nightblade Irelia",
@@ -4350,6 +4662,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin55/images/irelia_splash_uncentered_55.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin55/images/irelia_splash_tile_55.jpg"
+  },
+  "original janna": {
+    "name": "Janna",
+    "champion": "Janna",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/base/images/janna_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/base/images/janna_splash_tile_0.jpg"
   },
   "tempest janna": {
     "name": "Tempest Janna",
@@ -4479,6 +4799,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin66/images/janna_splash_uncentered_66.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin66/images/janna_splash_tile_66.jpg"
   },
+  "original gangplank": {
+    "name": "Gangplank",
+    "champion": "Gangplank",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/base/images/gangplank_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/base/images/gangplank_splash_tile_0.jpg"
+  },
   "spooky gangplank": {
     "name": "Spooky Gangplank",
     "champion": "Gangplank",
@@ -4575,6 +4903,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin33/images/gangplank_splash_uncentered_33.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin33/images/gangplank_splash_tile_33.jpg"
   },
+  "original corki": {
+    "name": "Corki",
+    "champion": "Corki",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/corki/skins/base/images/corki_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/corki/skins/base/images/corki_splash_tile_0.jpg"
+  },
   "ufo corki": {
     "name": "UFO Corki",
     "champion": "Corki",
@@ -4662,6 +4998,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/corki/skins/skin36/images/corki_splash_uncentered_36.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/corki/skins/skin36/images/corki_splash_tile_36.jpg"
+  },
+  "original karma": {
+    "name": "Karma",
+    "champion": "Karma",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/base/images/karma_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/base/images/karma_splash_tile_0.jpg"
   },
   "sun goddess karma": {
     "name": "Sun Goddess Karma",
@@ -4783,6 +5127,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin70/images/karma_splash_uncentered_70.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin70/images/karma_splash_tile_70.jpg"
   },
+  "original taric": {
+    "name": "Taric",
+    "champion": "Taric",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/base/images/taric_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/base/images/taric_splash_tile_0.jpg"
+  },
   "emerald taric": {
     "name": "Emerald Taric",
     "champion": "Taric",
@@ -4838,6 +5190,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin27/images/taric_splash_uncentered_27.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin27/images/taric_splash_tile_27.jpg"
+  },
+  "original veigar": {
+    "name": "Veigar",
+    "champion": "Veigar",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/base/images/veigar_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/base/images/veigar_splash_tile_0.jpg"
   },
   "white mage veigar": {
     "name": "White Mage Veigar",
@@ -4959,6 +5319,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin60/images/veigar_splash_uncentered_60.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin60/images/veigar_splash_tile_60.jpg"
   },
+  "original trundle": {
+    "name": "Trundle",
+    "champion": "Trundle",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/base/images/trundle_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/base/images/trundle_splash_tile_0.jpg"
+  },
   "lil slugger trundle": {
     "name": "Lil' Slugger Trundle",
     "champion": "Trundle",
@@ -5022,6 +5390,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin21/images/trundle_splash_uncentered_21.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin21/images/trundle_splash_tile_21.jpg"
+  },
+  "original swain": {
+    "name": "Swain",
+    "champion": "Swain",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/base/images/swain_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/base/images/swain_splash_tile_0.jpg"
   },
   "northern front swain": {
     "name": "Northern Front Swain",
@@ -5102,6 +5478,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin42/images/swain_splash_uncentered_42.skins_swain_skin42.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin42/images/swain_splash_tile_42.skins_swain_skin42.jpg"
+  },
+  "original caitlyn": {
+    "name": "Caitlyn",
+    "champion": "Caitlyn",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/base/images/caitlyn_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/base/images/caitlyn_splash_tile_0.jpg"
   },
   "resistance caitlyn": {
     "name": "Resistance Caitlyn",
@@ -5263,6 +5647,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin54/images/caitlyn_splash_uncentered_54.skins_caitlyn_skin54.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin54/images/caitlyn_splash_tile_54.skins_caitlyn_skin54.jpg"
   },
+  "original blitzcrank": {
+    "name": "Blitzcrank",
+    "champion": "Blitzcrank",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/base/images/blitzcrank_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/base/images/blitzcrank_splash_tile_0.jpg"
+  },
   "rusty blitzcrank": {
     "name": "Rusty Blitzcrank",
     "champion": "Blitzcrank",
@@ -5391,6 +5783,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin66/images/blitzcrank_splash_uncentered_66.skins_blitzcrank_skin66.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin66/images/blitzcrank_splash_tile_66.skins_blitzcrank_skin66.jpg"
   },
+  "original malphite": {
+    "name": "Malphite",
+    "champion": "Malphite",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/base/images/malphite_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/base/images/malphite_splash_tile_0.jpg"
+  },
   "shamrock malphite": {
     "name": "Shamrock Malphite",
     "champion": "Malphite",
@@ -5502,6 +5902,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin48/images/malphite_splash_uncentered_48.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin48/images/malphite_splash_tile_48.jpg"
+  },
+  "original katarina": {
+    "name": "Katarina",
+    "champion": "Katarina",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/base/images/katarina_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/base/images/katarina_splash_tile_0.jpg"
   },
   "mercenary katarina": {
     "name": "Mercenary Katarina",
@@ -5655,6 +6063,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/skin70/images/katarina_splash_uncentered_70.skins_katarina_skin70.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/skin70/images/katarina_splash_tile_70.skins_katarina_skin70.jpg"
   },
+  "original nocturne": {
+    "name": "Nocturne",
+    "champion": "Nocturne",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/base/images/nocturne_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/base/images/nocturne_splash_tile_0.jpg"
+  },
   "frozen terror nocturne": {
     "name": "Frozen Terror Nocturne",
     "champion": "Nocturne",
@@ -5734,6 +6150,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin26/images/nocturne_splash_uncentered_26.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin26/images/nocturne_splash_tile_26.jpg"
+  },
+  "original maokai": {
+    "name": "Maokai",
+    "champion": "Maokai",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/base/images/maokai_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/base/images/maokai_splash_tile_0.jpg"
   },
   "charred maokai": {
     "name": "Charred Maokai",
@@ -5822,6 +6246,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin35/images/maokai_splash_uncentered_35.skins_maokai_skin35.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin35/images/maokai_splash_tile_35.skins_maokai_skin35.jpg"
+  },
+  "original renekton": {
+    "name": "Renekton",
+    "champion": "Renekton",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/base/images/renekton_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/base/images/renekton_splash_tile_0.jpg"
   },
   "galactic renekton": {
     "name": "Galactic Renekton",
@@ -5943,6 +6375,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin48/images/renekton_splash_uncentered_48.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin48/images/renekton_splash_tile_48.jpg"
   },
+  "original jarvan iv": {
+    "name": "Jarvan IV",
+    "champion": "Jarvan IV",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/base/images/jarvaniv_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/base/images/jarvaniv_splash_tile_0.jpg"
+  },
   "commando jarvan iv": {
     "name": "Commando Jarvan IV",
     "champion": "Jarvan IV",
@@ -6063,6 +6503,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin54/images/jarvaniv_splash_uncentered_54.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin54/images/jarvaniv_splash_tile_54.jpg"
   },
+  "original elise": {
+    "name": "Elise",
+    "champion": "Elise",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/base/images/elise_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/base/images/elise_splash_tile_0.jpg"
+  },
   "death blossom elise": {
     "name": "Death Blossom Elise",
     "champion": "Elise",
@@ -6134,6 +6582,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin34/images/elise_splash_uncentered_34.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin34/images/elise_splash_tile_34.jpg"
+  },
+  "original orianna": {
+    "name": "Orianna",
+    "champion": "Orianna",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/base/images/orianna_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/base/images/orianna_splash_tile_0.jpg"
   },
   "gothic orianna": {
     "name": "Gothic Orianna",
@@ -6231,6 +6687,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin38/images/orianna_splash_uncentered_38.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin38/images/orianna_splash_tile_38.jpg"
   },
+  "original wukong": {
+    "name": "Wukong",
+    "champion": "Wukong",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/base/images/monkeyking_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/base/images/monkeyking_splash_tile_0.jpg"
+  },
   "volcanic wukong": {
     "name": "Volcanic Wukong",
     "champion": "Wukong",
@@ -6302,6 +6766,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin26/images/monkeyking_splash_uncentered_26.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin26/images/monkeyking_splash_tile_26.jpg"
+  },
+  "original brand": {
+    "name": "Brand",
+    "champion": "Brand",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/base/images/brand_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/base/images/brand_splash_tile_0.jpg"
   },
   "apocalyptic brand": {
     "name": "Apocalyptic Brand",
@@ -6398,6 +6870,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin42/images/brand_splash_uncentered_42.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin42/images/brand_splash_tile_42.jpg"
+  },
+  "original lee sin": {
+    "name": "Lee Sin",
+    "champion": "Lee Sin",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/base/images/leesin_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/base/images/leesin_splash_tile_0.jpg"
   },
   "traditional lee sin": {
     "name": "Traditional Lee Sin",
@@ -6551,6 +7031,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin72/images/leesin_splash_uncentered_72.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin72/images/leesin_splash_tile_72.jpg"
   },
+  "original vayne": {
+    "name": "Vayne",
+    "champion": "Vayne",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/base/images/vayne_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/base/images/vayne_splash_tile_0.jpg"
+  },
   "vindicator vayne": {
     "name": "Vindicator Vayne",
     "champion": "Vayne",
@@ -6703,6 +7191,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/images/vayne_splash_uncentered_67.skins_vayne_skin67.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/images/vayne_splash_tile_67.skins_vayne_skin67.jpg"
   },
+  "original rumble": {
+    "name": "Rumble",
+    "champion": "Rumble",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rumble/skins/base/images/rumble_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rumble/skins/base/images/rumble_splash_tile_0.jpg"
+  },
   "rumble in the jungle": {
     "name": "Rumble in the Jungle",
     "champion": "Rumble",
@@ -6750,6 +7246,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rumble/skins/skin23/images/rumble_splash_uncentered_23.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rumble/skins/skin23/images/rumble_splash_tile_23.jpg"
+  },
+  "original cassiopeia": {
+    "name": "Cassiopeia",
+    "champion": "Cassiopeia",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/base/images/cassiopeia_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/base/images/cassiopeia_splash_tile_0.jpg"
   },
   "desperada cassiopeia": {
     "name": "Desperada Cassiopeia",
@@ -6823,6 +7327,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin38/images/cassiopeia_splash_uncentered_38.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin38/images/cassiopeia_splash_tile_38.jpg"
   },
+  "original skarner": {
+    "name": "Skarner",
+    "champion": "Skarner",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/base/images/skarner_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/base/images/skarner_splash_tile_0.jpg"
+  },
   "sandscourge skarner": {
     "name": "Sandscourge Skarner",
     "champion": "Skarner",
@@ -6870,6 +7382,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/skin14/images/skarner_splash_uncentered_14.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/skin14/images/skarner_splash_tile_14.jpg"
+  },
+  "original heimerdinger": {
+    "name": "Heimerdinger",
+    "champion": "Heimerdinger",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/base/images/heimerdinger_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/base/images/heimerdinger_splash_tile_0.jpg"
   },
   "alien invader heimerdinger": {
     "name": "Alien Invader Heimerdinger",
@@ -6942,6 +7462,14 @@
     "isLegacy": true,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/skin33/images/heimerdinger_splash_uncentered_33.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/skin33/images/heimerdinger_splash_tile_33.jpg"
+  },
+  "original nasus": {
+    "name": "Nasus",
+    "champion": "Nasus",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/base/images/nasus_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/base/images/nasus_splash_tile_0.jpg"
   },
   "galactic nasus": {
     "name": "Galactic Nasus",
@@ -7046,6 +7574,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin54/images/nasus_splash_uncentered_54.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin54/images/nasus_splash_tile_54.jpg"
+  },
+  "original nidalee": {
+    "name": "Nidalee",
+    "champion": "Nidalee",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/base/images/nidalee_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/base/images/nidalee_splash_tile_0.jpg"
   },
   "snow bunny nidalee": {
     "name": "Snow Bunny Nidalee",
@@ -7175,6 +7711,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin58/images/nidalee_splash_uncentered_58.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin58/images/nidalee_splash_tile_58.jpg"
   },
+  "original udyr": {
+    "name": "Udyr",
+    "champion": "Udyr",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/udyr/skins/base/images/udyr_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/udyr/skins/base/images/udyr_splash_tile_0.jpg"
+  },
   "black belt udyr": {
     "name": "Black Belt Udyr",
     "champion": "Udyr",
@@ -7222,6 +7766,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/udyr/skins/skin06/images/udyr_splash_uncentered_6.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/udyr/skins/skin06/images/udyr_splash_tile_6.jpg"
+  },
+  "original poppy": {
+    "name": "Poppy",
+    "champion": "Poppy",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/base/images/poppy_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/base/images/poppy_splash_tile_0.jpg"
   },
   "noxus poppy": {
     "name": "Noxus Poppy",
@@ -7326,6 +7878,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin42/images/poppy_splash_uncentered_42.skins_poppy_skin42.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin42/images/poppy_splash_tile_42.skins_poppy_skin42.jpg"
+  },
+  "original gragas": {
+    "name": "Gragas",
+    "champion": "Gragas",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/base/images/gragas_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/base/images/gragas_splash_tile_0.jpg"
   },
   "scuba gragas": {
     "name": "Scuba Gragas",
@@ -7439,6 +7999,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin39/images/gragas_splash_uncentered_39.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin39/images/gragas_splash_tile_39.jpg"
   },
+  "original pantheon": {
+    "name": "Pantheon",
+    "champion": "Pantheon",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/base/images/pantheon_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/base/images/pantheon_splash_tile_0.jpg"
+  },
   "myrmidon pantheon": {
     "name": "Myrmidon Pantheon",
     "champion": "Pantheon",
@@ -7542,6 +8110,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin38/images/pantheon_splash_uncentered_38.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin38/images/pantheon_splash_tile_38.jpg"
+  },
+  "original ezreal": {
+    "name": "Ezreal",
+    "champion": "Ezreal",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/base/images/ezreal_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/base/images/ezreal_splash_tile_0.jpg"
   },
   "nottingham ezreal": {
     "name": "Nottingham Ezreal",
@@ -7711,6 +8287,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin65/images/ezreal_splash_uncentered_65.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin65/images/ezreal_splash_tile_65.jpg"
   },
+  "original mordekaiser": {
+    "name": "Mordekaiser",
+    "champion": "Mordekaiser",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/base/images/mordekaiser_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/base/images/mordekaiser_splash_tile_0.jpg"
+  },
   "dragon knight mordekaiser": {
     "name": "Dragon Knight Mordekaiser",
     "champion": "Mordekaiser",
@@ -7815,6 +8399,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin55/images/mordekaiser_splash_uncentered_55.skins_mordekaiser_skin55.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin55/images/mordekaiser_splash_tile_55.skins_mordekaiser_skin55.jpg"
   },
+  "original yorick": {
+    "name": "Yorick",
+    "champion": "Yorick",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/base/images/yorick_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/base/images/yorick_splash_tile_0.jpg"
+  },
   "undertaker yorick": {
     "name": "Undertaker Yorick",
     "champion": "Yorick",
@@ -7886,6 +8478,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin50/images/yorick_splash_uncentered_50.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin50/images/yorick_splash_tile_50.jpg"
+  },
+  "original akali": {
+    "name": "Akali",
+    "champion": "Akali",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/base/images/akali_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/base/images/akali_splash_tile_0.jpg"
   },
   "stinger akali": {
     "name": "Stinger Akali",
@@ -8055,6 +8655,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin92/images/akali_splash_uncentered_92.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin92/images/akali_splash_tile_92.jpg"
   },
+  "original kennen": {
+    "name": "Kennen",
+    "champion": "Kennen",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kennen/skins/base/images/kennen_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kennen/skins/base/images/kennen_splash_tile_0.jpg"
+  },
   "deadly kennen": {
     "name": "Deadly Kennen",
     "champion": "Kennen",
@@ -8134,6 +8742,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kennen/skins/skin25/images/kennen_splash_uncentered_25.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kennen/skins/skin25/images/kennen_splash_tile_25.jpg"
+  },
+  "original garen": {
+    "name": "Garen",
+    "champion": "Garen",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/base/images/garen_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/base/images/garen_splash_tile_0.jpg"
   },
   "sanguine garen": {
     "name": "Sanguine Garen",
@@ -8262,6 +8878,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin46/images/garen_splash_uncentered_46.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin46/images/garen_splash_tile_46.jpg"
+  },
+  "original leona": {
+    "name": "Leona",
+    "champion": "Leona",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/base/images/leona_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/base/images/leona_splash_tile_0.jpg"
   },
   "valkyrie leona": {
     "name": "Valkyrie Leona",
@@ -8399,6 +9023,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin53/images/leona_splash_uncentered_53.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin53/images/leona_splash_tile_53.jpg"
   },
+  "original malzahar": {
+    "name": "Malzahar",
+    "champion": "Malzahar",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/base/images/malzahar_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/base/images/malzahar_splash_tile_0.jpg"
+  },
   "vizier malzahar": {
     "name": "Vizier Malzahar",
     "champion": "Malzahar",
@@ -8503,6 +9135,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin49/images/malzahar_splash_uncentered_49.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin49/images/malzahar_splash_tile_49.jpg"
   },
+  "original talon": {
+    "name": "Talon",
+    "champion": "Talon",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/base/images/talon_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/base/images/talon_splash_tile_0.jpg"
+  },
   "renegade talon": {
     "name": "Renegade Talon",
     "champion": "Talon",
@@ -8598,6 +9238,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin59/images/talon_splash_uncentered_59.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin59/images/talon_splash_tile_59.jpg"
+  },
+  "original riven": {
+    "name": "Riven",
+    "champion": "Riven",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/base/images/riven_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/base/images/riven_splash_tile_0.jpg"
   },
   "redeemed riven": {
     "name": "Redeemed Riven",
@@ -8735,6 +9383,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin63/images/riven_splash_uncentered_63.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin63/images/riven_splash_tile_63.jpg"
   },
+  "original kog maw": {
+    "name": "Kog'Maw",
+    "champion": "Kog'Maw",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/base/images/kogmaw_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/base/images/kogmaw_splash_tile_0.jpg"
+  },
   "caterpillar kog maw": {
     "name": "Caterpillar Kog'Maw",
     "champion": "Kog'Maw",
@@ -8855,6 +9511,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin55/images/kogmaw_splash_uncentered_55.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin55/images/kogmaw_splash_tile_55.jpg"
   },
+  "original shen": {
+    "name": "Shen",
+    "champion": "Shen",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/base/images/shen_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/base/images/shen_splash_tile_0.jpg"
+  },
   "frozen shen": {
     "name": "Frozen Shen",
     "champion": "Shen",
@@ -8950,6 +9614,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/skin51/images/shen_splash_uncentered_51.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/skin51/images/shen_splash_tile_51.jpg"
+  },
+  "original lux": {
+    "name": "Lux",
+    "champion": "Lux",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/base/images/lux_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/base/images/lux_splash_tile_0.jpg"
   },
   "sorceress lux": {
     "name": "Sorceress Lux",
@@ -9127,6 +9799,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin72/images/lux_splash_uncentered_72.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin72/images/lux_splash_tile_72.jpg"
   },
+  "original xerath": {
+    "name": "Xerath",
+    "champion": "Xerath",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xerath/skins/base/images/xerath_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xerath/skins/base/images/xerath_splash_tile_0.jpg"
+  },
   "runeborn xerath": {
     "name": "Runeborn Xerath",
     "champion": "Xerath",
@@ -9199,6 +9879,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xerath/skins/skin32/images/xerath_splash_uncentered_32.skins_xerath_skin32.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xerath/skins/skin32/images/xerath_splash_tile_32.skins_xerath_skin32.jpg"
   },
+  "original shyvana": {
+    "name": "Shyvana",
+    "champion": "Shyvana",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/base/images/shyvana_splash_uncentered_0.shyvana_rework.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/base/images/shyvana_splash_tile_0.shyvana_rework.jpg"
+  },
   "shyvana ironscale": {
     "name": "Shyvana Ironscale",
     "champion": "Shyvana",
@@ -9262,6 +9950,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin17/images/shyvana_splash_uncentered_17.shyvana_rework.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin17/images/shyvana_splash_tile_17.shyvana_rework.jpg"
+  },
+  "original ahri": {
+    "name": "Ahri",
+    "champion": "Ahri",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/base/images/ahri_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/base/images/ahri_splash_tile_0.jpg"
   },
   "dynasty ahri": {
     "name": "Dynasty Ahri",
@@ -9423,6 +10119,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin89/images/ahri_splash_uncentered_89.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin89/images/ahri_splash_tile_89.jpg"
   },
+  "original graves": {
+    "name": "Graves",
+    "champion": "Graves",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/base/images/graves_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/base/images/graves_splash_tile_0.jpg"
+  },
   "hired gun graves": {
     "name": "Hired Gun Graves",
     "champion": "Graves",
@@ -9526,6 +10230,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin45/images/graves_splash_uncentered_45.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin45/images/graves_splash_tile_45.jpg"
+  },
+  "original fizz": {
+    "name": "Fizz",
+    "champion": "Fizz",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/base/images/fizz_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/base/images/fizz_splash_tile_0.jpg"
   },
   "atlantean fizz": {
     "name": "Atlantean Fizz",
@@ -9631,6 +10343,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin35/images/fizz_splash_uncentered_35.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin35/images/fizz_splash_tile_35.jpg"
   },
+  "original volibear": {
+    "name": "Volibear",
+    "champion": "Volibear",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/base/images/volibear_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/base/images/volibear_splash_tile_0.jpg"
+  },
   "thunder lord volibear": {
     "name": "Thunder Lord Volibear",
     "champion": "Volibear",
@@ -9711,6 +10431,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/skin29/images/volibear_splash_uncentered_29.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/skin29/images/volibear_splash_tile_29.jpg"
   },
+  "original rengar": {
+    "name": "Rengar",
+    "champion": "Rengar",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/base/images/rengar_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/base/images/rengar_splash_tile_0.jpg"
+  },
   "headhunter rengar": {
     "name": "Headhunter Rengar",
     "champion": "Rengar",
@@ -9774,6 +10502,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin40/images/rengar_splash_uncentered_40.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin40/images/rengar_splash_tile_40.jpg"
+  },
+  "original varus": {
+    "name": "Varus",
+    "champion": "Varus",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/base/images/varus_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/base/images/varus_splash_tile_0.jpg"
   },
   "blight crystal varus": {
     "name": "Blight Crystal Varus",
@@ -9895,6 +10631,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin69/images/varus_splash_uncentered_69.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin69/images/varus_splash_tile_69.jpg"
   },
+  "original nautilus": {
+    "name": "Nautilus",
+    "champion": "Nautilus",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/base/images/nautilus_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/base/images/nautilus_splash_tile_0.jpg"
+  },
   "abyssal nautilus": {
     "name": "Abyssal Nautilus",
     "champion": "Nautilus",
@@ -9983,6 +10727,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/skin39/images/nautilus_splash_uncentered_39.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/skin39/images/nautilus_splash_tile_39.jpg"
   },
+  "original viktor": {
+    "name": "Viktor",
+    "champion": "Viktor",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viktor/skins/base/images/viktor_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viktor/skins/base/images/viktor_splash_tile_0.jpg"
+  },
   "full machine viktor": {
     "name": "Full Machine Viktor",
     "champion": "Viktor",
@@ -10046,6 +10798,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viktor/skins/skin25/images/viktor_splash_uncentered_25.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viktor/skins/skin25/images/viktor_splash_tile_25.jpg"
+  },
+  "original sejuani": {
+    "name": "Sejuani",
+    "champion": "Sejuani",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/base/images/sejuani_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/base/images/sejuani_splash_tile_0.jpg"
   },
   "sabretusk sejuani": {
     "name": "Sabretusk Sejuani",
@@ -10150,6 +10910,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin48/images/sejuani_splash_uncentered_48.skins_sejuani_skin48.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin48/images/sejuani_splash_tile_48.skins_sejuani_skin48.jpg"
+  },
+  "original fiora": {
+    "name": "Fiora",
+    "champion": "Fiora",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/base/images/fiora_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/base/images/fiora_splash_tile_0.jpg"
   },
   "royal guard fiora": {
     "name": "Royal Guard Fiora",
@@ -10279,6 +11047,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin98/images/fiora_splash_uncentered_98.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiora/skins/skin98/images/fiora_splash_tile_98.jpg"
   },
+  "original ziggs": {
+    "name": "Ziggs",
+    "champion": "Ziggs",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/base/images/ziggs_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/base/images/ziggs_splash_tile_0.jpg"
+  },
   "mad scientist ziggs": {
     "name": "Mad Scientist Ziggs",
     "champion": "Ziggs",
@@ -10374,6 +11150,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin43/images/ziggs_splash_uncentered_43.skins_ziggs_skin43.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin43/images/ziggs_splash_tile_43.skins_ziggs_skin43.jpg"
+  },
+  "original lulu": {
+    "name": "Lulu",
+    "champion": "Lulu",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/base/images/lulu_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/base/images/lulu_splash_tile_0.jpg"
   },
   "bittersweet lulu": {
     "name": "Bittersweet Lulu",
@@ -10478,6 +11262,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin55/images/lulu_splash_uncentered_55.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin55/images/lulu_splash_tile_55.jpg"
+  },
+  "original draven": {
+    "name": "Draven",
+    "champion": "Draven",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/base/images/draven_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/base/images/draven_splash_tile_0.jpg"
   },
   "soul reaver draven": {
     "name": "Soul Reaver Draven",
@@ -10591,6 +11383,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/images/draven_splash_uncentered_68.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/images/draven_splash_tile_68.jpg"
   },
+  "original hecarim": {
+    "name": "Hecarim",
+    "champion": "Hecarim",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/base/images/hecarim_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/base/images/hecarim_splash_tile_0.jpg"
+  },
   "blood knight hecarim": {
     "name": "Blood Knight Hecarim",
     "champion": "Hecarim",
@@ -10687,6 +11487,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin41/images/hecarim_splash_uncentered_41.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin41/images/hecarim_splash_tile_41.jpg"
   },
+  "original kha zix": {
+    "name": "Kha'Zix",
+    "champion": "Kha'Zix",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/khazix/skins/base/images/khazix_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/khazix/skins/base/images/khazix_splash_tile_0.jpg"
+  },
   "mecha kha zix": {
     "name": "Mecha Kha'Zix",
     "champion": "Kha'Zix",
@@ -10750,6 +11558,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/khazix/skins/skin79/images/khazix_splash_uncentered_79.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/khazix/skins/skin79/images/khazix_splash_tile_79.jpg"
+  },
+  "original darius": {
+    "name": "Darius",
+    "champion": "Darius",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/darius/skins/base/images/darius_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/darius/skins/base/images/darius_splash_tile_0.jpg"
   },
   "lord darius": {
     "name": "Lord Darius",
@@ -10871,6 +11687,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/darius/skins/skin67/images/darius_splash_uncentered_67.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/darius/skins/skin67/images/darius_splash_tile_67.jpg"
   },
+  "original jayce": {
+    "name": "Jayce",
+    "champion": "Jayce",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/base/images/jayce_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/base/images/jayce_splash_tile_0.jpg"
+  },
   "full metal jayce": {
     "name": "Full Metal Jayce",
     "champion": "Jayce",
@@ -10967,6 +11791,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin38/images/jayce_splash_uncentered_38.skins_jayce_skin38.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin38/images/jayce_splash_tile_38.skins_jayce_skin38.jpg"
   },
+  "original lissandra": {
+    "name": "Lissandra",
+    "champion": "Lissandra",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/base/images/lissandra_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/base/images/lissandra_splash_tile_0.jpg"
+  },
   "bloodstone lissandra": {
     "name": "Bloodstone Lissandra",
     "champion": "Lissandra",
@@ -11038,6 +11870,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin43/images/lissandra_splash_uncentered_43.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin43/images/lissandra_splash_tile_43.jpg"
+  },
+  "original diana": {
+    "name": "Diana",
+    "champion": "Diana",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/base/images/diana_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/base/images/diana_splash_tile_0.jpg"
   },
   "dark valkyrie diana": {
     "name": "Dark Valkyrie Diana",
@@ -11151,6 +11991,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin65/images/diana_splash_uncentered_65.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin65/images/diana_splash_tile_65.jpg"
   },
+  "original quinn": {
+    "name": "Quinn",
+    "champion": "Quinn",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/base/images/quinn_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/base/images/quinn_splash_tile_0.jpg"
+  },
   "phoenix quinn": {
     "name": "Phoenix Quinn",
     "champion": "Quinn",
@@ -11198,6 +12046,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin14/images/quinn_splash_uncentered_14.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin14/images/quinn_splash_tile_14.jpg"
+  },
+  "original syndra": {
+    "name": "Syndra",
+    "champion": "Syndra",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/base/images/syndra_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/base/images/syndra_splash_tile_0.jpg"
   },
   "justicar syndra": {
     "name": "Justicar Syndra",
@@ -11303,6 +12159,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin65/images/syndra_splash_uncentered_65.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin65/images/syndra_splash_tile_65.jpg"
   },
+  "original aurelion sol": {
+    "name": "Aurelion Sol",
+    "champion": "Aurelion Sol",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/base/images/aurelionsol_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/base/images/aurelionsol_splash_tile_0.jpg"
+  },
   "ashen lord aurelion sol": {
     "name": "Ashen Lord Aurelion Sol",
     "champion": "Aurelion Sol",
@@ -11350,6 +12214,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/images/aurelionsol_splash_uncentered_38.skins_aurelionsol_skin38.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/images/aurelionsol_splash_tile_38.skins_aurelionsol_skin38.jpg"
+  },
+  "original kayn": {
+    "name": "Kayn",
+    "champion": "Kayn",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/base/images/kayn_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/base/images/kayn_splash_tile_0.jpg"
   },
   "soulhunter kayn": {
     "name": "Soulhunter Kayn",
@@ -11406,6 +12278,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin26/images/kayn_splash_uncentered_26.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin26/images/kayn_splash_tile_26.jpg"
+  },
+  "original zoe": {
+    "name": "Zoe",
+    "champion": "Zoe",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/base/images/zoe_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/base/images/zoe_splash_tile_0.jpg"
   },
   "cyber pop zoe": {
     "name": "Cyber Pop Zoe",
@@ -11478,6 +12358,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin43/images/zoe_splash_uncentered_43.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin43/images/zoe_splash_tile_43.jpg"
+  },
+  "original zyra": {
+    "name": "Zyra",
+    "champion": "Zyra",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/base/images/zyra_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/base/images/zyra_splash_tile_0.jpg"
   },
   "wildfire zyra": {
     "name": "Wildfire Zyra",
@@ -11574,6 +12462,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/images/zyra_splash_uncentered_64.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/images/zyra_splash_tile_64.jpg"
+  },
+  "original kai sa": {
+    "name": "Kai'Sa",
+    "champion": "Kai'Sa",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/base/images/kaisa_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/base/images/kaisa_splash_tile_0.jpg"
   },
   "bullet angel kai sa": {
     "name": "Bullet Angel Kai'Sa",
@@ -11687,6 +12583,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin70/images/kaisa_splash_uncentered_70.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin70/images/kaisa_splash_tile_70.jpg"
   },
+  "original seraphine": {
+    "name": "Seraphine",
+    "champion": "Seraphine",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/base/images/seraphine_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/base/images/seraphine_splash_tile_0.jpg"
+  },
   "k da all out seraphine indie": {
     "name": "K/DA ALL OUT Seraphine Indie",
     "champion": "Seraphine",
@@ -11758,6 +12662,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin59/images/seraphine_splash_uncentered_59.skins_seraphine_skin59.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin59/images/seraphine_splash_tile_59.skins_seraphine_skin59.jpg"
+  },
+  "original gnar": {
+    "name": "Gnar",
+    "champion": "Gnar",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/base/images/gnar_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/base/images/gnar_splash_tile_0.jpg"
   },
   "dino gnar": {
     "name": "Dino Gnar",
@@ -11839,6 +12751,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin41/images/gnar_splash_uncentered_41.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin41/images/gnar_splash_tile_41.jpg"
   },
+  "original zac": {
+    "name": "Zac",
+    "champion": "Zac",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/base/images/zac_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/base/images/zac_splash_tile_0.jpg"
+  },
   "special weapon zac": {
     "name": "Special Weapon Zac",
     "champion": "Zac",
@@ -11894,6 +12814,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin33/images/zac_splash_uncentered_33.skins_zac_skin33.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin33/images/zac_splash_tile_33.skins_zac_skin33.jpg"
+  },
+  "original yasuo": {
+    "name": "Yasuo",
+    "champion": "Yasuo",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/base/images/yasuo_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/base/images/yasuo_splash_tile_0.jpg"
   },
   "high noon yasuo": {
     "name": "High Noon Yasuo",
@@ -12039,6 +12967,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/images/yasuo_splash_uncentered_88.skins_yasuo_skin88.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/images/yasuo_splash_tile_88.skins_yasuo_skin88.jpg"
   },
+  "original vel koz": {
+    "name": "Vel'Koz",
+    "champion": "Vel'Koz",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/base/images/velkoz_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/base/images/velkoz_splash_tile_0.jpg"
+  },
   "battlecast vel koz": {
     "name": "Battlecast Vel'Koz",
     "champion": "Vel'Koz",
@@ -12087,6 +13023,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin20/images/velkoz_splash_uncentered_20.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin20/images/velkoz_splash_tile_20.jpg"
   },
+  "original taliyah": {
+    "name": "Taliyah",
+    "champion": "Taliyah",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/base/images/taliyah_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/base/images/taliyah_splash_tile_0.jpg"
+  },
   "freljord taliyah": {
     "name": "Freljord Taliyah",
     "champion": "Taliyah",
@@ -12134,6 +13078,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/skin24/images/taliyah_splash_uncentered_24.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/skin24/images/taliyah_splash_tile_24.jpg"
+  },
+  "original camille": {
+    "name": "Camille",
+    "champion": "Camille",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/base/images/camille_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/base/images/camille_splash_tile_0.jpg"
   },
   "program camille": {
     "name": "Program Camille",
@@ -12199,6 +13151,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin44/images/camille_splash_uncentered_44.skins_camille_skin44.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin44/images/camille_splash_tile_44.skins_camille_skin44.jpg"
   },
+  "original akshan": {
+    "name": "Akshan",
+    "champion": "Akshan",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/base/images/akshan_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/base/images/akshan_splash_tile_0.jpg"
+  },
   "cyber pop akshan": {
     "name": "Cyber Pop Akshan",
     "champion": "Akshan",
@@ -12223,6 +13183,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin20/images/akshan_splash_uncentered_20.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin20/images/akshan_splash_tile_20.jpg"
   },
+  "original bel veth": {
+    "name": "Bel'Veth",
+    "champion": "Bel'Veth",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/belveth/skins/base/images/belveth_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/belveth/skins/base/images/belveth_splash_tile_0.jpg"
+  },
   "battle boss bel veth": {
     "name": "Battle Boss Bel'Veth",
     "champion": "Bel'Veth",
@@ -12246,6 +13214,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/belveth/skins/skin19/images/belveth_splash_uncentered_19.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/belveth/skins/skin19/images/belveth_splash_tile_19.jpg"
+  },
+  "original braum": {
+    "name": "Braum",
+    "champion": "Braum",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/base/images/braum_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/base/images/braum_splash_tile_0.jpg"
   },
   "dragonslayer braum": {
     "name": "Dragonslayer Braum",
@@ -12318,6 +13294,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/images/braum_splash_uncentered_51.skins_braum_skin51.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/images/braum_splash_tile_51.skins_braum_skin51.jpg"
+  },
+  "original jhin": {
+    "name": "Jhin",
+    "champion": "Jhin",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/base/images/jhin_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/base/images/jhin_splash_tile_0.jpg"
   },
   "high noon jhin": {
     "name": "High Noon Jhin",
@@ -12415,6 +13399,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin55/images/jhin_splash_uncentered_55.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin55/images/jhin_splash_tile_55.jpg"
   },
+  "original kindred": {
+    "name": "Kindred",
+    "champion": "Kindred",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/base/images/kindred_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/base/images/kindred_splash_tile_0.jpg"
+  },
   "shadowfire kindred": {
     "name": "Shadowfire Kindred",
     "champion": "Kindred",
@@ -12487,6 +13479,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/images/kindred_splash_uncentered_45.skins_kindred_skin45.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/images/kindred_splash_tile_45.skins_kindred_skin45.jpg"
   },
+  "original zeri": {
+    "name": "Zeri",
+    "champion": "Zeri",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/base/images/zeri_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/base/images/zeri_splash_tile_0.jpg"
+  },
   "withered rose zeri": {
     "name": "Withered Rose Zeri",
     "champion": "Zeri",
@@ -12534,6 +13534,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin40/images/zeri_splash_uncentered_40.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin40/images/zeri_splash_tile_40.jpg"
+  },
+  "original jinx": {
+    "name": "Jinx",
+    "champion": "Jinx",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/base/images/jinx_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/base/images/jinx_splash_tile_0.jpg"
   },
   "crime city jinx": {
     "name": "Crime City Jinx",
@@ -12647,6 +13655,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin62/images/jinx_splash_uncentered_62.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin62/images/jinx_splash_tile_62.jpg"
   },
+  "original tahm kench": {
+    "name": "Tahm Kench",
+    "champion": "Tahm Kench",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tahmkench/skins/base/images/tahmkench_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tahmkench/skins/base/images/tahmkench_splash_tile_0.jpg"
+  },
   "master chef tahm kench": {
     "name": "Master Chef Tahm Kench",
     "champion": "Tahm Kench",
@@ -12703,6 +13719,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tahmkench/skins/skin39/images/tahmkench_splash_uncentered_39.skins_tahmkench_skin39.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tahmkench/skins/skin39/images/tahmkench_splash_tile_39.skins_tahmkench_skin39.jpg"
   },
+  "original briar": {
+    "name": "Briar",
+    "champion": "Briar",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/base/images/briar_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/base/images/briar_splash_tile_0.jpg"
+  },
   "street demons briar": {
     "name": "Street Demons Briar",
     "champion": "Briar",
@@ -12726,6 +13750,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin20/images/briar_splash_uncentered_20.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin20/images/briar_splash_tile_20.jpg"
+  },
+  "original viego": {
+    "name": "Viego",
+    "champion": "Viego",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/base/images/viego_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/base/images/viego_splash_tile_0.jpg"
   },
   "lunar beast viego": {
     "name": "Lunar Beast Viego",
@@ -12782,6 +13814,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin43/images/viego_splash_uncentered_43.skins_viego_skin43.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin43/images/viego_splash_tile_43.skins_viego_skin43.jpg"
+  },
+  "original senna": {
+    "name": "Senna",
+    "champion": "Senna",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/base/images/senna_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/base/images/senna_splash_tile_0.jpg"
   },
   "true damage senna": {
     "name": "True Damage Senna",
@@ -12870,6 +13910,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin72/images/senna_splash_uncentered_72.skins_senna_skin72.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin72/images/senna_splash_tile_72.skins_senna_skin72.jpg"
+  },
+  "original lucian": {
+    "name": "Lucian",
+    "champion": "Lucian",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/base/images/lucian_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/base/images/lucian_splash_tile_0.jpg"
   },
   "hired gun lucian": {
     "name": "Hired Gun Lucian",
@@ -12983,6 +14031,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin72/images/lucian_splash_uncentered_72.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin72/images/lucian_splash_tile_72.jpg"
   },
+  "original zed": {
+    "name": "Zed",
+    "champion": "Zed",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/base/images/zed_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/base/images/zed_splash_tile_0.jpg"
+  },
   "shockblade zed": {
     "name": "Shockblade Zed",
     "champion": "Zed",
@@ -13095,6 +14151,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin69/images/zed_splash_uncentered_69.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin69/images/zed_splash_tile_69.jpg"
   },
+  "original kled": {
+    "name": "Kled",
+    "champion": "Kled",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kled/skins/base/images/kled_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kled/skins/base/images/kled_splash_tile_0.jpg"
+  },
   "sir kled": {
     "name": "Sir Kled",
     "champion": "Kled",
@@ -13126,6 +14190,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kled/skins/skin18/images/kled_splash_uncentered_18.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kled/skins/skin18/images/kled_splash_tile_18.jpg"
+  },
+  "original ekko": {
+    "name": "Ekko",
+    "champion": "Ekko",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/base/images/ekko_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/base/images/ekko_splash_tile_0.jpg"
   },
   "sandstorm ekko": {
     "name": "Sandstorm Ekko",
@@ -13223,6 +14295,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin57/images/ekko_splash_uncentered_57.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin57/images/ekko_splash_tile_57.jpg"
   },
+  "original qiyana": {
+    "name": "Qiyana",
+    "champion": "Qiyana",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/base/images/qiyana_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/base/images/qiyana_splash_tile_0.jpg"
+  },
   "battle boss qiyana": {
     "name": "Battle Boss Qiyana",
     "champion": "Qiyana",
@@ -13294,6 +14374,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin50/images/qiyana_splash_uncentered_50.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin50/images/qiyana_splash_tile_50.jpg"
+  },
+  "original vi": {
+    "name": "Vi",
+    "champion": "Vi",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vi/skins/base/images/vi_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vi/skins/base/images/vi_splash_tile_0.jpg"
   },
   "neon strike vi": {
     "name": "Neon Strike Vi",
@@ -13399,6 +14487,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vi/skins/skin49/images/vi_splash_uncentered_49.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vi/skins/skin49/images/vi_splash_tile_49.jpg"
   },
+  "original aatrox": {
+    "name": "Aatrox",
+    "champion": "Aatrox",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/base/images/aatrox_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/base/images/aatrox_splash_tile_0.jpg"
+  },
   "justicar aatrox": {
     "name": "Justicar Aatrox",
     "champion": "Aatrox",
@@ -13494,6 +14590,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin33/images/aatrox_splash_uncentered_33.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin33/images/aatrox_splash_tile_33.jpg"
+  },
+  "original nami": {
+    "name": "Nami",
+    "champion": "Nami",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/base/images/nami_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/base/images/nami_splash_tile_0.jpg"
   },
   "koi nami": {
     "name": "Koi Nami",
@@ -13607,6 +14711,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin68/images/nami_splash_uncentered_68.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin68/images/nami_splash_tile_68.jpg"
   },
+  "original azir": {
+    "name": "Azir",
+    "champion": "Azir",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/base/images/azir_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/base/images/azir_splash_tile_0.jpg"
+  },
   "galactic azir": {
     "name": "Galactic Azir",
     "champion": "Azir",
@@ -13662,6 +14774,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin19/images/azir_splash_uncentered_19.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin19/images/azir_splash_tile_19.jpg"
+  },
+  "original yuumi": {
+    "name": "Yuumi",
+    "champion": "Yuumi",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/base/images/yuumi_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/base/images/yuumi_splash_tile_0.jpg"
   },
   "battle principal yuumi": {
     "name": "Battle Principal Yuumi",
@@ -13743,6 +14863,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_uncentered_70.skins_yuumi_skin70.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_tile_70.skins_yuumi_skin70.jpg"
   },
+  "original samira": {
+    "name": "Samira",
+    "champion": "Samira",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/base/images/samira_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/base/images/samira_splash_tile_0.jpg"
+  },
   "psyops samira": {
     "name": "PsyOps Samira",
     "champion": "Samira",
@@ -13790,6 +14918,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin35/images/samira_splash_uncentered_35.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin35/images/samira_splash_tile_35.jpg"
+  },
+  "original thresh": {
+    "name": "Thresh",
+    "champion": "Thresh",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/base/images/thresh_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/base/images/thresh_splash_tile_0.jpg"
   },
   "deep terror thresh": {
     "name": "Deep Terror Thresh",
@@ -13919,6 +15055,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin59/images/thresh_splash_uncentered_59.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin59/images/thresh_splash_tile_59.jpg"
   },
+  "original illaoi": {
+    "name": "Illaoi",
+    "champion": "Illaoi",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/base/images/illaoi_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/base/images/illaoi_splash_tile_0.jpg"
+  },
   "void bringer illaoi": {
     "name": "Void Bringer Illaoi",
     "champion": "Illaoi",
@@ -13958,6 +15102,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin27/images/illaoi_splash_uncentered_27.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin27/images/illaoi_splash_tile_27.jpg"
+  },
+  "original rek sai": {
+    "name": "Rek'Sai",
+    "champion": "Rek'Sai",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/base/images/reksai_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/base/images/reksai_splash_tile_0.jpg"
   },
   "eternum rek sai": {
     "name": "Eternum Rek'Sai",
@@ -13999,6 +15151,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/skin26/images/reksai_splash_uncentered_26.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/skin26/images/reksai_splash_tile_26.jpg"
   },
+  "original ivern": {
+    "name": "Ivern",
+    "champion": "Ivern",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/base/images/ivern_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/base/images/ivern_splash_tile_0.jpg"
+  },
   "candy king ivern": {
     "name": "Candy King Ivern",
     "champion": "Ivern",
@@ -14038,6 +15198,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin30/images/ivern_splash_uncentered_30.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin30/images/ivern_splash_tile_30.jpg"
+  },
+  "original kalista": {
+    "name": "Kalista",
+    "champion": "Kalista",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kalista/skins/base/images/kalista_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kalista/skins/base/images/kalista_splash_tile_0.jpg"
   },
   "blood moon kalista": {
     "name": "Blood Moon Kalista",
@@ -14086,6 +15254,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kalista/skins/skin24/images/kalista_splash_uncentered_24.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kalista/skins/skin24/images/kalista_splash_tile_24.jpg"
+  },
+  "original bard": {
+    "name": "Bard",
+    "champion": "Bard",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/base/images/bard_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/base/images/bard_splash_tile_0.jpg"
   },
   "elderwood bard": {
     "name": "Elderwood Bard",
@@ -14150,6 +15326,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin37/images/bard_splash_uncentered_37.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin37/images/bard_splash_tile_37.jpg"
+  },
+  "original rakan": {
+    "name": "Rakan",
+    "champion": "Rakan",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/base/images/rakan_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/base/images/rakan_splash_tile_0.jpg"
   },
   "cosmic dawn rakan": {
     "name": "Cosmic Dawn Rakan",
@@ -14247,6 +15431,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin47/images/rakan_splash_uncentered_47.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin47/images/rakan_splash_tile_47.jpg"
   },
+  "original xayah": {
+    "name": "Xayah",
+    "champion": "Xayah",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/base/images/xayah_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/base/images/xayah_splash_tile_0.jpg"
+  },
   "cosmic dusk xayah": {
     "name": "Cosmic Dusk Xayah",
     "champion": "Xayah",
@@ -14343,6 +15535,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/images/xayah_splash_uncentered_57.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/images/xayah_splash_tile_57.jpg"
   },
+  "original ornn": {
+    "name": "Ornn",
+    "champion": "Ornn",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/base/images/ornn_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/base/images/ornn_splash_tile_0.jpg"
+  },
   "thunder lord ornn": {
     "name": "Thunder Lord Ornn",
     "champion": "Ornn",
@@ -14382,6 +15582,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin29/images/ornn_splash_uncentered_29.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin29/images/ornn_splash_tile_29.jpg"
+  },
+  "original sylas": {
+    "name": "Sylas",
+    "champion": "Sylas",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/base/images/sylas_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/base/images/sylas_splash_tile_0.jpg"
   },
   "lunar wraith sylas": {
     "name": "Lunar Wraith Sylas",
@@ -14455,6 +15663,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin53/images/sylas_splash_uncentered_53.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin53/images/sylas_splash_tile_53.jpg"
   },
+  "original neeko": {
+    "name": "Neeko",
+    "champion": "Neeko",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/base/images/neeko_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/base/images/neeko_splash_tile_0.jpg"
+  },
   "winter wonder neeko": {
     "name": "Winter Wonder Neeko",
     "champion": "Neeko",
@@ -14527,6 +15743,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin49/images/neeko_splash_uncentered_49.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin49/images/neeko_splash_tile_49.jpg"
   },
+  "original aphelios": {
+    "name": "Aphelios",
+    "champion": "Aphelios",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/base/images/aphelios_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/base/images/aphelios_splash_tile_0.jpg"
+  },
   "nightbringer aphelios": {
     "name": "Nightbringer Aphelios",
     "champion": "Aphelios",
@@ -14575,6 +15799,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin40/images/aphelios_splash_uncentered_40.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin40/images/aphelios_splash_tile_40.jpg"
   },
+  "original rell": {
+    "name": "Rell",
+    "champion": "Rell",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/base/images/rell_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/base/images/rell_splash_tile_0.jpg"
+  },
   "battle queen rell": {
     "name": "Battle Queen Rell",
     "champion": "Rell",
@@ -14606,6 +15838,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin30/images/rell_splash_uncentered_30.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin30/images/rell_splash_tile_30.jpg"
+  },
+  "original pyke": {
+    "name": "Pyke",
+    "champion": "Pyke",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/base/images/pyke_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/base/images/pyke_splash_tile_0.jpg"
   },
   "sand wraith pyke": {
     "name": "Sand Wraith Pyke",
@@ -14703,6 +15943,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin75/images/pyke_splash_uncentered_75.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin75/images/pyke_splash_tile_75.jpg"
   },
+  "original vex": {
+    "name": "Vex",
+    "champion": "Vex",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vex/skins/base/images/vex_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vex/skins/base/images/vex_splash_tile_0.jpg"
+  },
   "dawnbringer vex": {
     "name": "Dawnbringer Vex",
     "champion": "Vex",
@@ -14734,6 +15982,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vex/skins/skin29/images/vex_splash_uncentered_29.skins_vex_skin29.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vex/skins/skin29/images/vex_splash_tile_29.skins_vex_skin29.jpg"
+  },
+  "original yone": {
+    "name": "Yone",
+    "champion": "Yone",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/base/images/yone_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/base/images/yone_splash_tile_0.jpg"
   },
   "spirit blossom yone": {
     "name": "Spirit Blossom Yone",
@@ -14823,6 +16079,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/images/yone_splash_uncentered_74.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/images/yone_splash_tile_74.jpg"
   },
+  "original ambessa": {
+    "name": "Ambessa",
+    "champion": "Ambessa",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/base/images/ambessa_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/base/images/ambessa_splash_tile_0.jpg"
+  },
   "chosen of the wolf ambessa": {
     "name": "Chosen of the Wolf Ambessa",
     "champion": "Ambessa",
@@ -14830,6 +16094,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin01/images/ambessa_splash_uncentered_1.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin01/images/ambessa_splash_tile_1.jpg"
+  },
+  "original mel": {
+    "name": "Mel",
+    "champion": "Mel",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/base/images/mel_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/base/images/mel_splash_tile_0.jpg"
   },
   "arcane councilor mel": {
     "name": "Arcane Councilor Mel",
@@ -14847,6 +16119,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/images/mel_splash_uncentered_10.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/images/mel_splash_tile_10.jpg"
   },
+  "original yunara": {
+    "name": "Yunara",
+    "champion": "Yunara",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/base/images/yunara_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/base/images/yunara_splash_tile_0.jpg"
+  },
   "spirit blossom springs yunara": {
     "name": "Spirit Blossom Springs Yunara",
     "champion": "Yunara",
@@ -14854,6 +16134,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/images/yunara_splash_uncentered_1.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/images/yunara_splash_tile_1.jpg"
+  },
+  "original sett": {
+    "name": "Sett",
+    "champion": "Sett",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/base/images/sett_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/base/images/sett_splash_tile_0.jpg"
   },
   "mecha kingdoms sett": {
     "name": "Mecha Kingdoms Sett",
@@ -14935,6 +16223,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin67/images/sett_splash_uncentered_67.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin67/images/sett_splash_tile_67.jpg"
   },
+  "original lillia": {
+    "name": "Lillia",
+    "champion": "Lillia",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/base/images/lillia_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/base/images/lillia_splash_tile_0.jpg"
+  },
   "spirit blossom lillia": {
     "name": "Spirit Blossom Lillia",
     "champion": "Lillia",
@@ -14983,6 +16279,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_uncentered_46.skins_lillia_skin46.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_tile_46.skins_lillia_skin46.jpg"
   },
+  "original gwen": {
+    "name": "Gwen",
+    "champion": "Gwen",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/base/images/gwen_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/base/images/gwen_splash_tile_0.jpg"
+  },
   "space groove gwen": {
     "name": "Space Groove Gwen",
     "champion": "Gwen",
@@ -15022,6 +16326,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin39/images/gwen_splash_uncentered_39.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin39/images/gwen_splash_tile_39.jpg"
+  },
+  "original renata glasc": {
+    "name": "Renata Glasc",
+    "champion": "Renata Glasc",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/base/images/renata_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/base/images/renata_splash_tile_0.jpg"
   },
   "admiral glasc": {
     "name": "Admiral Glasc",
@@ -15063,6 +16375,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin31/images/renata_splash_uncentered_31.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin31/images/renata_splash_tile_31.jpg"
   },
+  "original aurora": {
+    "name": "Aurora",
+    "champion": "Aurora",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/base/images/aurora_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/base/images/aurora_splash_tile_0.jpg"
+  },
   "battle bunny aurora": {
     "name": "Battle Bunny Aurora",
     "champion": "Aurora",
@@ -15078,6 +16398,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin11/images/aurora_splash_uncentered_11.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin11/images/aurora_splash_tile_11.jpg"
+  },
+  "original nilah": {
+    "name": "Nilah",
+    "champion": "Nilah",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nilah/skins/base/images/nilah_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nilah/skins/base/images/nilah_splash_tile_0.jpg"
   },
   "star guardian nilah": {
     "name": "Star Guardian Nilah",
@@ -15103,6 +16431,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nilah/skins/skin21/images/nilah_splash_uncentered_21.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nilah/skins/skin21/images/nilah_splash_tile_21.jpg"
   },
+  "original k sante": {
+    "name": "K'Sante",
+    "champion": "K'Sante",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/base/images/ksante_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/base/images/ksante_splash_tile_0.jpg"
+  },
   "empyrean k sante": {
     "name": "Empyrean K'Sante",
     "champion": "K'Sante",
@@ -15127,6 +16463,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin08/images/ksante_splash_uncentered_8.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin08/images/ksante_splash_tile_8.jpg"
   },
+  "original smolder": {
+    "name": "Smolder",
+    "champion": "Smolder",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/base/images/smolder_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/base/images/smolder_splash_tile_0.jpg"
+  },
   "heavenscale smolder": {
     "name": "Heavenscale Smolder",
     "champion": "Smolder",
@@ -15142,6 +16486,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin11/images/smolder_splash_uncentered_11.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin11/images/smolder_splash_tile_11.jpg"
+  },
+  "original milio": {
+    "name": "Milio",
+    "champion": "Milio",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/base/images/milio_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/base/images/milio_splash_tile_0.jpg"
   },
   "faerie court milio": {
     "name": "Faerie Court Milio",
@@ -15167,6 +16519,14 @@
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin20/images/milio_splash_uncentered_20.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin20/images/milio_splash_tile_20.jpg"
   },
+  "original zaahen": {
+    "name": "Zaahen",
+    "champion": "Zaahen",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zaahen/skins/base/images/zaahen_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zaahen/skins/base/images/zaahen_splash_tile_0.jpg"
+  },
   "immortal journey zaahen": {
     "name": "Immortal Journey Zaahen",
     "champion": "Zaahen",
@@ -15174,6 +16534,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zaahen/skins/skin01/images/zaahen_splash_uncentered_1.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zaahen/skins/skin01/images/zaahen_splash_tile_1.jpg"
+  },
+  "original hwei": {
+    "name": "Hwei",
+    "champion": "Hwei",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin0/images/hwei_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin0/images/hwei_splash_tile_0.jpg"
   },
   "winterblessed hwei": {
     "name": "Winterblessed Hwei",
@@ -15190,6 +16558,14 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin11/images/hwei_splash_uncentered_11.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin11/images/hwei_splash_tile_11.jpg"
+  },
+  "original naafiri": {
+    "name": "Naafiri",
+    "champion": "Naafiri",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/base/images/naafiri_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/base/images/naafiri_splash_tile_0.jpg"
   },
   "soul fighter naafiri": {
     "name": "Soul Fighter Naafiri",
@@ -15222,5 +16598,157 @@
     "isLegacy": false,
     "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin29/images/naafiri_splash_uncentered_29.skins_naafiri_skin29.jpg",
     "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin29/images/naafiri_splash_tile_29.skins_naafiri_skin29.jpg"
+  },
+  "original doom bot urgot": {
+    "name": "Doom Bot Urgot",
+    "champion": "Doom Bot Urgot",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_urgot/skins/base/images/urgot_splash_uncentered_23.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_urgot/skins/base/images/urgot_splash_tile_23.jpg"
+  },
+  "original doom bot corki": {
+    "name": "Doom Bot Corki",
+    "champion": "Doom Bot Corki",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_corki/skins/base/images/corki_splash_uncentered_1.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_corki/skins/base/images/corki_splash_tile_1.jpg"
+  },
+  "original doom bot lux": {
+    "name": "Doom Bot Lux",
+    "champion": "Doom Bot Lux",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_lux/skins/base/images/lux_splash_uncentered_17.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_lux/skins/base/images/lux_splash_tile_17.jpg"
+  },
+  "original doom bot amumu": {
+    "name": "Doom Bot Amumu",
+    "champion": "Doom Bot Amumu",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_amumu/skins/base/images/amumu_splash_uncentered_24.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_amumu/skins/base/images/amumu_splash_tile_24.jpg"
+  },
+  "original doom bot cho gath": {
+    "name": "Doom Bot Cho'Gath",
+    "champion": "Doom Bot Cho'Gath",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_chogath/skins/base/images/chogath_splash_uncentered_7.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_chogath/skins/base/images/chogath_splash_tile_7.jpg"
+  },
+  "original doom bot tristana": {
+    "name": "Doom Bot Tristana",
+    "champion": "Doom Bot Tristana",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_tristana/skins/base/images/tristana_splash_uncentered_24.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_tristana/skins/base/images/tristana_splash_tile_24.jpg"
+  },
+  "original doom bot nami": {
+    "name": "Doom Bot Nami",
+    "champion": "Doom Bot Nami",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_nami/skins/base/images/nami_splash_uncentered_51.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_nami/skins/base/images/nami_splash_tile_51.jpg"
+  },
+  "original doom bot lee sin": {
+    "name": "Doom Bot Lee Sin",
+    "champion": "Doom Bot Lee Sin",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_leesin/skins/skin27/images/ruby_leesin_splash_uncentered_27.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_leesin/skins/skin27/images/ruby_leesin_splash_tile_27.jpg"
+  },
+  "original doom bot caitlyn": {
+    "name": "Doom Bot Caitlyn",
+    "champion": "Doom Bot Caitlyn",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_caitlyn/skins/skin06/images/ruby_caitlyn_splash_uncentered_6.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_caitlyn/skins/skin06/images/ruby_caitlyn_splash_tile_6.jpg"
+  },
+  "original doom bot nautilus": {
+    "name": "Doom Bot Nautilus",
+    "champion": "Doom Bot Nautilus",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_nautilus/skins/base/images/nautilus_splash_uncentered_18.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_nautilus/skins/base/images/nautilus_splash_tile_18.jpg"
+  },
+  "original doom bot maokai": {
+    "name": "Doom Bot Maokai",
+    "champion": "Doom Bot Maokai",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_maokai/skins/skin04/images/ruby_maokai_splash_uncentered_4.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_maokai/skins/skin04/images/ruby_maokai_splash_tile_4.jpg"
+  },
+  "original doom bot xerath": {
+    "name": "Doom Bot Xerath",
+    "champion": "Doom Bot Xerath",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_xerath/skins/skin05/images/ruby_xerath_splash_uncentered_5.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_xerath/skins/skin05/images/ruby_xerath_splash_tile_5.jpg"
+  },
+  "original doom bot brand": {
+    "name": "Doom Bot Brand",
+    "champion": "Doom Bot Brand",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_brand/skins/skin04/images/ruby_brand_splash_uncentered_4.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_brand/skins/skin04/images/ruby_brand_splash_tile_4.jpg"
+  },
+  "original doom bot wukong": {
+    "name": "Doom Bot Wukong",
+    "champion": "Doom Bot Wukong",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_wukong/skins/skin04/images/ruby_wukong_splash_uncentered_4.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_wukong/skins/skin04/images/ruby_wukong_splash_tile_4.jpg"
+  },
+  "original doom bot soraka": {
+    "name": "Doom Bot Soraka",
+    "champion": "Doom Bot Soraka",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_soraka/skins/skin04/images/ruby_soraka_splash_uncentered_4.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_soraka/skins/skin04/images/ruby_soraka_splash_tile_4.jpg"
+  },
+  "original doom bot diana": {
+    "name": "Doom Bot Diana",
+    "champion": "Doom Bot Diana",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_diana/skins/skin03/images/ruby_diana_splash_uncentered_3.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_diana/skins/skin03/images/ruby_diana_splash_tile_3.jpg"
+  },
+  "original doom bot jinx": {
+    "name": "Doom Bot Jinx",
+    "champion": "Doom Bot Jinx",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_jinx/skins/skin03/images/ruby_jinx_splash_uncentered_3.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_jinx/skins/skin03/images/ruby_jinx_splash_tile_3.jpg"
+  },
+  "original doom bot malzahar": {
+    "name": "Doom Bot Malzahar",
+    "champion": "Doom Bot Malzahar",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_malzahar/skins/base/images/ruby_malzahar_splash_uncentered_0.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_malzahar/skins/base/images/ruby_malzahar_splash_tile_0.jpg"
+  },
+  "original doom bot blitzcrank": {
+    "name": "Doom Bot Blitzcrank",
+    "champion": "Doom Bot Blitzcrank",
+    "rarity": null,
+    "isLegacy": false,
+    "splash": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_blitzcrank/skins/skin22/images/ruby_blitzcrank_splash_uncentered_22.jpg",
+    "tile": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ruby_blitzcrank/skins/skin22/images/ruby_blitzcrank_splash_tile_22.jpg"
   }
 }
