@@ -342,34 +342,47 @@ select {
 
 .winner-panel {
   position: relative;
-  display: grid;
-  grid-template-columns: minmax(180px, 260px) minmax(0, 1fr);
-  gap: 22px;
-  align-items: center;
-  padding: 18px;
+  overflow: hidden;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--panel);
   box-shadow: var(--shadow);
 }
 
-.winner-panel img:not(.rarity-gem),
-.no-image {
+.winner-splash {
+  display: block;
   width: 100%;
-  aspect-ratio: 1;
+  aspect-ratio: 21 / 9;
   object-fit: cover;
-  border-radius: 6px;
+  object-position: top center;
+}
+
+.winner-panel .no-image {
+  width: 100%;
+  aspect-ratio: 21 / 9;
+  border: 1px dashed var(--line);
+  border-radius: 0;
   background: var(--panel-2);
 }
 
-.no-image {
-  border: 1px dashed var(--line);
+.winner-copy {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 48px 22px 18px;
+  background: linear-gradient(to top, rgba(12, 17, 23, 0.95) 0%, rgba(12, 17, 23, 0.6) 60%, transparent 100%);
 }
 
 .winner-copy h3 {
-  font-size: clamp(28px, 4vw, 52px);
-  line-height: 0.98;
+  font-size: clamp(24px, 3.5vw, 44px);
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
 }
 
 .winner-copy p {
-  margin: 10px 0 0;
+  margin: 8px 0 0;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
 }
 
 .sample-badge {

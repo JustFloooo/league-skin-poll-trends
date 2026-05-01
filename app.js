@@ -444,8 +444,12 @@ function renderDetail(champion) {
     return;
   }
 
+  const splashSkin = lookupSkin(winner, champion);
+  const splashUrl = splashSkin?.splash ?? null;
+  const winnerImg = splashUrl ?? winner.imageUrl;
+
   els.winnerPanel.innerHTML = `
-    ${winner.imageUrl ? `<img src="${winner.imageUrl}" alt="${skinLabel(winner)}" loading="eager" />` : '<div class="no-image"></div>'}
+    ${winnerImg ? `<img class="winner-splash" src="${winnerImg}" alt="${skinLabel(winner)}" loading="eager" />` : '<div class="no-image"></div>'}
     <div class="winner-copy">
       <p class="eyebrow">${poll.year} winner</p>
       <h3>${skinLabel(winner)}</h3>
