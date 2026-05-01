@@ -288,7 +288,6 @@ function normalizePoll(row, rawPoll) {
     subreddit: row.subreddit,
     totalVotes,
     participantCount: rawPoll.poll_meta?.participant_count ?? totalVotes,
-    viewCount: rawPoll.poll_meta?.view_count ?? null,
     lastVoteAt: rawPoll.poll_meta?.last_vote_at
       ? new Date(rawPoll.poll_meta.last_vote_at * 1000).toISOString()
       : null,
@@ -450,16 +449,19 @@ function parseArgs() {
   };
 }
 
+
 async function loadLinksCache() {
   try {
-    return JSON.parse(await readFile(LINKS_FILE, "utf8"));
+    const raw = JSON.parse(await readFile(LINKS_FILE, "utf8"));
+    if (Array.isArray(raw)) return { links: raw, sources: [] };
+    return raw;
   } catch {
     return null;
   }
 }
 
 async function cacheLinksFromReddit(onlyYear) {
-  const existing = await loadLinksCache() ?? [];
+  const existing = await loadLinksCache() ?? { links: [], sources: [] };
   const toFetch = onlyYear
     ? SOURCES.filter((s) => s.year === onlyYear)
     : SOURCES;
@@ -467,7 +469,7 @@ async function cacheLinksFromReddit(onlyYear) {
   if (onlyYear && !toFetch.length) throw new Error(`No source for year ${onlyYear}`);
 
   const fresh = await Promise.all(toFetch.map(fetchRowsForSource));
-  const freshEntries = fresh.flatMap((source) =>
+  const freshLinks = fresh.flatMap((source) =>
     source.rows.map((row) => ({
       year: row.year,
       label: row.label,
@@ -477,29 +479,39 @@ async function cacheLinksFromReddit(onlyYear) {
       subreddit: row.subreddit,
     })),
   );
+  const freshSources = fresh.map(({ rows, ...source }) => ({
+    ...source,
+    pollCount: rows.length,
+  }));
 
-  const kept = onlyYear ? existing.filter((e) => e.year !== onlyYear) : [];
-  const merged = [...kept, ...freshEntries].sort(
-    (a, b) => b.year - a.year || a.champion.localeCompare(b.champion),
-  );
+  const keptLinks = onlyYear ? existing.links.filter((e) => e.year !== onlyYear) : [];
+  const keptSources = onlyYear ? existing.sources.filter((s) => s.year !== onlyYear) : [];
+
+  const merged = {
+    links: [...keptLinks, ...freshLinks].sort(
+      (a, b) => b.year - a.year || a.champion.localeCompare(b.champion),
+    ),
+    sources: [...keptSources, ...freshSources].sort((a, b) => b.year - a.year),
+  };
 
   await mkdir(dirname(LINKS_FILE), { recursive: true });
   await writeFile(LINKS_FILE, JSON.stringify(merged, null, 2) + "\n", "utf8");
-  console.log(`Cached ${freshEntries.length} links to ${LINKS_FILE} (${merged.length} total)`);
+  console.log(`Cached ${freshLinks.length} links to ${LINKS_FILE} (${merged.links.length} total)`);
 }
 
 async function getRows(onlyYear) {
   const cache = await loadLinksCache();
   if (cache) {
-    const rows = onlyYear ? cache.filter((r) => r.year === onlyYear) : cache;
+    const rows = onlyYear ? cache.links.filter((r) => r.year === onlyYear) : cache.links;
     console.log(`Loaded ${rows.length} links from cache`);
-    return { rows, sources: [] };
+    return { rows, sources: cache.sources };
   }
 
   console.log("No link cache found, fetching from Reddit...");
   const toFetch = onlyYear ? SOURCES.filter((s) => s.year === onlyYear) : SOURCES;
-  const sources = await Promise.all(toFetch.map(fetchRowsForSource));
-  return { rows: sources.flatMap((s) => s.rows), sources };
+  const fetched = await Promise.all(toFetch.map(fetchRowsForSource));
+  const sources = fetched.map(({ rows, ...source }) => ({ ...source, pollCount: rows.length }));
+  return { rows: fetched.flatMap((s) => s.rows), sources };
 }
 
 async function main() {
@@ -521,7 +533,7 @@ async function main() {
   const { rows, sources } = await getRows(onlyYear);
   const failures = [];
 
-  console.log(`Found ${rows.length} polls across ${sources.length} source post(s).`);
+  console.log(`Found ${rows.length} polls across ${sources.length} source(s).`);
   const freshPolls = await runPool(rows, async (row, index) => {
     try {
       const html = await fetchText(row.pollUrl);
@@ -556,10 +568,8 @@ async function main() {
   if (onlyYear) {
     const existing = await loadExistingData();
     if (existing) {
-      const keptPolls = (existing.polls ?? []).filter((p) => p.year !== onlyYear);
-      allPolls = [...keptPolls, ...freshPolls];
-      const keptSources = (existing.sources ?? []).filter((s) => s.year !== onlyYear);
-      allSources = [...keptSources, ...sources];
+      allPolls = [...(existing.polls ?? []).filter((p) => p.year !== onlyYear), ...freshPolls];
+      allSources = [...(existing.sources ?? []).filter((s) => s.year !== onlyYear), ...sources];
     }
   }
 
@@ -568,13 +578,11 @@ async function main() {
   const hydratedImageCount = sortedPolls
     .flatMap((poll) => poll.options)
     .filter((option) => option.imageIsFallback).length;
+
   const payload = {
     fetchedAt: new Date().toISOString(),
     startedAt,
-    sources: allSources.map(({ rows, ...source }) => ({
-      ...source,
-      pollCount: rows?.length ?? source.pollCount,
-    })),
+    sources: allSources,
     years: SOURCES.map((source) => source.year).sort((a, b) => b - a),
     count: sortedPolls.length,
     hydratedImageCount,
