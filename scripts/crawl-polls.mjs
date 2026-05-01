@@ -569,7 +569,7 @@ async function main() {
     const existing = await loadExistingData();
     if (existing) {
       allPolls = [...(existing.polls ?? []).filter((p) => p.year !== onlyYear), ...freshPolls];
-      allSources = [...(existing.sources ?? []).filter((s) => s.year !== onlyYear), ...sources];
+      allSources = [...(existing.sources ?? []).filter((s) => s.year !== onlyYear), ...sources.filter((s) => s.year === onlyYear)];
     }
   }
 
