@@ -180,6 +180,7 @@ function visibleChampions() {
 
 function selectChampion(champion) {
   state.selectedChampion = champion;
+  history.replaceState(null, "", "#" + encodeURIComponent(champion));
   if (window.innerWidth <= 880) document.getElementById("sidebarToggle").checked = true;
   render();
 }
@@ -520,6 +521,13 @@ els.sort.addEventListener("change", (event) => {
 els.filter.addEventListener("change", (event) => {
   state.filter = event.target.value;
   render();
+});
+
+const hashChampion = decodeURIComponent(location.hash.slice(1));
+if (hashChampion && byChampion.has(hashChampion)) state.selectedChampion = hashChampion;
+window.addEventListener("hashchange", () => {
+  const c = decodeURIComponent(location.hash.slice(1));
+  if (c && byChampion.has(c) && c !== state.selectedChampion) { state.selectedChampion = c; render(); }
 });
 
 render();
