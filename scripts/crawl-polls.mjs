@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 
 const SOURCES = [
@@ -429,14 +429,45 @@ function hydrateOptionImages(polls) {
   }));
 }
 
+async function loadExistingData() {
+  try {
+    const raw = await readFile(OUT_FILE, "utf8");
+    const json = raw.replace(/^window\.POLL_DATA\s*=\s*/, "").replace(/;\s*$/, "");
+    return JSON.parse(json);
+  } catch {
+    return null;
+  }
+}
+
+function parseArgs() {
+  const args = process.argv.slice(2);
+  const yearFlag = args.indexOf("--year");
+  if (yearFlag !== -1 && args[yearFlag + 1]) {
+    return { year: Number(args[yearFlag + 1]) };
+  }
+  return { year: null };
+}
+
 async function main() {
+  const { year: onlyYear } = parseArgs();
   const startedAt = new Date().toISOString();
-  const sources = await Promise.all(SOURCES.map(fetchRowsForSource));
+
+  const activeSources = onlyYear
+    ? SOURCES.filter((s) => s.year === onlyYear)
+    : SOURCES;
+
+  if (onlyYear && !activeSources.length) {
+    throw new Error(`No source configured for year ${onlyYear}`);
+  }
+
+  if (onlyYear) console.log(`Updating only ${onlyYear} polls...`);
+
+  const sources = await Promise.all(activeSources.map(fetchRowsForSource));
   const rows = sources.flatMap((source) => source.rows);
   const failures = [];
 
-  console.log(`Found ${rows.length} polls across ${sources.length} source posts.`);
-  const polls = await runPool(rows, async (row, index) => {
+  console.log(`Found ${rows.length} polls across ${sources.length} source post(s).`);
+  const freshPolls = await runPool(rows, async (row, index) => {
     try {
       const html = await fetchText(row.pollUrl);
       const rawPoll = extractPollJson(html);
@@ -464,7 +495,20 @@ async function main() {
     }
   });
 
-  const canonicalPolls = hydrateOptionImages(canonicalizeChampionNames(polls));
+  let allPolls = freshPolls;
+  let allSources = sources;
+
+  if (onlyYear) {
+    const existing = await loadExistingData();
+    if (existing) {
+      const keptPolls = (existing.polls ?? []).filter((p) => p.year !== onlyYear);
+      allPolls = [...keptPolls, ...freshPolls];
+      const keptSources = (existing.sources ?? []).filter((s) => s.year !== onlyYear);
+      allSources = [...keptSources, ...sources];
+    }
+  }
+
+  const canonicalPolls = hydrateOptionImages(canonicalizeChampionNames(allPolls));
   const sortedPolls = canonicalPolls.sort((a, b) => b.year - a.year || a.champion.localeCompare(b.champion));
   const hydratedImageCount = sortedPolls
     .flatMap((poll) => poll.options)
@@ -472,9 +516,9 @@ async function main() {
   const payload = {
     fetchedAt: new Date().toISOString(),
     startedAt,
-    sources: sources.map(({ rows, ...source }) => ({
+    sources: allSources.map(({ rows, ...source }) => ({
       ...source,
-      pollCount: rows.length,
+      pollCount: rows?.length ?? source.pollCount,
     })),
     years: SOURCES.map((source) => source.year).sort((a, b) => b - a),
     count: sortedPolls.length,
