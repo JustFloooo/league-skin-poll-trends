@@ -1,5 +1,22 @@
 const data = window.POLL_DATA ?? { polls: [], summaries: [], years: [], failures: [] };
 const latestYear = Math.max(...(data.years ?? [2025]));
+let skinDB = {};
+fetch("data/skins.json").then(r => r.json()).then(d => { skinDB = d; render(); }).catch(() => {});
+
+function normalizeKey(v) {
+  return v.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+    .replace(/&/g, " and ").replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+/g, " ");
+}
+
+function lookupSkin(option) {
+  return skinDB[normalizeKey(option.name)] ?? null;
+}
+
+function rarityBadge(option) {
+  const skin = lookupSkin(option);
+  if (!skin?.rarity) return "";
+  return `<img class="rarity-gem" src="assets/rarity/${skin.rarity}.png" alt="${skin.rarity}" title="${skin.rarity}">`;
+}
 const state = {
   query: "",
   year: latestYear,
@@ -431,11 +448,12 @@ function renderDetail(champion) {
     <div class="winner-copy">
       <p class="eyebrow">${poll.year} winner</p>
       <h3>${skinLabel(winner)}</h3>
-      <p>${formatter.format(winner.votes)} votes, ${percent.format(optionShare(winner, poll))}${
-        runnerUp ? `; ${formatter.format(poll.marginVotes)} ahead of ${skinLabel(runnerUp)}` : ""
+      <p>${formatter.format(winner.votes)} votes · ${percent.format(optionShare(winner, poll))}${
+        runnerUp ? ` · ${formatter.format(poll.marginVotes)} votes ahead of ${skinLabel(runnerUp)}` : ""
       }</p>
       <span class="sample-badge ${sampleClass(poll.totalVotes)}">${sampleLabel(poll.totalVotes)}</span>
     </div>
+    ${rarityBadge(winner)}
   `;
 
   els.options.innerHTML = poll.options
@@ -452,6 +470,7 @@ function renderDetail(champion) {
             </div>
             <div class="bar" aria-hidden="true"><span style="--width: ${share * 100}%"></span></div>
           </div>
+          ${rarityBadge(option)}
         </article>
       `;
     })
