@@ -3,16 +3,11 @@ const latestYear = Math.max(...(data.years ?? [2025]));
 let skinDB = {};
 fetch("data/skins.json").then(r => r.json()).then(d => { skinDB = d; render(); }).catch(() => {});
 
-function normalizeKey(v) {
-  return v.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
-    .replace(/&/g, " and ").replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+/g, " ");
-}
-
 function lookupSkin(option, champion) {
-  const raw = normalizeKey(option.name);
-  const norm = option.normalizedKey ?? raw;
-  const champ = normalizeKey(champion ?? "");
-  return skinDB[raw] ?? skinDB[raw + " " + champ] ?? skinDB[norm + " " + champ] ?? null;
+  const key = option.normalizedKey ?? "";
+  const champ = (champion ?? "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+    .replace(/&/g, " and ").replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+/g, " ");
+  return skinDB[key + " " + champ] ?? skinDB[key] ?? null;
 }
 
 function rarityBadge(option, champion) {
