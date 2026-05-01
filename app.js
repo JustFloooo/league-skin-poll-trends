@@ -467,7 +467,7 @@ function renderDetail(champion) {
       const share = optionShare(option, poll);
       return `
         <article class="option-card" data-option-index="${option.rank - 1}" role="button" tabindex="0">
-          ${option.imageUrl ? `<img src="${option.imageUrl}" alt="${skinLabel(option)}" loading="lazy" />` : '<div class="no-image small"></div>'}
+          ${(() => { const s = lookupSkin(option, champion); const img = s?.splashCentered ?? option.imageUrl; return img ? `<img src="${img}" alt="${skinLabel(option)}" loading="lazy" />` : '<div class="no-image small"></div>'; })()}
           <div>
             <h3>${option.rank}. ${skinLabel(option)}</h3>
             <div class="option-meta">
@@ -537,7 +537,7 @@ const modalBody = modal.querySelector(".skin-modal-body");
 
 function openSkinModal(option, champion, poll) {
   const skin = lookupSkin(option, champion);
-  const img = skin?.splashCentered ?? skin?.splash ?? option.imageUrl;
+  const img = skin?.splash ?? skin?.splashCentered ?? option.imageUrl;
   modalSplash.src = img ?? "";
   modalSplash.alt = skinLabel(option);
   modalSplash.style.display = img ? "" : "none";
