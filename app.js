@@ -9,8 +9,10 @@ function normalizeKey(v) {
 }
 
 function lookupSkin(option, champion) {
-  const key = normalizeKey(option.name);
-  return skinDB[key] ?? skinDB[key + " " + normalizeKey(champion ?? "")] ?? null;
+  const raw = normalizeKey(option.name);
+  const norm = option.normalizedKey ?? raw;
+  const champ = normalizeKey(champion ?? "");
+  return skinDB[raw] ?? skinDB[raw + " " + champ] ?? skinDB[norm + " " + champ] ?? null;
 }
 
 function rarityBadge(option, champion) {
