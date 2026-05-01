@@ -8,12 +8,13 @@ function normalizeKey(v) {
     .replace(/&/g, " and ").replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+/g, " ");
 }
 
-function lookupSkin(option) {
-  return skinDB[normalizeKey(option.name)] ?? null;
+function lookupSkin(option, champion) {
+  const key = normalizeKey(option.name);
+  return skinDB[key] ?? skinDB[key + " " + normalizeKey(champion ?? "")] ?? null;
 }
 
-function rarityBadge(option) {
-  const skin = lookupSkin(option);
+function rarityBadge(option, champion) {
+  const skin = lookupSkin(option, champion);
   if (!skin?.rarity) return "";
   return `<img class="rarity-gem" src="assets/rarity/${skin.rarity}.png" alt="${skin.rarity}" title="${skin.rarity}">`;
 }
@@ -453,7 +454,7 @@ function renderDetail(champion) {
       }</p>
       <span class="sample-badge ${sampleClass(poll.totalVotes)}">${sampleLabel(poll.totalVotes)}</span>
     </div>
-    ${rarityBadge(winner)}
+    ${rarityBadge(winner, champion)}
   `;
 
   els.options.innerHTML = poll.options
@@ -470,7 +471,7 @@ function renderDetail(champion) {
             </div>
             <div class="bar" aria-hidden="true"><span style="--width: ${share * 100}%"></span></div>
           </div>
-          ${rarityBadge(option)}
+          ${rarityBadge(option, champion)}
         </article>
       `;
     })
