@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-05-27T09:54:35.713Z",
-  "startedAt": "2026-05-27T09:54:25.434Z",
+  "fetchedAt": "2026-05-28T10:05:49.689Z",
+  "startedAt": "2026-05-28T10:05:39.551Z",
   "sources": [
     {
       "year": 2024,
@@ -1957,7 +1957,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1473,
+      "totalVotesAcrossYears": 1474,
       "latestYear": 2025,
       "latestWinner": {
         "id": "6QnM5d2Pkne",
@@ -1970,7 +1970,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3191489361702128,
+      "latestWinnerShare": 0.3125,
       "consensusWinner": "Pug'Maw",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -16649,9 +16649,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/Dwyo3A8GXyA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/KogMawMains",
-      "totalVotes": 47,
-      "participantCount": 47,
-      "lastVoteAt": "2026-05-15T14:17:03.000Z",
+      "totalVotes": 48,
+      "participantCount": 48,
+      "lastVoteAt": "2026-05-28T02:43:02.000Z",
       "updatedAt": "2025-11-19T21:45:42.000Z",
       "winner": {
         "id": "6QnM5d2Pkne",
@@ -16675,9 +16675,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3191489361702128,
+      "winnerShare": 0.3125,
       "marginVotes": 4,
-      "marginShare": 0.0851063829787234,
+      "marginShare": 0.08333333333333333,
       "options": [
         {
           "id": "6QnM5d2Pkne",
@@ -16702,6 +16702,17 @@ window.POLL_DATA = {
           "rank": 2
         },
         {
+          "id": "kjn1MzXGLnQ",
+          "name": "Zap'Maw",
+          "normalizedName": "Zap'Maw",
+          "normalizedKey": "zap maw",
+          "votes": 6,
+          "position": 13,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOOeW4g3o-c.png",
+          "imageSourceYear": 2025,
+          "rank": 3
+        },
+        {
           "id": "bVg8AlzObZY",
           "name": "Arcanist Kog'Maw",
           "normalizedName": "Arcanist",
@@ -16709,17 +16720,6 @@ window.POLL_DATA = {
           "votes": 5,
           "position": 11,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdjmbn04-c.png",
-          "imageSourceYear": 2025,
-          "rank": 3
-        },
-        {
-          "id": "kjn1MzXGLnQ",
-          "name": "Zap'Maw",
-          "normalizedName": "Zap'Maw",
-          "normalizedKey": "zap maw",
-          "votes": 5,
-          "position": 13,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOOeW4g3o-c.png",
           "imageSourceYear": 2025,
           "rank": 4
         },
