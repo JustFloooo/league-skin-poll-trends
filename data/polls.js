@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-05-28T10:05:49.689Z",
-  "startedAt": "2026-05-28T10:05:39.551Z",
+  "fetchedAt": "2026-05-29T09:57:13.686Z",
+  "startedAt": "2026-05-29T09:57:03.622Z",
   "sources": [
     {
       "year": 2024,
@@ -64,7 +64,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 8068,
+      "totalVotesAcrossYears": 8069,
       "latestYear": 2025,
       "latestWinner": {
         "id": "1Mnw3JQd5n7",
@@ -77,7 +77,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.27884615384615385,
+      "latestWinnerShare": 0.27751196172248804,
       "consensusWinner": "Prestige Blood Moon",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -1761,20 +1761,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1739,
+      "totalVotesAcrossYears": 1740,
       "latestYear": 2025,
       "latestWinner": {
         "id": "XmZRbElWLZd",
         "name": "Battle Queen Katarina",
         "normalizedName": "Battle Queen",
         "normalizedKey": "battle queen",
-        "votes": 21,
+        "votes": 22,
         "position": 13,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDr9neA-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.42,
+      "latestWinnerShare": 0.43137254901960786,
       "consensusWinner": "Battle Queen",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -4683,7 +4683,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1866,
+      "totalVotesAcrossYears": 1867,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e7ZJj1rXWZ3",
@@ -4696,7 +4696,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.49019607843137253,
+      "latestWinnerShare": 0.4807692307692308,
       "consensusWinner": "Galaxy Slayer",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -4852,9 +4852,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/wby5QEL1wyA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AatroxMains",
-      "totalVotes": 208,
-      "participantCount": 208,
-      "lastVoteAt": "2026-05-26T06:39:11.000Z",
+      "totalVotes": 209,
+      "participantCount": 209,
+      "lastVoteAt": "2026-05-29T00:58:40.000Z",
       "updatedAt": "2025-11-19T21:43:53.000Z",
       "winner": {
         "id": "1Mnw3JQd5n7",
@@ -4872,15 +4872,15 @@ window.POLL_DATA = {
         "name": "Blood Moon Aatrox",
         "normalizedName": "Blood Moon",
         "normalizedKey": "blood moon",
-        "votes": 30,
+        "votes": 31,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PbZqrYvByN1-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.27884615384615385,
-      "marginVotes": 28,
-      "marginShare": 0.1346153846153846,
+      "winnerShare": 0.27751196172248804,
+      "marginVotes": 27,
+      "marginShare": 0.1291866028708134,
       "options": [
         {
           "id": "1Mnw3JQd5n7",
@@ -4898,7 +4898,7 @@ window.POLL_DATA = {
           "name": "Blood Moon Aatrox",
           "normalizedName": "Blood Moon",
           "normalizedKey": "blood moon",
-          "votes": 30,
+          "votes": 31,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PbZqrYvByN1-c.png",
           "imageSourceYear": 2025,
@@ -15493,16 +15493,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/ajnE1QmpAnW/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/KatarinaMains",
-      "totalVotes": 50,
-      "participantCount": 50,
-      "lastVoteAt": "2026-05-21T11:52:28.000Z",
+      "totalVotes": 51,
+      "participantCount": 51,
+      "lastVoteAt": "2026-05-29T09:48:40.000Z",
       "updatedAt": "2025-11-19T21:45:31.000Z",
       "winner": {
         "id": "XmZRbElWLZd",
         "name": "Battle Queen Katarina",
         "normalizedName": "Battle Queen",
         "normalizedKey": "battle queen",
-        "votes": 21,
+        "votes": 22,
         "position": 13,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDr9neA-c.png",
         "imageSourceYear": 2025,
@@ -15519,16 +15519,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.42,
-      "marginVotes": 16,
-      "marginShare": 0.32,
+      "winnerShare": 0.43137254901960786,
+      "marginVotes": 17,
+      "marginShare": 0.3333333333333333,
       "options": [
         {
           "id": "XmZRbElWLZd",
           "name": "Battle Queen Katarina",
           "normalizedName": "Battle Queen",
           "normalizedKey": "battle queen",
-          "votes": 21,
+          "votes": 22,
           "position": 13,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDr9neA-c.png",
           "imageSourceYear": 2025,
@@ -33295,9 +33295,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/xVg71mL4Myr/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/zedmains",
-      "totalVotes": 51,
-      "participantCount": 51,
-      "lastVoteAt": "2026-05-23T04:25:14.000Z",
+      "totalVotes": 52,
+      "participantCount": 52,
+      "lastVoteAt": "2026-05-28T15:45:37.000Z",
       "updatedAt": "2025-11-19T21:48:26.000Z",
       "winner": {
         "id": "e7ZJj1rXWZ3",
@@ -33315,15 +33315,15 @@ window.POLL_DATA = {
         "name": "Shockblade Zed",
         "normalizedName": "Shockblade",
         "normalizedKey": "shockblade",
-        "votes": 8,
+        "votes": 9,
         "position": 1,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GJn4QYB7gzm-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.49019607843137253,
-      "marginVotes": 17,
-      "marginShare": 0.3333333333333333,
+      "winnerShare": 0.4807692307692308,
+      "marginVotes": 16,
+      "marginShare": 0.3076923076923077,
       "options": [
         {
           "id": "e7ZJj1rXWZ3",
@@ -33341,7 +33341,7 @@ window.POLL_DATA = {
           "name": "Shockblade Zed",
           "normalizedName": "Shockblade",
           "normalizedKey": "shockblade",
-          "votes": 8,
+          "votes": 9,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GJn4QYB7gzm-c.png",
           "imageSourceYear": 2025,
