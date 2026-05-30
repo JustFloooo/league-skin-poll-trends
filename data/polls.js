@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-05-29T09:57:13.686Z",
-  "startedAt": "2026-05-29T09:57:03.622Z",
+  "fetchedAt": "2026-05-30T08:30:03.482Z",
+  "startedAt": "2026-05-30T08:29:53.152Z",
   "sources": [
     {
       "year": 2024,
@@ -176,20 +176,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1988,
+      "totalVotesAcrossYears": 1989,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e7ZJj1PodZ3",
         "name": "Moo Cow Alistar",
         "normalizedName": "Moo Cow",
         "normalizedKey": "moo cow",
-        "votes": 50,
+        "votes": 51,
         "position": 10,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxkNyWV-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.819672131147541,
+      "latestWinnerShare": 0.8225806451612904,
       "consensusWinner": "Moo Cow",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1621,20 +1621,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 3462,
+      "totalVotesAcrossYears": 3463,
       "latestYear": 2025,
       "latestWinner": {
         "id": "eJnvGEARkgv",
         "name": "iG Kai'Sa",
         "normalizedName": "iG",
         "normalizedKey": "ig",
-        "votes": 36,
+        "votes": 37,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLdbvAy4k-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.37894736842105264,
+      "latestWinnerShare": 0.3854166666666667,
       "consensusWinner": "iG",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2181,7 +2181,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2577,
+      "totalVotesAcrossYears": 2579,
       "latestYear": 2025,
       "latestWinner": {
         "id": "YVyPNqY7AgN",
@@ -2194,7 +2194,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.44594594594594594,
+      "latestWinnerShare": 0.4342105263157895,
       "consensusWinner": "Elementalist",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -5676,16 +5676,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/6QnMQ2lGVne/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/alistarmains",
-      "totalVotes": 61,
-      "participantCount": 61,
-      "lastVoteAt": "2026-05-26T22:43:41.000Z",
+      "totalVotes": 62,
+      "participantCount": 62,
+      "lastVoteAt": "2026-05-29T23:36:30.000Z",
       "updatedAt": "2025-11-19T21:43:59.000Z",
       "winner": {
         "id": "e7ZJj1PodZ3",
         "name": "Moo Cow Alistar",
         "normalizedName": "Moo Cow",
         "normalizedKey": "moo cow",
-        "votes": 50,
+        "votes": 51,
         "position": 10,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxkNyWV-c.png",
         "imageSourceYear": 2025,
@@ -5702,16 +5702,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.819672131147541,
-      "marginVotes": 46,
-      "marginShare": 0.7540983606557377,
+      "winnerShare": 0.8225806451612904,
+      "marginVotes": 47,
+      "marginShare": 0.7580645161290323,
       "options": [
         {
           "id": "e7ZJj1PodZ3",
           "name": "Moo Cow Alistar",
           "normalizedName": "Moo Cow",
           "normalizedKey": "moo cow",
-          "votes": 50,
+          "votes": 51,
           "position": 10,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxkNyWV-c.png",
           "imageSourceYear": 2025,
@@ -14639,16 +14639,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/7MZ0kXL5mgo/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/kaisamains",
-      "totalVotes": 95,
-      "participantCount": 95,
-      "lastVoteAt": "2026-05-15T22:03:12.000Z",
+      "totalVotes": 96,
+      "participantCount": 96,
+      "lastVoteAt": "2026-05-29T21:45:01.000Z",
       "updatedAt": "2025-11-19T21:45:23.000Z",
       "winner": {
         "id": "eJnvGEARkgv",
         "name": "iG Kai'Sa",
         "normalizedName": "iG",
         "normalizedKey": "ig",
-        "votes": 36,
+        "votes": 37,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLdbvAy4k-c.png",
         "imageSourceYear": 2025,
@@ -14665,16 +14665,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.37894736842105264,
-      "marginVotes": 16,
-      "marginShare": 0.16842105263157894,
+      "winnerShare": 0.3854166666666667,
+      "marginVotes": 17,
+      "marginShare": 0.17708333333333334,
       "options": [
         {
           "id": "eJnvGEARkgv",
           "name": "iG Kai'Sa",
           "normalizedName": "iG",
           "normalizedKey": "ig",
-          "votes": 36,
+          "votes": 37,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLdbvAy4k-c.png",
           "imageSourceYear": 2025,
@@ -18220,9 +18220,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/mpnb178rGy5/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/lux",
-      "totalVotes": 74,
-      "participantCount": 74,
-      "lastVoteAt": "2026-05-23T13:57:44.000Z",
+      "totalVotes": 76,
+      "participantCount": 76,
+      "lastVoteAt": "2026-05-29T17:30:21.000Z",
       "updatedAt": "2025-11-19T21:45:59.000Z",
       "winner": {
         "id": "YVyPNqY7AgN",
@@ -18246,9 +18246,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.44594594594594594,
+      "winnerShare": 0.4342105263157895,
       "marginVotes": 19,
-      "marginShare": 0.25675675675675674,
+      "marginShare": 0.25,
       "options": [
         {
           "id": "YVyPNqY7AgN",
@@ -18284,6 +18284,17 @@ window.POLL_DATA = {
           "rank": 3
         },
         {
+          "id": "PbZqxdApvgN",
+          "name": "Prestige Spirit Blossom Lux",
+          "normalizedName": "Prestige Spirit Blossom",
+          "normalizedKey": "prestige spirit blossom",
+          "votes": 4,
+          "position": 21,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjrqMvg6M-c.png",
+          "imageSourceYear": 2025,
+          "rank": 4
+        },
+        {
           "id": "eJnvGEAjagv",
           "name": "Star Guardian Lux",
           "normalizedName": "Star Guardian",
@@ -18292,7 +18303,7 @@ window.POLL_DATA = {
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Qrgerm6jZpY-c.png",
           "imageSourceYear": 2025,
-          "rank": 4
+          "rank": 5
         },
         {
           "id": "6QnM5d2K7ne",
@@ -18302,17 +18313,6 @@ window.POLL_DATA = {
           "votes": 3,
           "position": 11,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0B22gaR-c.png",
-          "imageSourceYear": 2025,
-          "rank": 5
-        },
-        {
-          "id": "PbZqxdApvgN",
-          "name": "Prestige Spirit Blossom Lux",
-          "normalizedName": "Prestige Spirit Blossom",
-          "normalizedKey": "prestige spirit blossom",
-          "votes": 3,
-          "position": 21,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjrqMvg6M-c.png",
           "imageSourceYear": 2025,
           "rank": 6
         },
@@ -18405,6 +18405,17 @@ window.POLL_DATA = {
           "rank": 14
         },
         {
+          "id": "mpnbbQ7KPn5",
+          "name": "Panda Pal Lux",
+          "normalizedName": "Panda Pal",
+          "normalizedKey": "panda pal",
+          "votes": 1,
+          "position": 22,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GJn4QkW7gzm-c.png",
+          "imageSourceYear": 2025,
+          "rank": 15
+        },
+        {
           "id": "wby5B7E47nA",
           "name": "Spellthief Lux",
           "normalizedName": "Spellthief",
@@ -18413,7 +18424,7 @@ window.POLL_DATA = {
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDVEyNG-c.png",
           "imageSourceYear": 2025,
-          "rank": 15
+          "rank": 16
         },
         {
           "id": "NMnQbOeYAg6",
@@ -18424,7 +18435,7 @@ window.POLL_DATA = {
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/w4nW7RNxnAL-c.png",
           "imageSourceYear": 2025,
-          "rank": 16
+          "rank": 17
         },
         {
           "id": "DwyodBA2NnA",
@@ -18435,7 +18446,7 @@ window.POLL_DATA = {
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/xVg7vXVOnrR-c.png",
           "imageSourceYear": 2025,
-          "rank": 17
+          "rank": 18
         },
         {
           "id": "BDyNQ6W27ZR",
@@ -18446,7 +18457,7 @@ window.POLL_DATA = {
           "position": 5,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDPzneA-c.png",
           "imageSourceYear": 2025,
-          "rank": 18
+          "rank": 19
         },
         {
           "id": "NPgxGmAwMn2",
@@ -18457,7 +18468,7 @@ window.POLL_DATA = {
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxEByWV-c.png",
           "imageSourceYear": 2025,
-          "rank": 19
+          "rank": 20
         },
         {
           "id": "poy9DpaqwZJ",
@@ -18468,7 +18479,7 @@ window.POLL_DATA = {
           "position": 14,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDVXyNG-c.png",
           "imageSourceYear": 2025,
-          "rank": 20
+          "rank": 21
         },
         {
           "id": "B2ZBaP4ABgJ",
@@ -18479,7 +18490,7 @@ window.POLL_DATA = {
           "position": 16,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/xVg7vXVGnrR-c.png",
           "imageSourceYear": 2025,
-          "rank": 21
+          "rank": 22
         },
         {
           "id": "eNg6MYJqenA",
@@ -18489,17 +18500,6 @@ window.POLL_DATA = {
           "votes": 0,
           "position": 19,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKPaEnp0-c.png",
-          "imageSourceYear": 2025,
-          "rank": 22
-        },
-        {
-          "id": "mpnbbQ7KPn5",
-          "name": "Panda Pal Lux",
-          "normalizedName": "Panda Pal",
-          "normalizedKey": "panda pal",
-          "votes": 0,
-          "position": 22,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GJn4QkW7gzm-c.png",
           "imageSourceYear": 2025,
           "rank": 23
         }
