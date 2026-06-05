@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-06-04T09:58:43.831Z",
-  "startedAt": "2026-06-04T09:58:33.844Z",
+  "fetchedAt": "2026-06-05T09:54:08.709Z",
+  "startedAt": "2026-06-05T09:53:58.589Z",
   "sources": [
     {
       "year": 2024,
@@ -1260,7 +1260,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1377,
+      "totalVotesAcrossYears": 1378,
       "latestYear": 2025,
       "latestWinner": {
         "id": "NMnQbOevDg6",
@@ -1273,7 +1273,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.25806451612903225,
+      "latestWinnerShare": 0.25,
       "consensusWinner": "Arcade",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1761,20 +1761,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1741,
+      "totalVotesAcrossYears": 1742,
       "latestYear": 2025,
       "latestWinner": {
         "id": "XmZRbElWLZd",
         "name": "Battle Queen Katarina",
         "normalizedName": "Battle Queen",
         "normalizedKey": "battle queen",
-        "votes": 23,
+        "votes": 24,
         "position": 13,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDr9neA-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4423076923076923,
+      "latestWinnerShare": 0.4528301886792453,
       "consensusWinner": "Battle Queen",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -12478,9 +12478,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/kogjR58p9g6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/HecarimMains",
-      "totalVotes": 31,
-      "participantCount": 31,
-      "lastVoteAt": "2026-05-31T20:33:26.000Z",
+      "totalVotes": 32,
+      "participantCount": 32,
+      "lastVoteAt": "2026-06-05T00:34:03.000Z",
       "updatedAt": "2025-11-19T21:45:02.000Z",
       "winner": {
         "id": "NMnQbOevDg6",
@@ -12504,9 +12504,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.25806451612903225,
+      "winnerShare": 0.25,
       "marginVotes": 1,
-      "marginShare": 0.03225806451612903,
+      "marginShare": 0.03125,
       "options": [
         {
           "id": "NMnQbOevDg6",
@@ -12597,6 +12597,17 @@ window.POLL_DATA = {
           "rank": 8
         },
         {
+          "id": "eJnvGEANGgv",
+          "name": "Lancer Zero Hecarim",
+          "normalizedName": "Lancer Zero",
+          "normalizedKey": "lancer zero",
+          "votes": 1,
+          "position": 7,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/xVg7vX2rnrR-c.png",
+          "imageSourceYear": 2025,
+          "rank": 9
+        },
+        {
           "id": "wAg3M2X6dy8",
           "name": "Winterblessed Hecarim",
           "normalizedName": "Winterblessed",
@@ -12605,7 +12616,7 @@ window.POLL_DATA = {
           "position": 11,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOOez3g3o-c.png",
           "imageSourceYear": 2025,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "GJn49WO66gz",
@@ -12616,7 +12627,7 @@ window.POLL_DATA = {
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdjO5n04-c.png",
           "imageSourceYear": 2025,
-          "rank": 10
+          "rank": 11
         },
         {
           "id": "BDyNQ6W5WZR",
@@ -12626,17 +12637,6 @@ window.POLL_DATA = {
           "votes": 0,
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/w4nW7RpqnAL-c.png",
-          "imageSourceYear": 2025,
-          "rank": 11
-        },
-        {
-          "id": "eJnvGEANGgv",
-          "name": "Lancer Zero Hecarim",
-          "normalizedName": "Lancer Zero",
-          "normalizedKey": "lancer zero",
-          "votes": 0,
-          "position": 7,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/xVg7vX2rnrR-c.png",
           "imageSourceYear": 2025,
           "rank": 12
         },
@@ -15493,16 +15493,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/ajnE1QmpAnW/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/KatarinaMains",
-      "totalVotes": 52,
-      "participantCount": 52,
-      "lastVoteAt": "2026-05-31T20:39:26.000Z",
+      "totalVotes": 53,
+      "participantCount": 53,
+      "lastVoteAt": "2026-06-04T17:55:47.000Z",
       "updatedAt": "2025-11-19T21:45:31.000Z",
       "winner": {
         "id": "XmZRbElWLZd",
         "name": "Battle Queen Katarina",
         "normalizedName": "Battle Queen",
         "normalizedKey": "battle queen",
-        "votes": 23,
+        "votes": 24,
         "position": 13,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDr9neA-c.png",
         "imageSourceYear": 2025,
@@ -15519,16 +15519,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4423076923076923,
-      "marginVotes": 18,
-      "marginShare": 0.34615384615384615,
+      "winnerShare": 0.4528301886792453,
+      "marginVotes": 19,
+      "marginShare": 0.3584905660377358,
       "options": [
         {
           "id": "XmZRbElWLZd",
           "name": "Battle Queen Katarina",
           "normalizedName": "Battle Queen",
           "normalizedKey": "battle queen",
-          "votes": 23,
+          "votes": 24,
           "position": 13,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDr9neA-c.png",
           "imageSourceYear": 2025,
