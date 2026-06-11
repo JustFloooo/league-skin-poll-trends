@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-06-10T10:04:16.555Z",
-  "startedAt": "2026-06-10T10:04:06.272Z",
+  "fetchedAt": "2026-06-11T10:38:48.608Z",
+  "startedAt": "2026-06-11T10:38:38.441Z",
   "sources": [
     {
       "year": 2024,
@@ -952,20 +952,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 3321,
+      "totalVotesAcrossYears": 3322,
       "latestYear": 2025,
       "latestWinner": {
         "id": "xVg7MeW3ryr",
         "name": "Battle Academia Ezreal",
         "normalizedName": "Battle Academia",
         "normalizedKey": "battle academia",
-        "votes": 25,
+        "votes": 26,
         "position": 13,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wAg3kDMOg8J-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.36231884057971014,
+      "latestWinnerShare": 0.37142857142857144,
       "consensusWinner": "Battle Academia",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1120,20 +1120,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1594,
+      "totalVotesAcrossYears": 1595,
       "latestYear": 2025,
       "latestWinner": {
         "id": "Q0ZpGD0dVgM",
         "name": "God-King Garen",
         "normalizedName": "God-King",
         "normalizedKey": "god king",
-        "votes": 22,
+        "votes": 23,
         "position": 9,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDemneA-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4888888888888889,
+      "latestWinnerShare": 0.5,
       "consensusWinner": "God-King",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -3126,7 +3126,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1885,
+      "totalVotesAcrossYears": 1886,
       "latestYear": 2025,
       "latestWinner": {
         "id": "X3nk1r1dVZE",
@@ -3139,7 +3139,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.32894736842105265,
+      "latestWinnerShare": 0.3246753246753247,
       "consensusWinner": "Broken Covenant",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -10355,16 +10355,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e7ZJam7oWg3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ezrealmains",
-      "totalVotes": 69,
-      "participantCount": 69,
-      "lastVoteAt": "2026-05-31T20:29:40.000Z",
+      "totalVotes": 70,
+      "participantCount": 70,
+      "lastVoteAt": "2026-06-10T22:08:02.000Z",
       "updatedAt": "2025-11-19T21:44:44.000Z",
       "winner": {
         "id": "xVg7MeW3ryr",
         "name": "Battle Academia Ezreal",
         "normalizedName": "Battle Academia",
         "normalizedKey": "battle academia",
-        "votes": 25,
+        "votes": 26,
         "position": 13,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wAg3kDMOg8J-c.png",
         "imageSourceYear": 2025,
@@ -10381,16 +10381,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.36231884057971014,
-      "marginVotes": 18,
-      "marginShare": 0.2608695652173913,
+      "winnerShare": 0.37142857142857144,
+      "marginVotes": 19,
+      "marginShare": 0.2714285714285714,
       "options": [
         {
           "id": "xVg7MeW3ryr",
           "name": "Battle Academia Ezreal",
           "normalizedName": "Battle Academia",
           "normalizedKey": "battle academia",
-          "votes": 25,
+          "votes": 26,
           "position": 13,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wAg3kDMOg8J-c.png",
           "imageSourceYear": 2025,
@@ -11580,16 +11580,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/eJnvVAJOmnv/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/GarenMains",
-      "totalVotes": 45,
-      "participantCount": 45,
-      "lastVoteAt": "2026-06-07T03:51:03.000Z",
+      "totalVotes": 46,
+      "participantCount": 46,
+      "lastVoteAt": "2026-06-10T20:18:25.000Z",
       "updatedAt": "2025-11-19T21:44:54.000Z",
       "winner": {
         "id": "Q0ZpGD0dVgM",
         "name": "God-King Garen",
         "normalizedName": "God-King",
         "normalizedKey": "god king",
-        "votes": 22,
+        "votes": 23,
         "position": 9,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDemneA-c.png",
         "imageSourceYear": 2025,
@@ -11606,16 +11606,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4888888888888889,
-      "marginVotes": 17,
-      "marginShare": 0.37777777777777777,
+      "winnerShare": 0.5,
+      "marginVotes": 18,
+      "marginShare": 0.391304347826087,
       "options": [
         {
           "id": "Q0ZpGD0dVgM",
           "name": "God-King Garen",
           "normalizedName": "God-King",
           "normalizedKey": "god king",
-          "votes": 22,
+          "votes": 23,
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDemneA-c.png",
           "imageSourceYear": 2025,
@@ -23948,9 +23948,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/61gD95JOLZw/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/Rivenmains",
-      "totalVotes": 76,
-      "participantCount": 76,
-      "lastVoteAt": "2026-06-03T11:48:31.000Z",
+      "totalVotes": 77,
+      "participantCount": 77,
+      "lastVoteAt": "2026-06-10T16:54:34.000Z",
       "updatedAt": "2025-11-19T21:46:57.000Z",
       "winner": {
         "id": "X3nk1r1dVZE",
@@ -23974,9 +23974,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.32894736842105265,
+      "winnerShare": 0.3246753246753247,
       "marginVotes": 4,
-      "marginShare": 0.05263157894736842,
+      "marginShare": 0.05194805194805195,
       "options": [
         {
           "id": "X3nk1r1dVZE",
@@ -24067,6 +24067,17 @@ window.POLL_DATA = {
           "rank": 8
         },
         {
+          "id": "kjn1MzMWLnQ",
+          "name": "Crimson Elite Riven",
+          "normalizedName": "Crimson Elite",
+          "normalizedKey": "crimson elite",
+          "votes": 1,
+          "position": 2,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdbEdn04-c.png",
+          "imageSourceYear": 2025,
+          "rank": 9
+        },
+        {
           "id": "61gDkxk2znw",
           "name": "Worlds 2012 Riven",
           "normalizedName": "Worlds 2012",
@@ -24075,7 +24086,7 @@ window.POLL_DATA = {
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOO8a0g3o-c.png",
           "imageSourceYear": 2025,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "mpnbbQbRYn5",
@@ -24086,7 +24097,7 @@ window.POLL_DATA = {
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoDNpZBO-c.png",
           "imageSourceYear": 2025,
-          "rank": 10
+          "rank": 11
         },
         {
           "id": "7MZ0rmr2mno",
@@ -24097,7 +24108,7 @@ window.POLL_DATA = {
           "position": 13,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeYwQneA-c.png",
           "imageSourceYear": 2025,
-          "rank": 11
+          "rank": 12
         },
         {
           "id": "2ayLwDw6AZ4",
@@ -24108,7 +24119,7 @@ window.POLL_DATA = {
           "position": 14,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/QrgerLaOZpY-c.png",
           "imageSourceYear": 2025,
-          "rank": 12
+          "rank": 13
         },
         {
           "id": "bVg8AlA8bZY",
@@ -24118,17 +24129,6 @@ window.POLL_DATA = {
           "votes": 0,
           "position": 0,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7MZ0jN8rnom-c.png",
-          "imageSourceYear": 2025,
-          "rank": 13
-        },
-        {
-          "id": "kjn1MzMWLnQ",
-          "name": "Crimson Elite Riven",
-          "normalizedName": "Crimson Elite",
-          "normalizedKey": "crimson elite",
-          "votes": 0,
-          "position": 2,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdbEdn04-c.png",
           "imageSourceYear": 2025,
           "rank": 14
         },
