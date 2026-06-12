@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-06-11T10:38:48.608Z",
-  "startedAt": "2026-06-11T10:38:38.441Z",
+  "fetchedAt": "2026-06-12T10:16:28.092Z",
+  "startedAt": "2026-06-12T10:16:18.153Z",
   "sources": [
     {
       "year": 2024,
@@ -1566,20 +1566,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2644,
+      "totalVotesAcrossYears": 2645,
       "latestYear": 2025,
       "latestWinner": {
         "id": "LVyK4BzMKn0",
         "name": "Star Guardian Jinx",
         "normalizedName": "Star Guardian",
         "normalizedKey": "star guardian",
-        "votes": 25,
+        "votes": 26,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/jVyG6xwPZ7E-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.31645569620253167,
+      "latestWinnerShare": 0.325,
       "consensusWinner": "Star Guardian",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2622,23 +2622,23 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 702,
+      "totalVotesAcrossYears": 703,
       "latestYear": 2025,
       "latestWinner": {
-        "id": "YVyPNqN21gN",
-        "name": "Inkshadow Nilah",
-        "normalizedName": "Inkshadow",
-        "normalizedKey": "inkshadow",
+        "id": "eJnvGEG79gv",
+        "name": "Coven Nilah",
+        "normalizedName": "Coven",
+        "normalizedKey": "coven",
         "votes": 11,
-        "position": 3,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMYWnOl-c.png",
+        "position": 2,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BbkgaR-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3333333333333333,
+      "latestWinnerShare": 0.3235294117647059,
       "consensusWinner": "Coven",
-      "consensusWins": 2,
-      "changedFromPrevious": true
+      "consensusWins": 3,
+      "changedFromPrevious": false
     },
     {
       "champion": "Nocturne",
@@ -14348,16 +14348,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/BJnXVQGMOZv/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/leagueofjinx",
-      "totalVotes": 79,
-      "participantCount": 79,
-      "lastVoteAt": "2026-06-07T15:01:06.000Z",
+      "totalVotes": 80,
+      "participantCount": 80,
+      "lastVoteAt": "2026-06-12T06:13:51.000Z",
       "updatedAt": "2025-11-19T21:45:20.000Z",
       "winner": {
         "id": "LVyK4BzMKn0",
         "name": "Star Guardian Jinx",
         "normalizedName": "Star Guardian",
         "normalizedKey": "star guardian",
-        "votes": 25,
+        "votes": 26,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/jVyG6xwPZ7E-c.png",
         "imageSourceYear": 2025,
@@ -14374,16 +14374,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.31645569620253167,
-      "marginVotes": 6,
-      "marginShare": 0.0759493670886076,
+      "winnerShare": 0.325,
+      "marginVotes": 7,
+      "marginShare": 0.0875,
       "options": [
         {
           "id": "LVyK4BzMKn0",
           "name": "Star Guardian Jinx",
           "normalizedName": "Star Guardian",
           "normalizedKey": "star guardian",
-          "votes": 25,
+          "votes": 26,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/jVyG6xwPZ7E-c.png",
           "imageSourceYear": 2025,
@@ -21208,11 +21208,22 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/GeZARjLqRyV/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/NilahMains",
-      "totalVotes": 33,
-      "participantCount": 33,
-      "lastVoteAt": "2026-05-31T20:52:01.000Z",
+      "totalVotes": 34,
+      "participantCount": 34,
+      "lastVoteAt": "2026-06-11T16:54:12.000Z",
       "updatedAt": "2025-11-19T21:46:28.000Z",
       "winner": {
+        "id": "eJnvGEG79gv",
+        "name": "Coven Nilah",
+        "normalizedName": "Coven",
+        "normalizedKey": "coven",
+        "votes": 11,
+        "position": 2,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BbkgaR-c.png",
+        "imageSourceYear": 2025,
+        "rank": 1
+      },
+      "runnerUp": {
         "id": "YVyPNqN21gN",
         "name": "Inkshadow Nilah",
         "normalizedName": "Inkshadow",
@@ -21221,23 +21232,23 @@ window.POLL_DATA = {
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMYWnOl-c.png",
         "imageSourceYear": 2025,
-        "rank": 1
-      },
-      "runnerUp": {
-        "id": "eJnvGEG79gv",
-        "name": "Coven Nilah",
-        "normalizedName": "Coven",
-        "normalizedKey": "coven",
-        "votes": 10,
-        "position": 2,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BbkgaR-c.png",
-        "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3333333333333333,
-      "marginVotes": 1,
-      "marginShare": 0.030303030303030304,
+      "winnerShare": 0.3235294117647059,
+      "marginVotes": 0,
+      "marginShare": 0,
       "options": [
+        {
+          "id": "eJnvGEG79gv",
+          "name": "Coven Nilah",
+          "normalizedName": "Coven",
+          "normalizedKey": "coven",
+          "votes": 11,
+          "position": 2,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BbkgaR-c.png",
+          "imageSourceYear": 2025,
+          "rank": 1
+        },
         {
           "id": "YVyPNqN21gN",
           "name": "Inkshadow Nilah",
@@ -21246,17 +21257,6 @@ window.POLL_DATA = {
           "votes": 11,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMYWnOl-c.png",
-          "imageSourceYear": 2025,
-          "rank": 1
-        },
-        {
-          "id": "eJnvGEG79gv",
-          "name": "Coven Nilah",
-          "normalizedName": "Coven",
-          "normalizedKey": "coven",
-          "votes": 10,
-          "position": 2,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BbkgaR-c.png",
           "imageSourceYear": 2025,
           "rank": 2
         },
