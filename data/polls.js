@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-06-25T09:25:13.550Z",
-  "startedAt": "2026-06-25T09:25:03.413Z",
+  "fetchedAt": "2026-06-26T09:30:07.395Z",
+  "startedAt": "2026-06-26T09:29:57.084Z",
   "sources": [
     {
       "year": 2024,
@@ -924,7 +924,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1995,
+      "totalVotesAcrossYears": 1996,
       "latestYear": 2025,
       "latestWinner": {
         "id": "ajnE73P9xZW",
@@ -937,7 +937,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.42592592592592593,
+      "latestWinnerShare": 0.41818181818181815,
       "consensusWinner": "Coven",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2097,22 +2097,22 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1055,
+      "totalVotesAcrossYears": 1056,
       "latestYear": 2025,
       "latestWinner": {
-        "id": "NPgxGmADrn2",
-        "name": "Prestige Porcelain Lissandra",
-        "normalizedName": "Prestige Porcelain",
-        "normalizedKey": "prestige porcelain",
-        "votes": 10,
-        "position": 7,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NMnQJWKAg6Y-c.png",
+        "id": "6QnM5d2vane",
+        "name": "Flora Fatalis Lissandra",
+        "normalizedName": "Flora Fatalis",
+        "normalizedKey": "flora fatalis",
+        "votes": 11,
+        "position": 9,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BDyNdNK7gRO-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.25,
-      "consensusWinner": "Prestige Porcelain",
-      "consensusWins": 3,
+      "latestWinnerShare": 0.2682926829268293,
+      "consensusWinner": "Coven",
+      "consensusWins": 2,
       "changedFromPrevious": true
     },
     {
@@ -3350,7 +3350,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1079,
+      "totalVotesAcrossYears": 1080,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BDyNQ6QJ7ZR",
@@ -3363,7 +3363,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.5925925925925926,
+      "latestWinnerShare": 0.5818181818181818,
       "consensusWinner": "Dark Star",
       "consensusWins": 2,
       "changedFromPrevious": true
@@ -3935,7 +3935,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 887,
+      "totalVotesAcrossYears": 888,
       "latestYear": 2025,
       "latestWinner": {
         "id": "61gDkxkNAnw",
@@ -3948,7 +3948,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2413793103448276,
+      "latestWinnerShare": 0.23333333333333334,
       "consensusWinner": "Blood Moon",
       "consensusWins": 2,
       "changedFromPrevious": true
@@ -10127,9 +10127,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e2naXWVpMyB/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/EvelynnMains",
-      "totalVotes": 54,
-      "participantCount": 54,
-      "lastVoteAt": "2026-06-24T15:33:41.000Z",
+      "totalVotes": 55,
+      "participantCount": 55,
+      "lastVoteAt": "2026-06-25T10:20:00.000Z",
       "updatedAt": "2025-11-19T21:44:42.000Z",
       "winner": {
         "id": "ajnE73P9xZW",
@@ -10153,9 +10153,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.42592592592592593,
+      "winnerShare": 0.41818181818181815,
       "marginVotes": 18,
-      "marginShare": 0.3333333333333333,
+      "marginShare": 0.32727272727272727,
       "options": [
         {
           "id": "ajnE73P9xZW",
@@ -10202,6 +10202,17 @@ window.POLL_DATA = {
           "rank": 4
         },
         {
+          "id": "e6Z2daJQMnN",
+          "name": "Tango Evelynn",
+          "normalizedName": "Tango",
+          "normalizedKey": "tango",
+          "votes": 3,
+          "position": 3,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDoQneA-c.png",
+          "imageSourceYear": 2025,
+          "rank": 5
+        },
+        {
           "id": "e2nab5jw0gB",
           "name": "High Noon Evelynn",
           "normalizedName": "High Noon",
@@ -10210,7 +10221,7 @@ window.POLL_DATA = {
           "position": 14,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/xVg7vXMRnrR-c.png",
           "imageSourceYear": 2025,
-          "rank": 5
+          "rank": 6
         },
         {
           "id": "7rnz3aJYYgO",
@@ -10220,17 +10231,6 @@ window.POLL_DATA = {
           "votes": 2,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/w4nW7R53nAL-c.png",
-          "imageSourceYear": 2025,
-          "rank": 6
-        },
-        {
-          "id": "e6Z2daJQMnN",
-          "name": "Tango Evelynn",
-          "normalizedName": "Tango",
-          "normalizedKey": "tango",
-          "votes": 2,
-          "position": 3,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDoQneA-c.png",
           "imageSourceYear": 2025,
           "rank": 7
         },
@@ -17668,11 +17668,22 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/poy9kaLOpgJ/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/LissandraMains",
-      "totalVotes": 40,
-      "participantCount": 40,
-      "lastVoteAt": "2026-06-24T15:47:52.000Z",
+      "totalVotes": 41,
+      "participantCount": 41,
+      "lastVoteAt": "2026-06-25T19:08:55.000Z",
       "updatedAt": "2025-11-19T21:45:50.000Z",
       "winner": {
+        "id": "6QnM5d2vane",
+        "name": "Flora Fatalis Lissandra",
+        "normalizedName": "Flora Fatalis",
+        "normalizedKey": "flora fatalis",
+        "votes": 11,
+        "position": 9,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BDyNdNK7gRO-c.png",
+        "imageSourceYear": 2025,
+        "rank": 1
+      },
+      "runnerUp": {
         "id": "NPgxGmADrn2",
         "name": "Prestige Porcelain Lissandra",
         "normalizedName": "Prestige Porcelain",
@@ -17681,23 +17692,23 @@ window.POLL_DATA = {
         "position": 7,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NMnQJWKAg6Y-c.png",
         "imageSourceYear": 2025,
-        "rank": 1
-      },
-      "runnerUp": {
-        "id": "6QnM5d2vane",
-        "name": "Flora Fatalis Lissandra",
-        "normalizedName": "Flora Fatalis",
-        "normalizedKey": "flora fatalis",
-        "votes": 10,
-        "position": 9,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BDyNdNK7gRO-c.png",
-        "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.25,
-      "marginVotes": 0,
-      "marginShare": 0,
+      "winnerShare": 0.2682926829268293,
+      "marginVotes": 1,
+      "marginShare": 0.024390243902439025,
       "options": [
+        {
+          "id": "6QnM5d2vane",
+          "name": "Flora Fatalis Lissandra",
+          "normalizedName": "Flora Fatalis",
+          "normalizedKey": "flora fatalis",
+          "votes": 11,
+          "position": 9,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BDyNdNK7gRO-c.png",
+          "imageSourceYear": 2025,
+          "rank": 1
+        },
         {
           "id": "NPgxGmADrn2",
           "name": "Prestige Porcelain Lissandra",
@@ -17706,17 +17717,6 @@ window.POLL_DATA = {
           "votes": 10,
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NMnQJWKAg6Y-c.png",
-          "imageSourceYear": 2025,
-          "rank": 1
-        },
-        {
-          "id": "6QnM5d2vane",
-          "name": "Flora Fatalis Lissandra",
-          "normalizedName": "Flora Fatalis",
-          "normalizedKey": "flora fatalis",
-          "votes": 10,
-          "position": 9,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BDyNdNK7gRO-c.png",
           "imageSourceYear": 2025,
           "rank": 2
         },
@@ -25266,9 +25266,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/eJnvVAJwanv/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/shacomains",
-      "totalVotes": 54,
-      "participantCount": 54,
-      "lastVoteAt": "2026-06-23T19:38:32.000Z",
+      "totalVotes": 55,
+      "participantCount": 55,
+      "lastVoteAt": "2026-06-26T04:29:00.000Z",
       "updatedAt": "2025-11-19T21:47:09.000Z",
       "winner": {
         "id": "BDyNQ6QJ7ZR",
@@ -25292,9 +25292,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.5925925925925926,
+      "winnerShare": 0.5818181818181818,
       "marginVotes": 27,
-      "marginShare": 0.5,
+      "marginShare": 0.4909090909090909,
       "options": [
         {
           "id": "BDyNQ6QJ7ZR",
@@ -25330,6 +25330,17 @@ window.POLL_DATA = {
           "rank": 3
         },
         {
+          "id": "w4nWb2blxyA",
+          "name": "Nutcracko",
+          "normalizedName": "Nutcracko",
+          "normalizedKey": "nutcracko",
+          "votes": 3,
+          "position": 3,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7MZ0jNAKnom-c.png",
+          "imageSourceYear": 2025,
+          "rank": 4
+        },
+        {
           "id": "wby5B7BW7nA",
           "name": "Soul Fighter Shaco",
           "normalizedName": "Soul Fighter",
@@ -25337,17 +25348,6 @@ window.POLL_DATA = {
           "votes": 3,
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoDrwZBO-c.png",
-          "imageSourceYear": 2025,
-          "rank": 4
-        },
-        {
-          "id": "w4nWb2blxyA",
-          "name": "Nutcracko",
-          "normalizedName": "Nutcracko",
-          "normalizedKey": "nutcracko",
-          "votes": 2,
-          "position": 3,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7MZ0jNAKnom-c.png",
           "imageSourceYear": 2025,
           "rank": 5
         },
@@ -28899,9 +28899,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/poy9kaL02gJ/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/TryndamereMains",
-      "totalVotes": 29,
-      "participantCount": 29,
-      "lastVoteAt": "2026-06-25T00:49:30.000Z",
+      "totalVotes": 30,
+      "participantCount": 30,
+      "lastVoteAt": "2026-06-26T04:29:23.000Z",
       "updatedAt": "2025-11-19T21:47:42.000Z",
       "winner": {
         "id": "61gDkxkNAnw",
@@ -28925,9 +28925,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2413793103448276,
+      "winnerShare": 0.23333333333333334,
       "marginVotes": 1,
-      "marginShare": 0.034482758620689655,
+      "marginShare": 0.03333333333333333,
       "options": [
         {
           "id": "61gDkxkNAnw",
@@ -28974,6 +28974,17 @@ window.POLL_DATA = {
           "rank": 4
         },
         {
+          "id": "bVg8AlAWzZY",
+          "name": "Highland Tryndamere",
+          "normalizedName": "Highland",
+          "normalizedKey": "highland",
+          "votes": 2,
+          "position": 1,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLd18ey4k-c.png",
+          "imageSourceYear": 2025,
+          "rank": 5
+        },
+        {
           "id": "poy9DpD7DZJ",
           "name": "King Tryndamere",
           "normalizedName": "King",
@@ -28981,17 +28992,6 @@ window.POLL_DATA = {
           "votes": 2,
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdbDOn04-c.png",
-          "imageSourceYear": 2025,
-          "rank": 5
-        },
-        {
-          "id": "bVg8AlAWzZY",
-          "name": "Highland Tryndamere",
-          "normalizedName": "Highland",
-          "normalizedKey": "highland",
-          "votes": 1,
-          "position": 1,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLd18ey4k-c.png",
           "imageSourceYear": 2025,
           "rank": 6
         },
