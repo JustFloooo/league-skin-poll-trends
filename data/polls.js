@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-07-02T09:14:59.299Z",
-  "startedAt": "2026-07-02T09:14:49.020Z",
+  "fetchedAt": "2026-07-03T09:20:28.903Z",
+  "startedAt": "2026-07-03T09:20:18.598Z",
   "sources": [
     {
       "year": 2024,
@@ -92,20 +92,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 5810,
+      "totalVotesAcrossYears": 5811,
       "latestYear": 2025,
       "latestWinner": {
         "id": "poy9DpYJwZJ",
         "name": "Spirit Blossom Ahri",
         "normalizedName": "Spirit Blossom",
         "normalizedKey": "spirit blossom",
-        "votes": 56,
+        "votes": 57,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Q0Zprd9JnMB-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3076923076923077,
+      "latestWinnerShare": 0.3114754098360656,
       "consensusWinner": "Spirit Blossom",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1204,7 +1204,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1632,
+      "totalVotesAcrossYears": 1633,
       "latestYear": 2025,
       "latestWinner": {
         "id": "LVyK4Bz1bn0",
@@ -1217,7 +1217,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4489795918367347,
+      "latestWinnerShare": 0.44,
       "consensusWinner": "Crime City",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -4047,7 +4047,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1005,
+      "totalVotesAcrossYears": 1006,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e6Z2dadx7nN",
@@ -4060,7 +4060,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.25806451612903225,
+      "latestWinnerShare": 0.25,
       "consensusWinner": "Pajama Guardian Cosplay",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -4823,7 +4823,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1547,
+      "totalVotesAcrossYears": 1548,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BDyNQ6M2OZR",
@@ -4836,7 +4836,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.23333333333333334,
+      "latestWinnerShare": 0.22950819672131148,
       "consensusWinner": "Crystal Rose",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -5036,16 +5036,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NMnQNewrBg6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AhriMains",
-      "totalVotes": 182,
-      "participantCount": 182,
-      "lastVoteAt": "2026-06-27T15:25:31.000Z",
+      "totalVotes": 183,
+      "participantCount": 183,
+      "lastVoteAt": "2026-07-02T13:10:10.000Z",
       "updatedAt": "2025-11-19T21:43:55.000Z",
       "winner": {
         "id": "poy9DpYJwZJ",
         "name": "Spirit Blossom Ahri",
         "normalizedName": "Spirit Blossom",
         "normalizedKey": "spirit blossom",
-        "votes": 56,
+        "votes": 57,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Q0Zprd9JnMB-c.png",
         "imageSourceYear": 2025,
@@ -5062,16 +5062,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3076923076923077,
-      "marginVotes": 19,
-      "marginShare": 0.1043956043956044,
+      "winnerShare": 0.3114754098360656,
+      "marginVotes": 20,
+      "marginShare": 0.1092896174863388,
       "options": [
         {
           "id": "poy9DpYJwZJ",
           "name": "Spirit Blossom Ahri",
           "normalizedName": "Spirit Blossom",
           "normalizedKey": "spirit blossom",
-          "votes": 56,
+          "votes": 57,
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Q0Zprd9JnMB-c.png",
           "imageSourceYear": 2025,
@@ -12176,9 +12176,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/poy9kaL1AgJ/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/GravesMains",
-      "totalVotes": 49,
-      "participantCount": 49,
-      "lastVoteAt": "2026-06-23T17:48:58.000Z",
+      "totalVotes": 50,
+      "participantCount": 50,
+      "lastVoteAt": "2026-07-03T05:09:43.000Z",
       "updatedAt": "2025-11-19T21:44:58.000Z",
       "winner": {
         "id": "LVyK4Bz1bn0",
@@ -12196,15 +12196,15 @@ window.POLL_DATA = {
         "name": "Sentinel Graves",
         "normalizedName": "Sentinel",
         "normalizedKey": "sentinel",
-        "votes": 10,
+        "votes": 11,
         "position": 11,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/QrgermM2ZpY-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4489795918367347,
-      "marginVotes": 12,
-      "marginShare": 0.24489795918367346,
+      "winnerShare": 0.44,
+      "marginVotes": 11,
+      "marginShare": 0.22,
       "options": [
         {
           "id": "LVyK4Bz1bn0",
@@ -12222,7 +12222,7 @@ window.POLL_DATA = {
           "name": "Sentinel Graves",
           "normalizedName": "Sentinel",
           "normalizedKey": "sentinel",
-          "votes": 10,
+          "votes": 11,
           "position": 11,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/QrgermM2ZpY-c.png",
           "imageSourceYear": 2025,
@@ -29646,9 +29646,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/X3nkPQ8OjgE/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/UrgotMains",
-      "totalVotes": 31,
-      "participantCount": 31,
-      "lastVoteAt": "2026-06-25T00:51:02.000Z",
+      "totalVotes": 32,
+      "participantCount": 32,
+      "lastVoteAt": "2026-07-02T17:31:25.000Z",
       "updatedAt": "2025-11-19T21:47:49.000Z",
       "winner": {
         "id": "e6Z2dadx7nN",
@@ -29672,9 +29672,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.25806451612903225,
+      "winnerShare": 0.25,
       "marginVotes": 2,
-      "marginShare": 0.06451612903225806,
+      "marginShare": 0.0625,
       "options": [
         {
           "id": "e6Z2dadx7nN",
@@ -29725,7 +29725,7 @@ window.POLL_DATA = {
           "name": "Battlecast Urgot",
           "normalizedName": "Battlecast",
           "normalizedKey": "battlecast",
-          "votes": 3,
+          "votes": 4,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/w4nW7eLWnAL-c.png",
           "imageSourceYear": 2025,
@@ -34083,9 +34083,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NoZrzAXqeZ3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/zyramains",
-      "totalVotes": 60,
-      "participantCount": 60,
-      "lastVoteAt": "2026-06-30T16:54:57.000Z",
+      "totalVotes": 61,
+      "participantCount": 61,
+      "lastVoteAt": "2026-07-03T02:45:10.000Z",
       "updatedAt": "2025-11-19T21:48:34.000Z",
       "winner": {
         "id": "BDyNQ6M2OZR",
@@ -34109,9 +34109,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.23333333333333334,
+      "winnerShare": 0.22950819672131148,
       "marginVotes": 4,
-      "marginShare": 0.06666666666666667,
+      "marginShare": 0.06557377049180328,
       "options": [
         {
           "id": "BDyNQ6M2OZR",
@@ -34147,6 +34147,17 @@ window.POLL_DATA = {
           "rank": 3
         },
         {
+          "id": "eJnvGEej9gv",
+          "name": "Spirit Blossom Zyra",
+          "normalizedName": "Spirit Blossom",
+          "normalizedKey": "spirit blossom",
+          "votes": 7,
+          "position": 12,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoDbzZBO-c.png",
+          "imageSourceYear": 2025,
+          "rank": 4
+        },
+        {
           "id": "Q0ZpGDzW6gM",
           "name": "Dragon Sorceress Zyra",
           "normalizedName": "Dragon Sorceress",
@@ -34154,17 +34165,6 @@ window.POLL_DATA = {
           "votes": 6,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLd1aqy4k-c.png",
-          "imageSourceYear": 2025,
-          "rank": 4
-        },
-        {
-          "id": "eJnvGEej9gv",
-          "name": "Spirit Blossom Zyra",
-          "normalizedName": "Spirit Blossom",
-          "normalizedKey": "spirit blossom",
-          "votes": 6,
-          "position": 12,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoDbzZBO-c.png",
           "imageSourceYear": 2025,
           "rank": 5
         },
