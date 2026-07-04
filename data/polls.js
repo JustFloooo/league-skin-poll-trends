@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-07-03T09:20:28.903Z",
-  "startedAt": "2026-07-03T09:20:18.598Z",
+  "fetchedAt": "2026-07-04T08:39:05.807Z",
+  "startedAt": "2026-07-04T08:38:55.682Z",
   "sources": [
     {
       "year": 2024,
@@ -422,20 +422,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2180,
+      "totalVotesAcrossYears": 2181,
       "latestYear": 2025,
       "latestWinner": {
         "id": "kogjGMzE1Z6",
         "name": "Warring Kingdoms Azir",
         "normalizedName": "Warring Kingdoms",
         "normalizedKey": "warring kingdoms",
-        "votes": 14,
+        "votes": 15,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/w4nW7RldnAL-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2545454545454545,
+      "latestWinnerShare": 0.26785714285714285,
       "consensusWinner": "Warring Kingdoms",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1036,7 +1036,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1392,
+      "totalVotesAcrossYears": 1393,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e7ZJj1ma5Z3",
@@ -1049,7 +1049,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.22916666666666666,
+      "latestWinnerShare": 0.22448979591836735,
       "consensusWinner": "Fisherman",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2041,7 +2041,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1694,
+      "totalVotesAcrossYears": 1695,
       "latestYear": 2025,
       "latestWinner": {
         "id": "ajnE73Ql9ZW",
@@ -2054,7 +2054,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4067796610169492,
+      "latestWinnerShare": 0.4,
       "consensusWinner": "High Noon",
       "consensusWins": 4,
       "changedFromPrevious": false
@@ -7145,16 +7145,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/w4nWW5PzNnA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/azirmains",
-      "totalVotes": 55,
-      "participantCount": 55,
-      "lastVoteAt": "2026-06-24T15:29:20.000Z",
+      "totalVotes": 56,
+      "participantCount": 56,
+      "lastVoteAt": "2026-07-03T16:00:30.000Z",
       "updatedAt": "2025-11-19T21:44:13.000Z",
       "winner": {
         "id": "kogjGMzE1Z6",
         "name": "Warring Kingdoms Azir",
         "normalizedName": "Warring Kingdoms",
         "normalizedKey": "warring kingdoms",
-        "votes": 14,
+        "votes": 15,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/w4nW7RldnAL-c.png",
         "imageSourceYear": 2025,
@@ -7171,16 +7171,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2545454545454545,
-      "marginVotes": 4,
-      "marginShare": 0.07272727272727272,
+      "winnerShare": 0.26785714285714285,
+      "marginVotes": 5,
+      "marginShare": 0.08928571428571429,
       "options": [
         {
           "id": "kogjGMzE1Z6",
           "name": "Warring Kingdoms Azir",
           "normalizedName": "Warring Kingdoms",
           "normalizedKey": "warring kingdoms",
-          "votes": 14,
+          "votes": 15,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/w4nW7RldnAL-c.png",
           "imageSourceYear": 2025,
@@ -11050,9 +11050,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/kogjR58o9g6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/fizzmains",
-      "totalVotes": 48,
-      "participantCount": 48,
-      "lastVoteAt": "2026-06-24T15:36:37.000Z",
+      "totalVotes": 49,
+      "participantCount": 49,
+      "lastVoteAt": "2026-07-04T00:13:20.000Z",
       "updatedAt": "2025-11-19T21:44:48.000Z",
       "winner": {
         "id": "e7ZJj1ma5Z3",
@@ -11076,9 +11076,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.22916666666666666,
+      "winnerShare": 0.22448979591836735,
       "marginVotes": 1,
-      "marginShare": 0.020833333333333332,
+      "marginShare": 0.02040816326530612,
       "options": [
         {
           "id": "e7ZJj1ma5Z3",
@@ -11107,7 +11107,7 @@ window.POLL_DATA = {
           "name": "Fuzz Fizz",
           "normalizedName": "Fuzz",
           "normalizedKey": "fuzz",
-          "votes": 7,
+          "votes": 8,
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/bVg8P4XzgYa-c.png",
           "imageSourceYear": 2025,
@@ -17322,9 +17322,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NPgxeAzDrZ2/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/LeonaMains",
-      "totalVotes": 59,
-      "participantCount": 59,
-      "lastVoteAt": "2026-06-30T06:15:29.000Z",
+      "totalVotes": 60,
+      "participantCount": 60,
+      "lastVoteAt": "2026-07-03T21:13:59.000Z",
       "updatedAt": "2025-11-19T21:45:47.000Z",
       "winner": {
         "id": "ajnE73Ql9ZW",
@@ -17348,9 +17348,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4067796610169492,
+      "winnerShare": 0.4,
       "marginVotes": 14,
-      "marginShare": 0.23728813559322035,
+      "marginShare": 0.23333333333333334,
       "options": [
         {
           "id": "ajnE73Ql9ZW",
@@ -17386,6 +17386,17 @@ window.POLL_DATA = {
           "rank": 3
         },
         {
+          "id": "e7ZJj1m5WZ3",
+          "name": "Crystalis Motus Leona",
+          "normalizedName": "Crystalis Motus",
+          "normalizedKey": "crystalis motus",
+          "votes": 3,
+          "position": 15,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxKMyWV-c.png",
+          "imageSourceYear": 2025,
+          "rank": 4
+        },
+        {
           "id": "7rnz3aA96gO",
           "name": "Prestige Battle Lion Leona",
           "normalizedName": "Prestige Battle Lion",
@@ -17394,7 +17405,7 @@ window.POLL_DATA = {
           "position": 17,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0B7MgaR-c.png",
           "imageSourceYear": 2025,
-          "rank": 4
+          "rank": 5
         },
         {
           "id": "PbZqxdAMNgN",
@@ -17405,7 +17416,7 @@ window.POLL_DATA = {
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BJnXYlKLgvV-c.png",
           "imageSourceYear": 2025,
-          "rank": 5
+          "rank": 6
         },
         {
           "id": "7MZ0rmXvmno",
@@ -17416,7 +17427,7 @@ window.POLL_DATA = {
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GeZAAoqPZV5-c.png",
           "imageSourceYear": 2025,
-          "rank": 6
+          "rank": 7
         },
         {
           "id": "2ayLwDaoAZ4",
@@ -17427,7 +17438,7 @@ window.POLL_DATA = {
           "position": 10,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7MZ0joqGnom-c.png",
           "imageSourceYear": 2025,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "X3nk1rQNVZE",
@@ -17438,7 +17449,7 @@ window.POLL_DATA = {
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdjKRn04-c.png",
           "imageSourceYear": 2025,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "XOgOoX7P2g3",
@@ -17448,17 +17459,6 @@ window.POLL_DATA = {
           "votes": 2,
           "position": 13,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbq2QyEP-c.png",
-          "imageSourceYear": 2025,
-          "rank": 9
-        },
-        {
-          "id": "e7ZJj1m5WZ3",
-          "name": "Crystalis Motus Leona",
-          "normalizedName": "Crystalis Motus",
-          "normalizedKey": "crystalis motus",
-          "votes": 2,
-          "position": 15,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxKMyWV-c.png",
           "imageSourceYear": 2025,
           "rank": 10
         },
