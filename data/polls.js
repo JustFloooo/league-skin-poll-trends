@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-07-08T08:30:45.608Z",
-  "startedAt": "2026-07-08T08:30:35.624Z",
+  "fetchedAt": "2026-07-09T09:46:40.755Z",
+  "startedAt": "2026-07-09T09:46:30.265Z",
   "sources": [
     {
       "year": 2024,
@@ -92,7 +92,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 5814,
+      "totalVotesAcrossYears": 5815,
       "latestYear": 2025,
       "latestWinner": {
         "id": "poy9DpYJwZJ",
@@ -105,7 +105,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3064516129032258,
+      "latestWinnerShare": 0.3048128342245989,
       "consensusWinner": "Spirit Blossom",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -5036,9 +5036,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NMnQNewrBg6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AhriMains",
-      "totalVotes": 186,
-      "participantCount": 186,
-      "lastVoteAt": "2026-07-07T19:22:54.000Z",
+      "totalVotes": 187,
+      "participantCount": 187,
+      "lastVoteAt": "2026-07-09T01:05:35.000Z",
       "updatedAt": "2025-11-19T21:43:55.000Z",
       "winner": {
         "id": "poy9DpYJwZJ",
@@ -5062,9 +5062,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3064516129032258,
+      "winnerShare": 0.3048128342245989,
       "marginVotes": 20,
-      "marginShare": 0.10752688172043011,
+      "marginShare": 0.10695187165775401,
       "options": [
         {
           "id": "poy9DpYJwZJ",
@@ -5192,7 +5192,7 @@ window.POLL_DATA = {
           "name": "Original Ahri",
           "normalizedName": "Original",
           "normalizedKey": "original",
-          "votes": 2,
+          "votes": 3,
           "position": 0,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOOeEGg3o-c.png",
           "imageSourceYear": 2025,
