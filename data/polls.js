@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-07-29T08:42:31.952Z",
-  "startedAt": "2026-07-29T08:42:21.674Z",
+  "fetchedAt": "2026-07-30T08:28:17.121Z",
+  "startedAt": "2026-07-30T08:28:07.067Z",
   "sources": [
     {
       "year": 2024,
@@ -2400,20 +2400,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1808,
+      "totalVotesAcrossYears": 1809,
       "latestYear": 2025,
       "latestWinner": {
         "id": "61gDkx58Wnw",
         "name": "Sahn-Uzal Mordekaiser",
         "normalizedName": "Sahn-Uzal",
         "normalizedKey": "sahn uzal",
-        "votes": 19,
+        "votes": 20,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjrq41g6M-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.31666666666666665,
+      "latestWinnerShare": 0.32786885245901637,
       "consensusWinner": "PROJECT",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -4823,7 +4823,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1551,
+      "totalVotesAcrossYears": 1552,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BDyNQ6M2OZR",
@@ -4836,7 +4836,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.25,
+      "latestWinnerShare": 0.24615384615384617,
       "consensusWinner": "Crystal Rose",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -19769,16 +19769,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/YVyPvY473gN/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/MordekaiserMains",
-      "totalVotes": 60,
-      "participantCount": 60,
-      "lastVoteAt": "2026-07-26T17:47:32.000Z",
+      "totalVotes": 61,
+      "participantCount": 61,
+      "lastVoteAt": "2026-07-29T23:16:22.000Z",
       "updatedAt": "2025-11-19T21:46:13.000Z",
       "winner": {
         "id": "61gDkx58Wnw",
         "name": "Sahn-Uzal Mordekaiser",
         "normalizedName": "Sahn-Uzal",
         "normalizedKey": "sahn uzal",
-        "votes": 19,
+        "votes": 20,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjrq41g6M-c.png",
         "imageSourceYear": 2025,
@@ -19795,16 +19795,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.31666666666666665,
-      "marginVotes": 5,
-      "marginShare": 0.08333333333333333,
+      "winnerShare": 0.32786885245901637,
+      "marginVotes": 6,
+      "marginShare": 0.09836065573770492,
       "options": [
         {
           "id": "61gDkx58Wnw",
           "name": "Sahn-Uzal Mordekaiser",
           "normalizedName": "Sahn-Uzal",
           "normalizedKey": "sahn uzal",
-          "votes": 19,
+          "votes": 20,
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjrq41g6M-c.png",
           "imageSourceYear": 2025,
@@ -34083,9 +34083,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NoZrzAXqeZ3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/zyramains",
-      "totalVotes": 64,
-      "participantCount": 64,
-      "lastVoteAt": "2026-07-22T20:19:48.000Z",
+      "totalVotes": 65,
+      "participantCount": 65,
+      "lastVoteAt": "2026-07-30T04:05:19.000Z",
       "updatedAt": "2025-11-19T21:48:34.000Z",
       "winner": {
         "id": "BDyNQ6M2OZR",
@@ -34109,9 +34109,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.25,
+      "winnerShare": 0.24615384615384617,
       "marginVotes": 6,
-      "marginShare": 0.09375,
+      "marginShare": 0.09230769230769231,
       "options": [
         {
           "id": "BDyNQ6M2OZR",
@@ -34147,6 +34147,17 @@ window.POLL_DATA = {
           "rank": 3
         },
         {
+          "id": "Q0ZpGDzW6gM",
+          "name": "Dragon Sorceress Zyra",
+          "normalizedName": "Dragon Sorceress",
+          "normalizedKey": "dragon sorceress",
+          "votes": 7,
+          "position": 4,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLd1aqy4k-c.png",
+          "imageSourceYear": 2025,
+          "rank": 4
+        },
+        {
           "id": "eJnvGEej9gv",
           "name": "Spirit Blossom Zyra",
           "normalizedName": "Spirit Blossom",
@@ -34154,17 +34165,6 @@ window.POLL_DATA = {
           "votes": 7,
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoDbzZBO-c.png",
-          "imageSourceYear": 2025,
-          "rank": 4
-        },
-        {
-          "id": "Q0ZpGDzW6gM",
-          "name": "Dragon Sorceress Zyra",
-          "normalizedName": "Dragon Sorceress",
-          "normalizedKey": "dragon sorceress",
-          "votes": 6,
-          "position": 4,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLd1aqy4k-c.png",
           "imageSourceYear": 2025,
           "rank": 5
         },
