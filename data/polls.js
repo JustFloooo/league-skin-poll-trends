@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-08-02T08:25:27.101Z",
-  "startedAt": "2026-08-02T08:25:16.822Z",
+  "fetchedAt": "2026-08-03T09:47:56.223Z",
+  "startedAt": "2026-08-03T09:47:45.923Z",
   "sources": [
     {
       "year": 2024,
@@ -1008,20 +1008,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1662,
+      "totalVotesAcrossYears": 1663,
       "latestYear": 2025,
       "latestWinner": {
         "id": "3RnYb7opAge",
         "name": "iG Fiora",
         "normalizedName": "iG",
         "normalizedKey": "ig",
-        "votes": 15,
+        "votes": 16,
         "position": 8,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Qrgerm4bZpY-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2727272727272727,
+      "latestWinnerShare": 0.2857142857142857,
       "consensusWinner": "iG",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -10822,16 +10822,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/Qrgewl8jLyp/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/FioraMains",
-      "totalVotes": 55,
-      "participantCount": 55,
-      "lastVoteAt": "2026-07-25T00:22:02.000Z",
+      "totalVotes": 56,
+      "participantCount": 56,
+      "lastVoteAt": "2026-08-03T03:02:48.000Z",
       "updatedAt": "2025-11-19T21:44:47.000Z",
       "winner": {
         "id": "3RnYb7opAge",
         "name": "iG Fiora",
         "normalizedName": "iG",
         "normalizedKey": "ig",
-        "votes": 15,
+        "votes": 16,
         "position": 8,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Qrgerm4bZpY-c.png",
         "imageSourceYear": 2025,
@@ -10848,16 +10848,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2727272727272727,
-      "marginVotes": 3,
-      "marginShare": 0.05454545454545454,
+      "winnerShare": 0.2857142857142857,
+      "marginVotes": 4,
+      "marginShare": 0.07142857142857142,
       "options": [
         {
           "id": "3RnYb7opAge",
           "name": "iG Fiora",
           "normalizedName": "iG",
           "normalizedKey": "ig",
-          "votes": 15,
+          "votes": 16,
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Qrgerm4bZpY-c.png",
           "imageSourceYear": 2025,
