@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-08-05T08:37:27.086Z",
-  "startedAt": "2026-08-05T08:37:17.075Z",
+  "fetchedAt": "2026-08-06T08:37:10.975Z",
+  "startedAt": "2026-08-06T08:37:00.801Z",
   "sources": [
     {
       "year": 2024,
@@ -534,20 +534,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1812,
+      "totalVotesAcrossYears": 1813,
       "latestYear": 2025,
       "latestWinner": {
         "id": "05ZdbN5d4n6",
         "name": "Zombie Brand",
         "normalizedName": "Zombie",
         "normalizedKey": "zombie",
-        "votes": 44,
+        "votes": 45,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPJE4Z6P-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.6197183098591549,
+      "latestWinnerShare": 0.625,
       "consensusWinner": "Zombie",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -812,20 +812,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2138,
+      "totalVotesAcrossYears": 2139,
       "latestYear": 2025,
       "latestWinner": {
         "id": "1Mnw3JQK0n7",
         "name": "Corporate Mundo",
         "normalizedName": "Corporate Mundo",
         "normalizedKey": "corporate mundo",
-        "votes": 61,
+        "votes": 62,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMJlnOl-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.9242424242424242,
+      "latestWinnerShare": 0.9253731343283582,
       "consensusWinner": "Corporate Mundo",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -1120,20 +1120,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1602,
+      "totalVotesAcrossYears": 1603,
       "latestYear": 2025,
       "latestWinner": {
         "id": "Q0ZpGD0dVgM",
         "name": "God-King Garen",
         "normalizedName": "God-King",
         "normalizedKey": "god king",
-        "votes": 27,
+        "votes": 28,
         "position": 9,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDemneA-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.5094339622641509,
+      "latestWinnerShare": 0.5185185185185185,
       "consensusWinner": "God-King",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1314,20 +1314,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 3,
-      "totalVotesAcrossYears": 567,
+      "totalVotesAcrossYears": 568,
       "latestYear": 2025,
       "latestWinner": {
         "id": "PKglG8o79np",
         "name": "Winterblessed Hwei",
         "normalizedName": "Winterblessed",
         "normalizedKey": "winterblessed",
-        "votes": 19,
+        "votes": 20,
         "position": 1,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjrqX3g6M-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4222222222222222,
+      "latestWinnerShare": 0.43478260869565216,
       "consensusWinner": "Winterblessed",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -2622,7 +2622,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 707,
+      "totalVotesAcrossYears": 708,
       "latestYear": 2025,
       "latestWinner": {
         "id": "eJnvGEG79gv",
@@ -2635,7 +2635,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.34210526315789475,
+      "latestWinnerShare": 0.3333333333333333,
       "consensusWinner": "Coven",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -7716,16 +7716,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/Dwyo3A8rDyA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/BrandMains",
-      "totalVotes": 71,
-      "participantCount": 71,
-      "lastVoteAt": "2026-07-31T12:41:36.000Z",
+      "totalVotes": 72,
+      "participantCount": 72,
+      "lastVoteAt": "2026-08-06T07:38:05.000Z",
       "updatedAt": "2025-11-19T21:44:20.000Z",
       "winner": {
         "id": "05ZdbN5d4n6",
         "name": "Zombie Brand",
         "normalizedName": "Zombie",
         "normalizedKey": "zombie",
-        "votes": 44,
+        "votes": 45,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPJE4Z6P-c.png",
         "imageSourceYear": 2025,
@@ -7742,16 +7742,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.6197183098591549,
-      "marginVotes": 38,
-      "marginShare": 0.5352112676056338,
+      "winnerShare": 0.625,
+      "marginVotes": 39,
+      "marginShare": 0.5416666666666666,
       "options": [
         {
           "id": "05ZdbN5d4n6",
           "name": "Zombie Brand",
           "normalizedName": "Zombie",
           "normalizedKey": "zombie",
-          "votes": 44,
+          "votes": 45,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPJE4Z6P-c.png",
           "imageSourceYear": 2025,
@@ -9413,16 +9413,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/7MZ0kXLPRgo/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/DrMundoMains",
-      "totalVotes": 66,
-      "participantCount": 66,
-      "lastVoteAt": "2026-07-21T01:11:48.000Z",
+      "totalVotes": 67,
+      "participantCount": 67,
+      "lastVoteAt": "2026-08-06T06:51:37.000Z",
       "updatedAt": "2025-11-19T21:44:36.000Z",
       "winner": {
         "id": "1Mnw3JQK0n7",
         "name": "Corporate Mundo",
         "normalizedName": "Corporate Mundo",
         "normalizedKey": "corporate mundo",
-        "votes": 61,
+        "votes": 62,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMJlnOl-c.png",
         "imageSourceYear": 2025,
@@ -9439,16 +9439,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.9242424242424242,
-      "marginVotes": 58,
-      "marginShare": 0.8787878787878788,
+      "winnerShare": 0.9253731343283582,
+      "marginVotes": 59,
+      "marginShare": 0.8805970149253731,
       "options": [
         {
           "id": "1Mnw3JQK0n7",
           "name": "Corporate Mundo",
           "normalizedName": "Corporate Mundo",
           "normalizedKey": "corporate mundo",
-          "votes": 61,
+          "votes": 62,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMJlnOl-c.png",
           "imageSourceYear": 2025,
@@ -11580,16 +11580,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/eJnvVAJOmnv/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/GarenMains",
-      "totalVotes": 53,
-      "participantCount": 53,
-      "lastVoteAt": "2026-07-24T15:47:48.000Z",
+      "totalVotes": 54,
+      "participantCount": 54,
+      "lastVoteAt": "2026-08-05T10:36:05.000Z",
       "updatedAt": "2025-11-19T21:44:54.000Z",
       "winner": {
         "id": "Q0ZpGD0dVgM",
         "name": "God-King Garen",
         "normalizedName": "God-King",
         "normalizedKey": "god king",
-        "votes": 27,
+        "votes": 28,
         "position": 9,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDemneA-c.png",
         "imageSourceYear": 2025,
@@ -11606,16 +11606,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.5094339622641509,
-      "marginVotes": 21,
-      "marginShare": 0.39622641509433965,
+      "winnerShare": 0.5185185185185185,
+      "marginVotes": 22,
+      "marginShare": 0.4074074074074074,
       "options": [
         {
           "id": "Q0ZpGD0dVgM",
           "name": "God-King Garen",
           "normalizedName": "God-King",
           "normalizedKey": "god king",
-          "votes": 27,
+          "votes": 28,
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDemneA-c.png",
           "imageSourceYear": 2025,
@@ -12813,16 +12813,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NMnQNewodg6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/HweiMains",
-      "totalVotes": 45,
-      "participantCount": 45,
-      "lastVoteAt": "2026-07-31T12:39:31.000Z",
+      "totalVotes": 46,
+      "participantCount": 46,
+      "lastVoteAt": "2026-08-06T03:15:17.000Z",
       "updatedAt": "2025-11-19T21:45:05.000Z",
       "winner": {
         "id": "PKglG8o79np",
         "name": "Winterblessed Hwei",
         "normalizedName": "Winterblessed",
         "normalizedKey": "winterblessed",
-        "votes": 19,
+        "votes": 20,
         "position": 1,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjrqX3g6M-c.png",
         "imageSourceYear": 2025,
@@ -12839,16 +12839,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4222222222222222,
-      "marginVotes": 1,
-      "marginShare": 0.022222222222222223,
+      "winnerShare": 0.43478260869565216,
+      "marginVotes": 2,
+      "marginShare": 0.043478260869565216,
       "options": [
         {
           "id": "PKglG8o79np",
           "name": "Winterblessed Hwei",
           "normalizedName": "Winterblessed",
           "normalizedKey": "winterblessed",
-          "votes": 19,
+          "votes": 20,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjrqX3g6M-c.png",
           "imageSourceYear": 2025,
@@ -21208,9 +21208,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/GeZARjLqRyV/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/NilahMains",
-      "totalVotes": 38,
-      "participantCount": 38,
-      "lastVoteAt": "2026-07-31T12:28:48.000Z",
+      "totalVotes": 39,
+      "participantCount": 39,
+      "lastVoteAt": "2026-08-06T03:11:59.000Z",
       "updatedAt": "2025-11-19T21:46:28.000Z",
       "winner": {
         "id": "eJnvGEG79gv",
@@ -21234,7 +21234,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.34210526315789475,
+      "winnerShare": 0.3333333333333333,
       "marginVotes": 0,
       "marginShare": 0,
       "options": [
@@ -21261,6 +21261,17 @@ window.POLL_DATA = {
           "rank": 2
         },
         {
+          "id": "BDyNQ6QjOZR",
+          "name": "Star Guardian Nilah",
+          "normalizedName": "Star Guardian",
+          "normalizedKey": "star guardian",
+          "votes": 7,
+          "position": 1,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdwEBn3K-c.png",
+          "imageSourceYear": 2025,
+          "rank": 3
+        },
+        {
           "id": "DwyodBdqonA",
           "name": "Original Nilah",
           "normalizedName": "Original",
@@ -21268,17 +21279,6 @@ window.POLL_DATA = {
           "votes": 6,
           "position": 0,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxbkyWV-c.png",
-          "imageSourceYear": 2025,
-          "rank": 3
-        },
-        {
-          "id": "BDyNQ6QjOZR",
-          "name": "Star Guardian Nilah",
-          "normalizedName": "Star Guardian",
-          "normalizedKey": "star guardian",
-          "votes": 6,
-          "position": 1,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdwEBn3K-c.png",
           "imageSourceYear": 2025,
           "rank": 4
         }
