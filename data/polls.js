@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-08-11T07:09:15.168Z",
-  "startedAt": "2026-08-11T07:09:04.567Z",
+  "fetchedAt": "2026-08-12T07:25:57.938Z",
+  "startedAt": "2026-08-12T07:25:47.627Z",
   "sources": [
     {
       "year": 2024,
@@ -64,7 +64,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 8123,
+      "totalVotesAcrossYears": 8124,
       "latestYear": 2025,
       "latestWinner": {
         "id": "1Mnw3JQd5n7",
@@ -77,7 +77,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2737642585551331,
+      "latestWinnerShare": 0.2727272727272727,
       "consensusWinner": "Prestige Blood Moon",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -2958,7 +2958,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 810,
+      "totalVotesAcrossYears": 811,
       "latestYear": 2025,
       "latestWinner": {
         "id": "kogjGMG7PZ6",
@@ -2971,7 +2971,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.5277777777777778,
+      "latestWinnerShare": 0.5135135135135135,
       "consensusWinner": "Durian Defender",
       "consensusWins": 2,
       "changedFromPrevious": false
@@ -3322,7 +3322,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1509,
+      "totalVotesAcrossYears": 1510,
       "latestYear": 2025,
       "latestWinner": {
         "id": "eNg6MYM7enA",
@@ -3335,7 +3335,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.48214285714285715,
+      "latestWinnerShare": 0.47368421052631576,
       "consensusWinner": "Spirit Blossom",
       "consensusWins": 4,
       "changedFromPrevious": false
@@ -4852,9 +4852,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/wby5QEL1wyA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AatroxMains",
-      "totalVotes": 263,
-      "participantCount": 263,
-      "lastVoteAt": "2026-08-11T03:35:13.000Z",
+      "totalVotes": 264,
+      "participantCount": 264,
+      "lastVoteAt": "2026-08-11T22:03:23.000Z",
       "updatedAt": "2025-11-19T21:43:53.000Z",
       "winner": {
         "id": "1Mnw3JQd5n7",
@@ -4872,15 +4872,15 @@ window.POLL_DATA = {
         "name": "Blood Moon Aatrox",
         "normalizedName": "Blood Moon",
         "normalizedKey": "blood moon",
-        "votes": 43,
+        "votes": 44,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PbZqrYvByN1-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2737642585551331,
-      "marginVotes": 29,
-      "marginShare": 0.11026615969581749,
+      "winnerShare": 0.2727272727272727,
+      "marginVotes": 28,
+      "marginShare": 0.10606060606060606,
       "options": [
         {
           "id": "1Mnw3JQd5n7",
@@ -4898,7 +4898,7 @@ window.POLL_DATA = {
           "name": "Blood Moon Aatrox",
           "normalizedName": "Blood Moon",
           "normalizedKey": "blood moon",
-          "votes": 43,
+          "votes": 44,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PbZqrYvByN1-c.png",
           "imageSourceYear": 2025,
@@ -23108,9 +23108,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/Q0Zp701lxgM/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/RammusMains",
-      "totalVotes": 36,
-      "participantCount": 36,
-      "lastVoteAt": "2026-07-07T02:18:34.000Z",
+      "totalVotes": 37,
+      "participantCount": 37,
+      "lastVoteAt": "2026-08-11T07:18:03.000Z",
       "updatedAt": "2025-11-19T21:46:47.000Z",
       "winner": {
         "id": "kogjGMG7PZ6",
@@ -23134,9 +23134,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.5277777777777778,
+      "winnerShare": 0.5135135135135135,
       "marginVotes": 15,
-      "marginShare": 0.4166666666666667,
+      "marginShare": 0.40540540540540543,
       "options": [
         {
           "id": "kogjGMG7PZ6",
@@ -23183,6 +23183,17 @@ window.POLL_DATA = {
           "rank": 4
         },
         {
+          "id": "w4nWb2beqyA",
+          "name": "Ninja Rammus",
+          "normalizedName": "Ninja",
+          "normalizedKey": "ninja",
+          "votes": 2,
+          "position": 5,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PbZqrYlWyN1-c.png",
+          "imageSourceYear": 2025,
+          "rank": 5
+        },
+        {
           "id": "3RnYb7bYxge",
           "name": "Guardian of the Sands Rammus",
           "normalizedName": "Guardian of the Sands",
@@ -23191,7 +23202,7 @@ window.POLL_DATA = {
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GPgVWpOBZaE-c.png",
           "imageSourceYear": 2025,
-          "rank": 5
+          "rank": 6
         },
         {
           "id": "PKglG8GBQnp",
@@ -23202,7 +23213,7 @@ window.POLL_DATA = {
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GeZAAoEjZV5-c.png",
           "imageSourceYear": 2025,
-          "rank": 6
+          "rank": 7
         },
         {
           "id": "40ZmG9G1Ana",
@@ -23213,7 +23224,7 @@ window.POLL_DATA = {
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/61gDdbWRgwd-c.png",
           "imageSourceYear": 2025,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "e6Z2dad5wnN",
@@ -23223,17 +23234,6 @@ window.POLL_DATA = {
           "votes": 1,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BJnXYlzxgvV-c.png",
-          "imageSourceYear": 2025,
-          "rank": 8
-        },
-        {
-          "id": "w4nWb2beqyA",
-          "name": "Ninja Rammus",
-          "normalizedName": "Ninja",
-          "normalizedKey": "ninja",
-          "votes": 1,
-          "position": 5,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PbZqrYlWyN1-c.png",
           "imageSourceYear": 2025,
           "rank": 9
         },
@@ -25104,9 +25104,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NMnQNewjAg6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/settmains",
-      "totalVotes": 56,
-      "participantCount": 56,
-      "lastVoteAt": "2026-08-11T03:34:38.000Z",
+      "totalVotes": 57,
+      "participantCount": 57,
+      "lastVoteAt": "2026-08-11T22:23:21.000Z",
       "updatedAt": "2025-11-19T21:47:08.000Z",
       "winner": {
         "id": "eNg6MYM7enA",
@@ -25120,19 +25120,19 @@ window.POLL_DATA = {
         "rank": 1
       },
       "runnerUp": {
-        "id": "kjn1MzMmAnQ",
-        "name": "Obsidian Dragon Sett",
-        "normalizedName": "Obsidian Dragon",
-        "normalizedKey": "obsidian dragon",
-        "votes": 7,
-        "position": 2,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/poy9K6WDgJr-c.png",
+        "id": "BJnXbWbpLZv",
+        "name": "Soul Fighter Sett",
+        "normalizedName": "Soul Fighter",
+        "normalizedKey": "soul fighter",
+        "votes": 8,
+        "position": 7,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6Nl9LgAk-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.48214285714285715,
-      "marginVotes": 20,
-      "marginShare": 0.35714285714285715,
+      "winnerShare": 0.47368421052631576,
+      "marginVotes": 19,
+      "marginShare": 0.3333333333333333,
       "options": [
         {
           "id": "eNg6MYM7enA",
@@ -25146,6 +25146,17 @@ window.POLL_DATA = {
           "rank": 1
         },
         {
+          "id": "BJnXbWbpLZv",
+          "name": "Soul Fighter Sett",
+          "normalizedName": "Soul Fighter",
+          "normalizedKey": "soul fighter",
+          "votes": 8,
+          "position": 7,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6Nl9LgAk-c.png",
+          "imageSourceYear": 2025,
+          "rank": 2
+        },
+        {
           "id": "kjn1MzMmAnQ",
           "name": "Obsidian Dragon Sett",
           "normalizedName": "Obsidian Dragon",
@@ -25153,17 +25164,6 @@ window.POLL_DATA = {
           "votes": 7,
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/poy9K6WDgJr-c.png",
-          "imageSourceYear": 2025,
-          "rank": 2
-        },
-        {
-          "id": "BJnXbWbpLZv",
-          "name": "Soul Fighter Sett",
-          "normalizedName": "Soul Fighter",
-          "normalizedKey": "soul fighter",
-          "votes": 7,
-          "position": 7,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6Nl9LgAk-c.png",
           "imageSourceYear": 2025,
           "rank": 3
         },
