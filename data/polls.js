@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-08-12T07:25:57.938Z",
-  "startedAt": "2026-08-12T07:25:47.627Z",
+  "fetchedAt": "2026-08-13T07:28:25.066Z",
+  "startedAt": "2026-08-13T07:28:14.938Z",
   "sources": [
     {
       "year": 2024,
@@ -1064,20 +1064,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1264,
+      "totalVotesAcrossYears": 1265,
       "latestYear": 2025,
       "latestWinner": {
         "id": "kogjGM5J9Z6",
         "name": "Birdio",
         "normalizedName": "Birdio",
         "normalizedKey": "birdio",
-        "votes": 23,
+        "votes": 24,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GeZAAoxJZV5-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.5227272727272727,
+      "latestWinnerShare": 0.5333333333333333,
       "consensusWinner": "Birdio",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2510,7 +2510,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1054,
+      "totalVotesAcrossYears": 1055,
       "latestYear": 2025,
       "latestWinner": {
         "id": "2ayLwDaxMZ4",
@@ -2523,7 +2523,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.35714285714285715,
+      "latestWinnerShare": 0.3488372093023256,
       "consensusWinner": "Infernal",
       "consensusWins": 4,
       "changedFromPrevious": false
@@ -4739,7 +4739,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 932,
+      "totalVotesAcrossYears": 933,
       "latestYear": 2025,
       "latestWinner": {
         "id": "NoZrR624BZ3",
@@ -4752,7 +4752,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2682926829268293,
+      "latestWinnerShare": 0.2619047619047619,
       "consensusWinner": "BZZZiggs",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -11245,16 +11245,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/GJn44OL3Xnz/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/galiomains",
-      "totalVotes": 44,
-      "participantCount": 44,
-      "lastVoteAt": "2026-08-03T11:16:57.000Z",
+      "totalVotes": 45,
+      "participantCount": 45,
+      "lastVoteAt": "2026-08-13T02:29:02.000Z",
       "updatedAt": "2025-11-19T21:44:50.000Z",
       "winner": {
         "id": "kogjGM5J9Z6",
         "name": "Birdio",
         "normalizedName": "Birdio",
         "normalizedKey": "birdio",
-        "votes": 23,
+        "votes": 24,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GeZAAoxJZV5-c.png",
         "imageSourceYear": 2025,
@@ -11271,16 +11271,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.5227272727272727,
-      "marginVotes": 15,
-      "marginShare": 0.3409090909090909,
+      "winnerShare": 0.5333333333333333,
+      "marginVotes": 16,
+      "marginShare": 0.35555555555555557,
       "options": [
         {
           "id": "kogjGM5J9Z6",
           "name": "Birdio",
           "normalizedName": "Birdio",
           "normalizedKey": "birdio",
-          "votes": 23,
+          "votes": 24,
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GeZAAoxJZV5-c.png",
           "imageSourceYear": 2025,
@@ -20472,9 +20472,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/61gD95J1VZw/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/nasusmains",
-      "totalVotes": 42,
-      "participantCount": 42,
-      "lastVoteAt": "2026-07-31T12:29:46.000Z",
+      "totalVotes": 43,
+      "participantCount": 43,
+      "lastVoteAt": "2026-08-12T07:28:11.000Z",
       "updatedAt": "2025-11-19T21:46:22.000Z",
       "winner": {
         "id": "2ayLwDaxMZ4",
@@ -20498,9 +20498,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.35714285714285715,
+      "winnerShare": 0.3488372093023256,
       "marginVotes": 3,
-      "marginShare": 0.07142857142857142,
+      "marginShare": 0.06976744186046512,
       "options": [
         {
           "id": "2ayLwDaxMZ4",
@@ -20529,7 +20529,7 @@ window.POLL_DATA = {
           "name": "Nightbringer Nasus",
           "normalizedName": "Nightbringer",
           "normalizedKey": "nightbringer",
-          "votes": 5,
+          "votes": 6,
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NMnQJWlDg6Y-c.png",
           "imageSourceYear": 2025,
@@ -33619,9 +33619,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/PKgleobr9Zp/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ZiggsMains",
-      "totalVotes": 41,
-      "participantCount": 41,
-      "lastVoteAt": "2026-07-31T12:12:42.000Z",
+      "totalVotes": 42,
+      "participantCount": 42,
+      "lastVoteAt": "2026-08-12T15:49:02.000Z",
       "updatedAt": "2025-11-19T21:48:30.000Z",
       "winner": {
         "id": "NoZrR624BZ3",
@@ -33639,15 +33639,15 @@ window.POLL_DATA = {
         "name": "BZZZiggs",
         "normalizedName": "BZZZiggs",
         "normalizedKey": "bzzziggs",
-        "votes": 8,
+        "votes": 9,
         "position": 10,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdeoByWV-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2682926829268293,
-      "marginVotes": 3,
-      "marginShare": 0.07317073170731707,
+      "winnerShare": 0.2619047619047619,
+      "marginVotes": 2,
+      "marginShare": 0.047619047619047616,
       "options": [
         {
           "id": "NoZrR624BZ3",
@@ -33665,7 +33665,7 @@ window.POLL_DATA = {
           "name": "BZZZiggs",
           "normalizedName": "BZZZiggs",
           "normalizedKey": "bzzziggs",
-          "votes": 8,
+          "votes": 9,
           "position": 10,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdeoByWV-c.png",
           "imageSourceYear": 2025,
