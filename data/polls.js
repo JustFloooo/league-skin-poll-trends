@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-08-18T06:44:03.020Z",
-  "startedAt": "2026-08-18T06:43:52.595Z",
+  "fetchedAt": "2026-08-19T06:44:30.085Z",
+  "startedAt": "2026-08-19T06:44:19.950Z",
   "sources": [
     {
       "year": 2024,
@@ -2874,7 +2874,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1360,
+      "totalVotesAcrossYears": 1361,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BJnXbWb7XZv",
@@ -2887,7 +2887,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.288135593220339,
+      "latestWinnerShare": 0.2833333333333333,
       "consensusWinner": "Prestige True Damage",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -22655,9 +22655,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e7ZJam7Kdg3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/QiyanaMains",
-      "totalVotes": 59,
-      "participantCount": 59,
-      "lastVoteAt": "2026-07-31T12:27:23.000Z",
+      "totalVotes": 60,
+      "participantCount": 60,
+      "lastVoteAt": "2026-08-19T05:23:11.000Z",
       "updatedAt": "2025-11-19T21:46:42.000Z",
       "winner": {
         "id": "BJnXbWb7XZv",
@@ -22675,15 +22675,15 @@ window.POLL_DATA = {
         "name": "Battle Queen Qiyana",
         "normalizedName": "Battle Queen",
         "normalizedKey": "battle queen",
-        "votes": 13,
+        "votes": 14,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMjlnOl-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.288135593220339,
-      "marginVotes": 4,
-      "marginShare": 0.06779661016949153,
+      "winnerShare": 0.2833333333333333,
+      "marginVotes": 3,
+      "marginShare": 0.05,
       "options": [
         {
           "id": "BJnXbWb7XZv",
@@ -22701,7 +22701,7 @@ window.POLL_DATA = {
           "name": "Battle Queen Qiyana",
           "normalizedName": "Battle Queen",
           "normalizedKey": "battle queen",
-          "votes": 13,
+          "votes": 14,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMjlnOl-c.png",
           "imageSourceYear": 2025,
