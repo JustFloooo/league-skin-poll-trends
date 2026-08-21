@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-08-20T06:47:11.781Z",
-  "startedAt": "2026-08-20T06:47:01.687Z",
+  "fetchedAt": "2026-08-21T06:49:07.338Z",
+  "startedAt": "2026-08-21T06:48:57.341Z",
   "sources": [
     {
       "year": 2024,
@@ -812,20 +812,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2140,
+      "totalVotesAcrossYears": 2141,
       "latestYear": 2025,
       "latestWinner": {
         "id": "1Mnw3JQK0n7",
         "name": "Corporate Mundo",
         "normalizedName": "Corporate Mundo",
         "normalizedKey": "corporate mundo",
-        "votes": 63,
+        "votes": 64,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMJlnOl-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.9264705882352942,
+      "latestWinnerShare": 0.927536231884058,
       "consensusWinner": "Corporate Mundo",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -9413,16 +9413,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/7MZ0kXLPRgo/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/DrMundoMains",
-      "totalVotes": 68,
-      "participantCount": 68,
-      "lastVoteAt": "2026-08-16T22:39:35.000Z",
+      "totalVotes": 69,
+      "participantCount": 69,
+      "lastVoteAt": "2026-08-20T13:17:04.000Z",
       "updatedAt": "2025-11-19T21:44:36.000Z",
       "winner": {
         "id": "1Mnw3JQK0n7",
         "name": "Corporate Mundo",
         "normalizedName": "Corporate Mundo",
         "normalizedKey": "corporate mundo",
-        "votes": 63,
+        "votes": 64,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMJlnOl-c.png",
         "imageSourceYear": 2025,
@@ -9439,16 +9439,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.9264705882352942,
-      "marginVotes": 60,
-      "marginShare": 0.8823529411764706,
+      "winnerShare": 0.927536231884058,
+      "marginVotes": 61,
+      "marginShare": 0.8840579710144928,
       "options": [
         {
           "id": "1Mnw3JQK0n7",
           "name": "Corporate Mundo",
           "normalizedName": "Corporate Mundo",
           "normalizedKey": "corporate mundo",
-          "votes": 63,
+          "votes": 64,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMJlnOl-c.png",
           "imageSourceYear": 2025,
