@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-08-21T06:49:07.338Z",
-  "startedAt": "2026-08-21T06:48:57.341Z",
+  "fetchedAt": "2026-08-22T06:41:05.335Z",
+  "startedAt": "2026-08-22T06:40:55.105Z",
   "sources": [
     {
       "year": 2024,
@@ -341,7 +341,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 3498,
+      "totalVotesAcrossYears": 3499,
       "latestYear": 2025,
       "latestWinner": {
         "id": "eNg6MY2KwnA",
@@ -354,7 +354,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.376,
+      "latestWinnerShare": 0.373015873015873,
       "consensusWinner": "High Noon",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -3879,20 +3879,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1357,
+      "totalVotesAcrossYears": 1358,
       "latestYear": 2025,
       "latestWinner": {
         "id": "XmZRbEb5PZd",
         "name": "Dragon Trainer Tristana",
         "normalizedName": "Dragon Trainer",
         "normalizedKey": "dragon trainer",
-        "votes": 17,
+        "votes": 18,
         "position": 7,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/DwyoLkVDnAz-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3090909090909091,
+      "latestWinnerShare": 0.32142857142857145,
       "consensusWinner": "Dragon Trainer",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -6703,9 +6703,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/40Zm4ALrwga/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AsheMains",
-      "totalVotes": 125,
-      "participantCount": 125,
-      "lastVoteAt": "2026-08-16T22:35:32.000Z",
+      "totalVotes": 126,
+      "participantCount": 126,
+      "lastVoteAt": "2026-08-21T11:58:21.000Z",
       "updatedAt": "2025-11-19T21:44:09.000Z",
       "winner": {
         "id": "eNg6MY2KwnA",
@@ -6729,9 +6729,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.376,
+      "winnerShare": 0.373015873015873,
       "marginVotes": 18,
-      "marginShare": 0.144,
+      "marginShare": 0.14285714285714285,
       "options": [
         {
           "id": "eNg6MY2KwnA",
@@ -6822,6 +6822,17 @@ window.POLL_DATA = {
           "rank": 8
         },
         {
+          "id": "61gDkxPlanw",
+          "name": "Worlds 2017 Ashe",
+          "normalizedName": "Worlds 2017",
+          "normalizedKey": "worlds 2017",
+          "votes": 2,
+          "position": 9,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/bVg8P4mNgYa-c.png",
+          "imageSourceYear": 2025,
+          "rank": 9
+        },
+        {
           "id": "mpnbbQ4YQn5",
           "name": "Ocean Song Ashe",
           "normalizedName": "Ocean Song",
@@ -6830,7 +6841,7 @@ window.POLL_DATA = {
           "position": 14,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPJalZ6P-c.png",
           "imageSourceYear": 2025,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "GPgVbaJ1Aga",
@@ -6841,7 +6852,7 @@ window.POLL_DATA = {
           "position": 15,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6N4EwgAk-c.png",
           "imageSourceYear": 2025,
-          "rank": 10
+          "rank": 11
         },
         {
           "id": "jVyGerP46g7",
@@ -6852,7 +6863,7 @@ window.POLL_DATA = {
           "position": 0,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/DwyoLP0YnAz-c.png",
           "imageSourceYear": 2025,
-          "rank": 11
+          "rank": 12
         },
         {
           "id": "kjn1MzEKGnQ",
@@ -6862,17 +6873,6 @@ window.POLL_DATA = {
           "votes": 1,
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/6QnML89lye9-c.png",
-          "imageSourceYear": 2025,
-          "rank": 12
-        },
-        {
-          "id": "61gDkxPlanw",
-          "name": "Worlds 2017 Ashe",
-          "normalizedName": "Worlds 2017",
-          "normalizedKey": "worlds 2017",
-          "votes": 1,
-          "position": 9,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/bVg8P4mNgYa-c.png",
           "imageSourceYear": 2025,
           "rank": 13
         },
@@ -28531,16 +28531,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/BDyNzWpAkyR/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/TristanaMains",
-      "totalVotes": 55,
-      "participantCount": 55,
-      "lastVoteAt": "2026-07-31T12:20:39.000Z",
+      "totalVotes": 56,
+      "participantCount": 56,
+      "lastVoteAt": "2026-08-21T11:54:46.000Z",
       "updatedAt": "2025-11-19T21:47:39.000Z",
       "winner": {
         "id": "XmZRbEb5PZd",
         "name": "Dragon Trainer Tristana",
         "normalizedName": "Dragon Trainer",
         "normalizedKey": "dragon trainer",
-        "votes": 17,
+        "votes": 18,
         "position": 7,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/DwyoLkVDnAz-c.png",
         "imageSourceYear": 2025,
@@ -28557,16 +28557,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3090909090909091,
-      "marginVotes": 8,
-      "marginShare": 0.14545454545454545,
+      "winnerShare": 0.32142857142857145,
+      "marginVotes": 9,
+      "marginShare": 0.16071428571428573,
       "options": [
         {
           "id": "XmZRbEb5PZd",
           "name": "Dragon Trainer Tristana",
           "normalizedName": "Dragon Trainer",
           "normalizedKey": "dragon trainer",
-          "votes": 17,
+          "votes": 18,
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/DwyoLkVDnAz-c.png",
           "imageSourceYear": 2025,
