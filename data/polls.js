@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-08-28T18:18:08.576Z",
-  "startedAt": "2026-08-28T18:17:58.617Z",
+  "fetchedAt": "2026-08-29T12:26:35.970Z",
+  "startedAt": "2026-08-29T12:26:26.025Z",
   "sources": [
     {
       "year": 2024,
@@ -2818,7 +2818,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1245,
+      "totalVotesAcrossYears": 1246,
       "latestYear": 2025,
       "latestWinner": {
         "id": "bVg8AlAB3ZY",
@@ -2831,7 +2831,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.22,
+      "latestWinnerShare": 0.21568627450980393,
       "consensusWinner": "Astronaut",
       "consensusWins": 2,
       "changedFromPrevious": true
@@ -4019,20 +4019,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 922,
+      "totalVotesAcrossYears": 923,
       "latestYear": 2025,
       "latestWinner": {
         "id": "B2ZBaPalAgJ",
         "name": "Spirit Guard Udyr",
         "normalizedName": "Spirit Guard",
         "normalizedKey": "spirit guard",
-        "votes": 25,
+        "votes": 26,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKBwRnp0-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.6410256410256411,
+      "latestWinnerShare": 0.65,
       "consensusWinner": "Spirit Guard",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -4103,23 +4103,23 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1837,
+      "totalVotesAcrossYears": 1838,
       "latestYear": 2025,
       "latestWinner": {
-        "id": "eJnvGEGOEgv",
-        "name": "Sentinel Vayne",
-        "normalizedName": "Sentinel",
-        "normalizedKey": "sentinel",
+        "id": "1Mnw3J3EMn7",
+        "name": "PROJECT: Vayne",
+        "normalizedName": "PROJECT:",
+        "normalizedKey": "project",
         "votes": 17,
-        "position": 13,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbldVyEP-c.png",
+        "position": 8,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GPgVWXL4ZaE-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.22077922077922077,
+      "latestWinnerShare": 0.21794871794871795,
       "consensusWinner": "PROJECT",
-      "consensusWins": 4,
-      "changedFromPrevious": true
+      "consensusWins": 5,
+      "changedFromPrevious": false
     },
     {
       "champion": "Veigar",
@@ -22287,9 +22287,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/xVg71mLqzyr/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/PoppyMains",
-      "totalVotes": 50,
-      "participantCount": 50,
-      "lastVoteAt": "2026-08-24T16:35:18.000Z",
+      "totalVotes": 51,
+      "participantCount": 51,
+      "lastVoteAt": "2026-08-29T04:32:46.000Z",
       "updatedAt": "2025-11-19T21:46:39.000Z",
       "winner": {
         "id": "bVg8AlAB3ZY",
@@ -22313,9 +22313,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.22,
+      "winnerShare": 0.21568627450980393,
       "marginVotes": 3,
-      "marginShare": 0.06,
+      "marginShare": 0.058823529411764705,
       "options": [
         {
           "id": "bVg8AlAB3ZY",
@@ -22395,6 +22395,17 @@ window.POLL_DATA = {
           "rank": 7
         },
         {
+          "id": "GPgVbabYzga",
+          "name": "Cafe Cuties Poppy",
+          "normalizedName": "Cafe Cuties",
+          "normalizedKey": "cafe cuties",
+          "votes": 3,
+          "position": 12,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdj76n04-c.png",
+          "imageSourceYear": 2025,
+          "rank": 8
+        },
+        {
           "id": "BJnXbWbVXZv",
           "name": "Hextech Poppy",
           "normalizedName": "Hextech",
@@ -22402,17 +22413,6 @@ window.POLL_DATA = {
           "votes": 2,
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GeZAAo08ZV5-c.png",
-          "imageSourceYear": 2025,
-          "rank": 8
-        },
-        {
-          "id": "GPgVbabYzga",
-          "name": "Cafe Cuties Poppy",
-          "normalizedName": "Cafe Cuties",
-          "normalizedKey": "cafe cuties",
-          "votes": 2,
-          "position": 12,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdj76n04-c.png",
           "imageSourceYear": 2025,
           "rank": 9
         },
@@ -29528,16 +29528,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/7MZ0kXL01go/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/Udyrmains",
-      "totalVotes": 39,
-      "participantCount": 39,
-      "lastVoteAt": "2026-08-26T21:01:47.000Z",
+      "totalVotes": 40,
+      "participantCount": 40,
+      "lastVoteAt": "2026-08-28T23:22:38.000Z",
       "updatedAt": "2025-11-19T21:47:47.000Z",
       "winner": {
         "id": "B2ZBaPalAgJ",
         "name": "Spirit Guard Udyr",
         "normalizedName": "Spirit Guard",
         "normalizedKey": "spirit guard",
-        "votes": 25,
+        "votes": 26,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKBwRnp0-c.png",
         "imageSourceYear": 2025,
@@ -29554,16 +29554,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.6410256410256411,
-      "marginVotes": 18,
-      "marginShare": 0.46153846153846156,
+      "winnerShare": 0.65,
+      "marginVotes": 19,
+      "marginShare": 0.475,
       "options": [
         {
           "id": "B2ZBaPalAgJ",
           "name": "Spirit Guard Udyr",
           "normalizedName": "Spirit Guard",
           "normalizedKey": "spirit guard",
-          "votes": 25,
+          "votes": 26,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKBwRnp0-c.png",
           "imageSourceYear": 2025,
@@ -29992,11 +29992,22 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/3RnYXoxAWye/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/vaynemains",
-      "totalVotes": 77,
-      "participantCount": 77,
-      "lastVoteAt": "2026-08-08T22:12:19.000Z",
+      "totalVotes": 78,
+      "participantCount": 78,
+      "lastVoteAt": "2026-08-28T23:40:47.000Z",
       "updatedAt": "2025-11-19T21:47:52.000Z",
       "winner": {
+        "id": "1Mnw3J3EMn7",
+        "name": "PROJECT: Vayne",
+        "normalizedName": "PROJECT:",
+        "normalizedKey": "project",
+        "votes": 17,
+        "position": 8,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GPgVWXL4ZaE-c.png",
+        "imageSourceYear": 2025,
+        "rank": 1
+      },
+      "runnerUp": {
         "id": "eJnvGEGOEgv",
         "name": "Sentinel Vayne",
         "normalizedName": "Sentinel",
@@ -30005,23 +30016,23 @@ window.POLL_DATA = {
         "position": 13,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbldVyEP-c.png",
         "imageSourceYear": 2025,
-        "rank": 1
-      },
-      "runnerUp": {
-        "id": "1Mnw3J3EMn7",
-        "name": "PROJECT: Vayne",
-        "normalizedName": "PROJECT:",
-        "normalizedKey": "project",
-        "votes": 16,
-        "position": 8,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GPgVWXL4ZaE-c.png",
-        "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.22077922077922077,
-      "marginVotes": 1,
-      "marginShare": 0.012987012987012988,
+      "winnerShare": 0.21794871794871795,
+      "marginVotes": 0,
+      "marginShare": 0,
       "options": [
+        {
+          "id": "1Mnw3J3EMn7",
+          "name": "PROJECT: Vayne",
+          "normalizedName": "PROJECT:",
+          "normalizedKey": "project",
+          "votes": 17,
+          "position": 8,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GPgVWXL4ZaE-c.png",
+          "imageSourceYear": 2025,
+          "rank": 1
+        },
         {
           "id": "eJnvGEGOEgv",
           "name": "Sentinel Vayne",
@@ -30030,17 +30041,6 @@ window.POLL_DATA = {
           "votes": 17,
           "position": 13,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbldVyEP-c.png",
-          "imageSourceYear": 2025,
-          "rank": 1
-        },
-        {
-          "id": "1Mnw3J3EMn7",
-          "name": "PROJECT: Vayne",
-          "normalizedName": "PROJECT:",
-          "normalizedKey": "project",
-          "votes": 16,
-          "position": 8,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GPgVWXL4ZaE-c.png",
           "imageSourceYear": 2025,
           "rank": 2
         },
