@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-09-08T10:47:27.504Z",
-  "startedAt": "2026-09-08T10:47:17.336Z",
+  "fetchedAt": "2026-09-09T10:54:11.190Z",
+  "startedAt": "2026-09-09T10:54:01.012Z",
   "sources": [
     {
       "year": 2024,
@@ -3571,7 +3571,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1422,
+      "totalVotesAcrossYears": 1423,
       "latestYear": 2025,
       "latestWinner": {
         "id": "w4nWb2bmQyA",
@@ -3584,7 +3584,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.37735849056603776,
+      "latestWinnerShare": 0.37037037037037035,
       "consensusWinner": "DJ",
       "consensusWins": 4,
       "changedFromPrevious": false
@@ -3599,7 +3599,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1334,
+      "totalVotesAcrossYears": 1335,
       "latestYear": 2025,
       "latestWinner": {
         "id": "bVg8AlAzNZY",
@@ -3612,7 +3612,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2807017543859649,
+      "latestWinnerShare": 0.27586206896551724,
       "consensusWinner": "Dawnbringer",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -26595,9 +26595,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/7MZ0kXLmGgo/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/sonamains",
-      "totalVotes": 53,
-      "participantCount": 53,
-      "lastVoteAt": "2026-08-26T16:00:05.000Z",
+      "totalVotes": 54,
+      "participantCount": 54,
+      "lastVoteAt": "2026-09-08T22:40:43.000Z",
       "updatedAt": "2025-11-19T21:47:22.000Z",
       "winner": {
         "id": "w4nWb2bmQyA",
@@ -26621,9 +26621,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.37735849056603776,
+      "winnerShare": 0.37037037037037035,
       "marginVotes": 10,
-      "marginShare": 0.18867924528301888,
+      "marginShare": 0.18518518518518517,
       "options": [
         {
           "id": "w4nWb2bmQyA",
@@ -26648,6 +26648,17 @@ window.POLL_DATA = {
           "rank": 2
         },
         {
+          "id": "e7ZJj1jmGZ3",
+          "name": "Prestige Immortal Journey Sona",
+          "normalizedName": "Prestige Immortal Journey",
+          "normalizedKey": "prestige immortal journey",
+          "votes": 5,
+          "position": 13,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7MZ0jNo8nom-c.png",
+          "imageSourceYear": 2025,
+          "rank": 3
+        },
+        {
           "id": "7rnz3a3AxgO",
           "name": "Spirit Blossom Springs Sona",
           "normalizedName": "Spirit Blossom Springs",
@@ -26656,7 +26667,7 @@ window.POLL_DATA = {
           "position": 15,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdbj8n04-c.png",
           "imageSourceYear": 2025,
-          "rank": 3
+          "rank": 4
         },
         {
           "id": "e6Z2dadJXnN",
@@ -26666,17 +26677,6 @@ window.POLL_DATA = {
           "votes": 4,
           "position": 5,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPqDNZ6P-c.png",
-          "imageSourceYear": 2025,
-          "rank": 4
-        },
-        {
-          "id": "e7ZJj1jmGZ3",
-          "name": "Prestige Immortal Journey Sona",
-          "normalizedName": "Prestige Immortal Journey",
-          "normalizedKey": "prestige immortal journey",
-          "votes": 4,
-          "position": 13,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7MZ0jNo8nom-c.png",
           "imageSourceYear": 2025,
           "rank": 5
         },
@@ -26812,9 +26812,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/X3nkPQ8rQgE/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/SorakaMains",
-      "totalVotes": 57,
-      "participantCount": 57,
-      "lastVoteAt": "2026-07-31T12:23:57.000Z",
+      "totalVotes": 58,
+      "participantCount": 58,
+      "lastVoteAt": "2026-09-08T22:39:20.000Z",
       "updatedAt": "2025-11-19T21:47:24.000Z",
       "winner": {
         "id": "bVg8AlAzNZY",
@@ -26838,9 +26838,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2807017543859649,
+      "winnerShare": 0.27586206896551724,
       "marginVotes": 2,
-      "marginShare": 0.03508771929824561,
+      "marginShare": 0.034482758620689655,
       "options": [
         {
           "id": "bVg8AlAzNZY",
@@ -26880,7 +26880,7 @@ window.POLL_DATA = {
           "name": "Spirit Blossom Soraka",
           "normalizedName": "Spirit Blossom",
           "normalizedKey": "spirit blossom",
-          "votes": 5,
+          "votes": 6,
           "position": 14,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdexoyWV-c.png",
           "imageSourceYear": 2025,
