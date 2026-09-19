@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-09-18T10:43:48.976Z",
-  "startedAt": "2026-09-18T10:43:38.719Z",
+  "fetchedAt": "2026-09-19T10:27:51.050Z",
+  "startedAt": "2026-09-19T10:27:41.045Z",
   "sources": [
     {
       "year": 2024,
@@ -588,7 +588,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 3,
-      "totalVotesAcrossYears": 784,
+      "totalVotesAcrossYears": 785,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e6Z2daJVJnN",
@@ -601,7 +601,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.46551724137931033,
+      "latestWinnerShare": 0.4576271186440678,
       "consensusWinner": "Original",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -3350,7 +3350,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1089,
+      "totalVotesAcrossYears": 1090,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BDyNQ6QJ7ZR",
@@ -3363,7 +3363,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.578125,
+      "latestWinnerShare": 0.5692307692307692,
       "consensusWinner": "Dark Star",
       "consensusWins": 2,
       "changedFromPrevious": true
@@ -3823,7 +3823,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1562,
+      "totalVotesAcrossYears": 1563,
       "latestYear": 2025,
       "latestWinner": {
         "id": "3RnYb7bRJge",
@@ -3836,7 +3836,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.23076923076923078,
+      "latestWinnerShare": 0.22727272727272727,
       "consensusWinner": "Beemo",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -4823,7 +4823,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1557,
+      "totalVotesAcrossYears": 1558,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BDyNQ6M2OZR",
@@ -4836,7 +4836,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.22857142857142856,
+      "latestWinnerShare": 0.22535211267605634,
       "consensusWinner": "Crystal Rose",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -8040,9 +8040,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/eJnvVAJzMnv/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/BriarMains",
-      "totalVotes": 58,
-      "participantCount": 58,
-      "lastVoteAt": "2026-08-16T22:37:24.000Z",
+      "totalVotes": 59,
+      "participantCount": 59,
+      "lastVoteAt": "2026-09-19T08:04:44.000Z",
       "updatedAt": "2025-11-19T21:44:23.000Z",
       "winner": {
         "id": "e6Z2daJVJnN",
@@ -8060,15 +8060,15 @@ window.POLL_DATA = {
         "name": "Primordian Briar",
         "normalizedName": "Primordian",
         "normalizedKey": "primordian",
-        "votes": 16,
+        "votes": 17,
         "position": 2,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/xVg7vXzMnrR-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.46551724137931033,
-      "marginVotes": 11,
-      "marginShare": 0.1896551724137931,
+      "winnerShare": 0.4576271186440678,
+      "marginVotes": 10,
+      "marginShare": 0.1694915254237288,
       "options": [
         {
           "id": "e6Z2daJVJnN",
@@ -8086,7 +8086,7 @@ window.POLL_DATA = {
           "name": "Primordian Briar",
           "normalizedName": "Primordian",
           "normalizedKey": "primordian",
-          "votes": 16,
+          "votes": 17,
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/xVg7vXzMnrR-c.png",
           "imageSourceYear": 2025,
@@ -25266,9 +25266,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/eJnvVAJwanv/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/shacomains",
-      "totalVotes": 64,
-      "participantCount": 64,
-      "lastVoteAt": "2026-09-05T11:23:04.000Z",
+      "totalVotes": 65,
+      "participantCount": 65,
+      "lastVoteAt": "2026-09-19T04:06:01.000Z",
       "updatedAt": "2025-11-19T21:47:09.000Z",
       "winner": {
         "id": "BDyNQ6QJ7ZR",
@@ -25292,9 +25292,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.578125,
+      "winnerShare": 0.5692307692307692,
       "marginVotes": 31,
-      "marginShare": 0.484375,
+      "marginShare": 0.47692307692307695,
       "options": [
         {
           "id": "BDyNQ6QJ7ZR",
@@ -25352,6 +25352,17 @@ window.POLL_DATA = {
           "rank": 5
         },
         {
+          "id": "3RnYb7bjzge",
+          "name": "Asylum Shaco",
+          "normalizedName": "Asylum",
+          "normalizedKey": "asylum",
+          "votes": 2,
+          "position": 5,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdb8Kn04-c.png",
+          "imageSourceYear": 2025,
+          "rank": 6
+        },
+        {
           "id": "QrgeGvGxjyp",
           "name": "Masked Shaco",
           "normalizedName": "Masked",
@@ -25360,7 +25371,7 @@ window.POLL_DATA = {
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbl4zyEP-c.png",
           "imageSourceYear": 2025,
-          "rank": 6
+          "rank": 7
         },
         {
           "id": "NMnQbObaAg6",
@@ -25371,7 +25382,7 @@ window.POLL_DATA = {
           "position": 13,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2w58MyNG-c.png",
           "imageSourceYear": 2025,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "DwyodBdaNnA",
@@ -25382,7 +25393,7 @@ window.POLL_DATA = {
           "position": 14,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/w4nW7erJnAL-c.png",
           "imageSourceYear": 2025,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "7rnz3a3vdgO",
@@ -25393,7 +25404,7 @@ window.POLL_DATA = {
           "position": 0,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GPgVWX6EZaE-c.png",
           "imageSourceYear": 2025,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "e6Z2dadzEnN",
@@ -25403,17 +25414,6 @@ window.POLL_DATA = {
           "votes": 1,
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GeZAABOJZV5-c.png",
-          "imageSourceYear": 2025,
-          "rank": 10
-        },
-        {
-          "id": "3RnYb7bjzge",
-          "name": "Asylum Shaco",
-          "normalizedName": "Asylum",
-          "normalizedKey": "asylum",
-          "votes": 1,
-          "position": 5,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdb8Kn04-c.png",
           "imageSourceYear": 2025,
           "rank": 11
         },
@@ -28086,9 +28086,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e2naXWV5AyB/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/TeemoTalk",
-      "totalVotes": 65,
-      "participantCount": 65,
-      "lastVoteAt": "2026-09-01T01:49:35.000Z",
+      "totalVotes": 66,
+      "participantCount": 66,
+      "lastVoteAt": "2026-09-19T04:06:05.000Z",
       "updatedAt": "2025-11-19T21:47:36.000Z",
       "winner": {
         "id": "3RnYb7bRJge",
@@ -28112,9 +28112,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.23076923076923078,
+      "winnerShare": 0.22727272727272727,
       "marginVotes": 1,
-      "marginShare": 0.015384615384615385,
+      "marginShare": 0.015151515151515152,
       "options": [
         {
           "id": "3RnYb7bRJge",
@@ -28143,7 +28143,7 @@ window.POLL_DATA = {
           "name": "Omega Squad Teemo",
           "normalizedName": "Omega Squad",
           "normalizedKey": "omega squad",
-          "votes": 12,
+          "votes": 13,
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XmZRm6DLgdb-c.png",
           "imageSourceYear": 2025,
@@ -34083,9 +34083,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NoZrzAXqeZ3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/zyramains",
-      "totalVotes": 70,
-      "participantCount": 70,
-      "lastVoteAt": "2026-09-12T06:35:12.000Z",
+      "totalVotes": 71,
+      "participantCount": 71,
+      "lastVoteAt": "2026-09-19T08:02:49.000Z",
       "updatedAt": "2025-11-19T21:48:34.000Z",
       "winner": {
         "id": "BDyNQ6M2OZR",
@@ -34099,19 +34099,19 @@ window.POLL_DATA = {
         "rank": 1
       },
       "runnerUp": {
-        "id": "1Mnw3Jl40n7",
-        "name": "Crystal Rose Zyra",
-        "normalizedName": "Crystal Rose",
-        "normalizedKey": "crystal rose",
+        "id": "kogjGMNEqZ6",
+        "name": "Coven Zyra",
+        "normalizedName": "Coven",
+        "normalizedKey": "coven",
         "votes": 10,
-        "position": 7,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOO8oag3o-c.png",
+        "position": 5,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdbz7n04-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.22857142857142856,
+      "winnerShare": 0.22535211267605634,
       "marginVotes": 6,
-      "marginShare": 0.08571428571428572,
+      "marginShare": 0.08450704225352113,
       "options": [
         {
           "id": "BDyNQ6M2OZR",
@@ -34125,6 +34125,17 @@ window.POLL_DATA = {
           "rank": 1
         },
         {
+          "id": "kogjGMNEqZ6",
+          "name": "Coven Zyra",
+          "normalizedName": "Coven",
+          "normalizedKey": "coven",
+          "votes": 10,
+          "position": 5,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdbz7n04-c.png",
+          "imageSourceYear": 2025,
+          "rank": 2
+        },
+        {
           "id": "1Mnw3Jl40n7",
           "name": "Crystal Rose Zyra",
           "normalizedName": "Crystal Rose",
@@ -34132,17 +34143,6 @@ window.POLL_DATA = {
           "votes": 10,
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOO8oag3o-c.png",
-          "imageSourceYear": 2025,
-          "rank": 2
-        },
-        {
-          "id": "kogjGMNEqZ6",
-          "name": "Coven Zyra",
-          "normalizedName": "Coven",
-          "normalizedKey": "coven",
-          "votes": 9,
-          "position": 5,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdbz7n04-c.png",
           "imageSourceYear": 2025,
           "rank": 3
         },
