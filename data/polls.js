@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-09-20T10:49:32.612Z",
-  "startedAt": "2026-09-20T10:49:22.630Z",
+  "fetchedAt": "2026-09-21T12:13:44.224Z",
+  "startedAt": "2026-09-21T12:13:34.231Z",
   "sources": [
     {
       "year": 2024,
@@ -64,7 +64,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 8148,
+      "totalVotesAcrossYears": 8149,
       "latestYear": 2025,
       "latestWinner": {
         "id": "1Mnw3JQd5n7",
@@ -77,7 +77,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2743055555555556,
+      "latestWinnerShare": 0.27335640138408307,
       "consensusWinner": "Prestige Blood Moon",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -92,20 +92,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 5847,
+      "totalVotesAcrossYears": 5848,
       "latestYear": 2025,
       "latestWinner": {
         "id": "poy9DpYJwZJ",
         "name": "Spirit Blossom Ahri",
         "normalizedName": "Spirit Blossom",
         "normalizedKey": "spirit blossom",
-        "votes": 70,
+        "votes": 71,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Q0Zprd9JnMB-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.319634703196347,
+      "latestWinnerShare": 0.32272727272727275,
       "consensusWinner": "Spirit Blossom",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -120,7 +120,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 4568,
+      "totalVotesAcrossYears": 4569,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BDyNQ61x7ZR",
@@ -133,7 +133,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.24161073825503357,
+      "latestWinnerShare": 0.24,
       "consensusWinner": "Star Guardian",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -176,20 +176,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2000,
+      "totalVotesAcrossYears": 2001,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e7ZJj1PodZ3",
         "name": "Moo Cow Alistar",
         "normalizedName": "Moo Cow",
         "normalizedKey": "moo cow",
-        "votes": 59,
+        "votes": 60,
         "position": 10,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxkNyWV-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.8082191780821918,
+      "latestWinnerShare": 0.8108108108108109,
       "consensusWinner": "Moo Cow",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -229,20 +229,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1861,
+      "totalVotesAcrossYears": 1862,
       "latestYear": 2025,
       "latestWinner": {
         "id": "NPgxGmOJPn2",
         "name": "Porcelain Amumu",
         "normalizedName": "Porcelain",
         "normalizedKey": "porcelain",
-        "votes": 17,
+        "votes": 18,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/YVyPEk19nNd-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.288135593220339,
+      "latestWinnerShare": 0.3,
       "consensusWinner": "Porcelain",
       "consensusWins": 4,
       "changedFromPrevious": false
@@ -257,20 +257,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1995,
+      "totalVotesAcrossYears": 1996,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e7ZJj1P5KZ3",
         "name": "Blackfrost Anivia",
         "normalizedName": "Blackfrost",
         "normalizedKey": "blackfrost",
-        "votes": 21,
+        "votes": 22,
         "position": 5,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kjn14AJGyQe-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3684210526315789,
+      "latestWinnerShare": 0.3793103448275862,
       "consensusWinner": "Papercraft",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -313,7 +313,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 3057,
+      "totalVotesAcrossYears": 3058,
       "latestYear": 2025,
       "latestWinner": {
         "id": "XOgOoXBGag3",
@@ -326,7 +326,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.32098765432098764,
+      "latestWinnerShare": 0.3170731707317073,
       "consensusWinner": "Spirit Blossom",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -341,7 +341,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 3500,
+      "totalVotesAcrossYears": 3501,
       "latestYear": 2025,
       "latestWinner": {
         "id": "eNg6MY2KwnA",
@@ -354,7 +354,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3779527559055118,
+      "latestWinnerShare": 0.375,
       "consensusWinner": "High Noon",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -369,20 +369,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2070,
+      "totalVotesAcrossYears": 2071,
       "latestYear": 2025,
       "latestWinner": {
         "id": "40ZmG9Wz4na",
         "name": "Porcelain Protector Aurelion Sol",
         "normalizedName": "Porcelain Protector",
         "normalizedKey": "porcelain protector",
-        "votes": 26,
+        "votes": 27,
         "position": 5,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbqpKyEP-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3939393939393939,
+      "latestWinnerShare": 0.40298507462686567,
       "consensusWinner": "Storm Dragon",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -450,7 +450,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2465,
+      "totalVotesAcrossYears": 2466,
       "latestYear": 2025,
       "latestWinner": {
         "id": "kjn1MzEeGnQ",
@@ -463,7 +463,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3150684931506849,
+      "latestWinnerShare": 0.3108108108108108,
       "consensusWinner": "Snow Day",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -534,20 +534,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1815,
+      "totalVotesAcrossYears": 1816,
       "latestYear": 2025,
       "latestWinner": {
         "id": "05ZdbN5d4n6",
         "name": "Zombie Brand",
         "normalizedName": "Zombie",
         "normalizedKey": "zombie",
-        "votes": 47,
+        "votes": 48,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPJE4Z6P-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.6351351351351351,
+      "latestWinnerShare": 0.64,
       "consensusWinner": "Zombie",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -616,20 +616,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 3548,
+      "totalVotesAcrossYears": 3549,
       "latestYear": 2025,
       "latestWinner": {
         "id": "NPgxGmOQQn2",
         "name": "Pool Party Caitlyn",
         "normalizedName": "Pool Party",
         "normalizedKey": "pool party",
-        "votes": 32,
+        "votes": 33,
         "position": 9,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/DwyoLPpxnAz-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.25,
+      "latestWinnerShare": 0.2558139534883721,
       "consensusWinner": "Battle Academia",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -644,7 +644,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2084,
+      "totalVotesAcrossYears": 2085,
       "latestYear": 2025,
       "latestWinner": {
         "id": "X3nk1rarBZE",
@@ -657,7 +657,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.24444444444444444,
+      "latestWinnerShare": 0.2391304347826087,
       "consensusWinner": "iG",
       "consensusWins": 4,
       "changedFromPrevious": false
@@ -672,20 +672,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1411,
+      "totalVotesAcrossYears": 1413,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e2nab5j5pgB",
         "name": "Spirit Blossom Cassiopeia",
         "normalizedName": "Spirit Blossom",
         "normalizedKey": "spirit blossom",
-        "votes": 27,
+        "votes": 29,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbqWByEP-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.54,
+      "latestWinnerShare": 0.5576923076923077,
       "consensusWinner": "Spirit Blossom",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -700,7 +700,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2240,
+      "totalVotesAcrossYears": 2241,
       "latestYear": 2025,
       "latestWinner": {
         "id": "PbZqxdk2WgN",
@@ -713,7 +713,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3283582089552239,
+      "latestWinnerShare": 0.3235294117647059,
       "consensusWinner": "Gentleman",
       "consensusWins": 2,
       "changedFromPrevious": false
@@ -812,20 +812,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2144,
+      "totalVotesAcrossYears": 2145,
       "latestYear": 2025,
       "latestWinner": {
         "id": "1Mnw3JQK0n7",
         "name": "Corporate Mundo",
         "normalizedName": "Corporate Mundo",
         "normalizedKey": "corporate mundo",
-        "votes": 66,
+        "votes": 67,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMJlnOl-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.9166666666666666,
+      "latestWinnerShare": 0.9178082191780822,
       "consensusWinner": "Corporate Mundo",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -952,7 +952,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 3336,
+      "totalVotesAcrossYears": 3337,
       "latestYear": 2025,
       "latestWinner": {
         "id": "xVg7MeW3ryr",
@@ -965,7 +965,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.35714285714285715,
+      "latestWinnerShare": 0.35294117647058826,
       "consensusWinner": "Battle Academia",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1064,7 +1064,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1267,
+      "totalVotesAcrossYears": 1268,
       "latestYear": 2025,
       "latestWinner": {
         "id": "kogjGM5J9Z6",
@@ -1077,7 +1077,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.5319148936170213,
+      "latestWinnerShare": 0.5208333333333334,
       "consensusWinner": "Birdio",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1204,20 +1204,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1637,
+      "totalVotesAcrossYears": 1638,
       "latestYear": 2025,
       "latestWinner": {
         "id": "LVyK4Bz1bn0",
         "name": "Crime City Graves",
         "normalizedName": "Crime City",
         "normalizedKey": "crime city",
-        "votes": 25,
+        "votes": 26,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdwqYn3K-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.46296296296296297,
+      "latestWinnerShare": 0.4727272727272727,
       "consensusWinner": "Crime City",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1454,20 +1454,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1292,
+      "totalVotesAcrossYears": 1293,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e2nab5WWpgB",
         "name": "Prestige Visions of the Fallen Jarvan IV",
         "normalizedName": "Prestige Visions of the Fallen",
         "normalizedKey": "prestige visions of the fallen",
-        "votes": 17,
+        "votes": 18,
         "position": 15,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/61gDdbjvgwd-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3333333333333333,
+      "latestWinnerShare": 0.34615384615384615,
       "consensusWinner": "Dark Star",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -1482,20 +1482,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1725,
+      "totalVotesAcrossYears": 1726,
       "latestYear": 2025,
       "latestWinner": {
         "id": "NoZrR6ARpZ3",
         "name": "God Staff Jax",
         "normalizedName": "God Staff",
         "normalizedKey": "god staff",
-        "votes": 27,
+        "votes": 28,
         "position": 10,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdjvOn04-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.40298507462686567,
+      "latestWinnerShare": 0.4117647058823529,
       "consensusWinner": "God Staff",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1510,7 +1510,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1589,
+      "totalVotesAcrossYears": 1590,
       "latestYear": 2025,
       "latestWinner": {
         "id": "X3nk1rQ1zZE",
@@ -1523,7 +1523,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.6379310344827587,
+      "latestWinnerShare": 0.6271186440677966,
       "consensusWinner": "Battle Academia",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -1538,20 +1538,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 3170,
+      "totalVotesAcrossYears": 3171,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e6Z2daRdMnN",
         "name": "Dark Cosmic Jhin",
         "normalizedName": "Dark Cosmic",
         "normalizedKey": "dark cosmic",
-        "votes": 55,
+        "votes": 56,
         "position": 5,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Qrgerm5LZpY-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.6179775280898876,
+      "latestWinnerShare": 0.6222222222222222,
       "consensusWinner": "Dark Cosmic",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1566,7 +1566,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2656,
+      "totalVotesAcrossYears": 2657,
       "latestYear": 2025,
       "latestWinner": {
         "id": "LVyK4BzMKn0",
@@ -1579,7 +1579,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3516483516483517,
+      "latestWinnerShare": 0.34782608695652173,
       "consensusWinner": "Star Guardian",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1593,7 +1593,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 4,
-      "totalVotesAcrossYears": 722,
+      "totalVotesAcrossYears": 723,
       "latestYear": 2025,
       "latestWinner": {
         "id": "7rnz3aArLgO",
@@ -1606,7 +1606,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.5142857142857142,
+      "latestWinnerShare": 0.5,
       "consensusWinner": "Empyrean",
       "consensusWins": 2,
       "changedFromPrevious": false
@@ -2013,7 +2013,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2746,
+      "totalVotesAcrossYears": 2747,
       "latestYear": 2025,
       "latestWinner": {
         "id": "wAg3M2XxMy8",
@@ -2026,7 +2026,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4153846153846154,
+      "latestWinnerShare": 0.4090909090909091,
       "consensusWinner": "Muay Thai",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -2125,20 +2125,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1898,
+      "totalVotesAcrossYears": 1899,
       "latestYear": 2025,
       "latestWinner": {
         "id": "61gDkx5lVnw",
         "name": "High Noon Lucian",
         "normalizedName": "High Noon",
         "normalizedKey": "high noon",
-        "votes": 41,
+        "votes": 42,
         "position": 5,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/6QnML8Y7ye9-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.7068965517241379,
+      "latestWinnerShare": 0.711864406779661,
       "consensusWinner": "High Noon",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2209,20 +2209,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1938,
+      "totalVotesAcrossYears": 1939,
       "latestYear": 2025,
       "latestWinner": {
         "id": "7MZ0rmXm1no",
         "name": "Shamrock Malphite",
         "normalizedName": "Shamrock",
         "normalizedKey": "shamrock",
-        "votes": 31,
+        "votes": 32,
         "position": 1,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wby5o67jgAe-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4626865671641791,
+      "latestWinnerShare": 0.47058823529411764,
       "consensusWinner": "Shamrock",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2293,7 +2293,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1371,
+      "totalVotesAcrossYears": 1372,
       "latestYear": 2025,
       "latestWinner": {
         "id": "eJnvGEAKGgv",
@@ -2306,7 +2306,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.45098039215686275,
+      "latestWinnerShare": 0.4423076923076923,
       "consensusWinner": "Inkshadow",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -2372,7 +2372,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2379,
+      "totalVotesAcrossYears": 2380,
       "latestYear": 2025,
       "latestWinner": {
         "id": "w4nWb25a5yA",
@@ -2385,7 +2385,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2857142857142857,
+      "latestWinnerShare": 0.2826086956521739,
       "consensusWinner": "Battle Bunny",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2400,7 +2400,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1813,
+      "totalVotesAcrossYears": 1814,
       "latestYear": 2025,
       "latestWinner": {
         "id": "61gDkx58Wnw",
@@ -2413,7 +2413,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3076923076923077,
+      "latestWinnerShare": 0.30303030303030304,
       "consensusWinner": "PROJECT",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -2454,7 +2454,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 3,
-      "totalVotesAcrossYears": 364,
+      "totalVotesAcrossYears": 365,
       "latestYear": 2025,
       "latestWinner": {
         "id": "40ZmG9AOona",
@@ -2467,7 +2467,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.38636363636363635,
+      "latestWinnerShare": 0.37777777777777777,
       "consensusWinner": "Glizzy",
       "consensusWins": 1,
       "changedFromPrevious": true
@@ -2482,7 +2482,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1430,
+      "totalVotesAcrossYears": 1431,
       "latestYear": 2025,
       "latestWinner": {
         "id": "poy9Dpa9PZJ",
@@ -2495,7 +2495,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4032258064516129,
+      "latestWinnerShare": 0.3968253968253968,
       "consensusWinner": "Coven",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -2594,7 +2594,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1435,
+      "totalVotesAcrossYears": 1437,
       "latestYear": 2025,
       "latestWinner": {
         "id": "PKglG8G6anp",
@@ -2607,7 +2607,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2916666666666667,
+      "latestWinnerShare": 0.28,
       "consensusWinner": "French Maid",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2790,20 +2790,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1586,
+      "totalVotesAcrossYears": 1588,
       "latestYear": 2025,
       "latestWinner": {
         "id": "NMnQbObN1g6",
         "name": "Dragonslayer Pantheon",
         "normalizedName": "Dragonslayer",
         "normalizedKey": "dragonslayer",
-        "votes": 17,
+        "votes": 18,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/jVyG6xBKZ7E-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3148148148148148,
+      "latestWinnerShare": 0.32142857142857145,
       "consensusWinner": "Dragonslayer",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2818,7 +2818,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1247,
+      "totalVotesAcrossYears": 1248,
       "latestYear": 2025,
       "latestWinner": {
         "id": "bVg8AlAB3ZY",
@@ -2831,7 +2831,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.21153846153846154,
+      "latestWinnerShare": 0.20754716981132076,
       "consensusWinner": "Astronaut",
       "consensusWins": 2,
       "changedFromPrevious": true
@@ -2846,20 +2846,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1947,
+      "totalVotesAcrossYears": 1948,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e2nab5bE0gB",
         "name": "Ashen Knight Pyke",
         "normalizedName": "Ashen Knight",
         "normalizedKey": "ashen knight",
-        "votes": 29,
+        "votes": 30,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naozB9ZBO-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4393939393939394,
+      "latestWinnerShare": 0.44776119402985076,
       "consensusWinner": "Ashen Knight",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2874,7 +2874,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1366,
+      "totalVotesAcrossYears": 1368,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BJnXbWb7XZv",
@@ -2887,7 +2887,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.27692307692307694,
+      "latestWinnerShare": 0.26865671641791045,
       "consensusWinner": "Prestige True Damage",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2958,7 +2958,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 811,
+      "totalVotesAcrossYears": 812,
       "latestYear": 2025,
       "latestWinner": {
         "id": "kogjGMG7PZ6",
@@ -2971,7 +2971,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.5135135135135135,
+      "latestWinnerShare": 0.5,
       "consensusWinner": "Durian Defender",
       "consensusWins": 2,
       "changedFromPrevious": false
@@ -3070,20 +3070,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1253,
+      "totalVotesAcrossYears": 1254,
       "latestYear": 2025,
       "latestWinner": {
         "id": "poy9DpDP8ZJ",
         "name": "Pool Party Renekton",
         "normalizedName": "Pool Party",
         "normalizedKey": "pool party",
-        "votes": 13,
+        "votes": 14,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/YVyPEwV2nNd-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3023255813953488,
+      "latestWinnerShare": 0.3181818181818182,
       "consensusWinner": "PROJECT",
       "consensusWins": 4,
       "changedFromPrevious": true
@@ -3154,20 +3154,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 938,
+      "totalVotesAcrossYears": 939,
       "latestYear": 2025,
       "latestWinner": {
         "id": "7rnz3a3O6gO",
         "name": "Super Galaxy Rumble",
         "normalizedName": "Super Galaxy",
         "normalizedKey": "super galaxy",
-        "votes": 30,
+        "votes": 31,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoDNwZBO-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.7894736842105263,
+      "latestWinnerShare": 0.7948717948717948,
       "consensusWinner": "Super Galaxy",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -3182,7 +3182,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1048,
+      "totalVotesAcrossYears": 1049,
       "latestYear": 2025,
       "latestWinner": {
         "id": "3RnYb7bm9ge",
@@ -3195,7 +3195,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3181818181818182,
+      "latestWinnerShare": 0.3111111111111111,
       "consensusWinner": "Arcana",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -3294,7 +3294,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1590,
+      "totalVotesAcrossYears": 1591,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e6Z2dad6EnN",
@@ -3307,7 +3307,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.28169014084507044,
+      "latestWinnerShare": 0.2777777777777778,
       "consensusWinner": "Prestige Ocean Song",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -3378,7 +3378,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1394,
+      "totalVotesAcrossYears": 1395,
       "latestYear": 2025,
       "latestWinner": {
         "id": "GPgVbabQkga",
@@ -3391,7 +3391,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.39622641509433965,
+      "latestWinnerShare": 0.3888888888888889,
       "consensusWinner": "Ashen Guardian",
       "consensusWins": 4,
       "changedFromPrevious": false
@@ -3434,7 +3434,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 834,
+      "totalVotesAcrossYears": 835,
       "latestYear": 2025,
       "latestWinner": {
         "id": "7rnz3a3WagO",
@@ -3447,7 +3447,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.38636363636363635,
+      "latestWinnerShare": 0.37777777777777777,
       "consensusWinner": "Beekeeper",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -3518,7 +3518,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 658,
+      "totalVotesAcrossYears": 659,
       "latestYear": 2025,
       "latestWinner": {
         "id": "Q0ZpGDGeJgM",
@@ -3531,7 +3531,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.6086956521739131,
+      "latestWinnerShare": 0.5833333333333334,
       "consensusWinner": "Battlecast Alpha",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -3655,20 +3655,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1465,
+      "totalVotesAcrossYears": 1466,
       "latestYear": 2025,
       "latestWinner": {
         "id": "XOgOoXooag3",
         "name": "Freljord Sylas",
         "normalizedName": "Freljord",
         "normalizedKey": "freljord",
-        "votes": 26,
+        "votes": 27,
         "position": 2,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NMnQJRWYg6Y-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4482758620689655,
+      "latestWinnerShare": 0.4576271186440678,
       "consensusWinner": "Freljord",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -3683,20 +3683,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1707,
+      "totalVotesAcrossYears": 1708,
       "latestYear": 2025,
       "latestWinner": {
         "id": "61gDkxkkanw",
         "name": "Spirit Blossom Syndra",
         "normalizedName": "Spirit Blossom",
         "normalizedKey": "spirit blossom",
-        "votes": 26,
+        "votes": 27,
         "position": 11,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/mpnbNXXLn5J-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.33766233766233766,
+      "latestWinnerShare": 0.34615384615384615,
       "consensusWinner": "Spirit Blossom",
       "consensusWins": 4,
       "changedFromPrevious": false
@@ -3739,7 +3739,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1225,
+      "totalVotesAcrossYears": 1226,
       "latestYear": 2025,
       "latestWinner": {
         "id": "ajnE737MkZW",
@@ -3752,7 +3752,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3695652173913043,
+      "latestWinnerShare": 0.3617021276595745,
       "consensusWinner": "Crystalis Motus",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -4075,20 +4075,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1272,
+      "totalVotesAcrossYears": 1273,
       "latestYear": 2025,
       "latestWinner": {
         "id": "7MZ0rmrv8no",
         "name": "Snow Moon Varus",
         "normalizedName": "Snow Moon",
         "normalizedKey": "snow moon",
-        "votes": 8,
+        "votes": 9,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/6QnMLw6kye9-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.16326530612244897,
+      "latestWinnerShare": 0.18,
       "consensusWinner": "Dark Star",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -4103,20 +4103,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1839,
+      "totalVotesAcrossYears": 1840,
       "latestYear": 2025,
       "latestWinner": {
         "id": "eJnvGEGOEgv",
         "name": "Sentinel Vayne",
         "normalizedName": "Sentinel",
         "normalizedKey": "sentinel",
-        "votes": 18,
+        "votes": 19,
         "position": 13,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbldVyEP-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.22784810126582278,
+      "latestWinnerShare": 0.2375,
       "consensusWinner": "PROJECT",
       "consensusWins": 4,
       "changedFromPrevious": true
@@ -4131,20 +4131,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1322,
+      "totalVotesAcrossYears": 1323,
       "latestYear": 2025,
       "latestWinner": {
         "id": "PKglG8G4Qnp",
         "name": "Final Boss Veigar",
         "normalizedName": "Final Boss",
         "normalizedKey": "final boss",
-        "votes": 22,
+        "votes": 23,
         "position": 8,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wby5oYD8gAe-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.39285714285714285,
+      "latestWinnerShare": 0.40350877192982454,
       "consensusWinner": "Final Boss",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -4215,7 +4215,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1289,
+      "totalVotesAcrossYears": 1290,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e6Z2dadKqnN",
@@ -4228,7 +4228,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.40384615384615385,
+      "latestWinnerShare": 0.39622641509433965,
       "consensusWinner": "Arcane Brawler",
       "consensusWins": 2,
       "changedFromPrevious": false
@@ -4243,7 +4243,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1662,
+      "totalVotesAcrossYears": 1663,
       "latestYear": 2025,
       "latestWinner": {
         "id": "kogjGMGQ3Z6",
@@ -4256,7 +4256,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.55,
+      "latestWinnerShare": 0.5409836065573771,
       "consensusWinner": "Soul Fighter",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -4271,7 +4271,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1465,
+      "totalVotesAcrossYears": 1466,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BJnXbWb5kZv",
@@ -4284,7 +4284,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.390625,
+      "latestWinnerShare": 0.38461538461538464,
       "consensusWinner": "High Noon",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -4327,20 +4327,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1143,
+      "totalVotesAcrossYears": 1144,
       "latestYear": 2025,
       "latestWinner": {
         "id": "poy9DpDmpZJ",
         "name": "Prestige Duality Dragon Volibear",
         "normalizedName": "Prestige Duality Dragon",
         "normalizedKey": "prestige duality dragon",
-        "votes": 12,
+        "votes": 13,
         "position": 8,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdb3bn04-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2727272727272727,
+      "latestWinnerShare": 0.28888888888888886,
       "consensusWinner": "Prestige Duality Dragon",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -4383,7 +4383,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 894,
+      "totalVotesAcrossYears": 895,
       "latestYear": 2025,
       "latestWinner": {
         "id": "YVyPNqNeAgN",
@@ -4396,7 +4396,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2857142857142857,
+      "latestWinnerShare": 0.2777777777777778,
       "consensusWinner": "Radiant",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -4523,7 +4523,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2259,
+      "totalVotesAcrossYears": 2260,
       "latestYear": 2025,
       "latestWinner": {
         "id": "PKglG8GEEnp",
@@ -4536,7 +4536,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.32,
+      "latestWinnerShare": 0.3157894736842105,
       "consensusWinner": "Spirit Blossom",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -4795,7 +4795,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1555,
+      "totalVotesAcrossYears": 1556,
       "latestYear": 2025,
       "latestWinner": {
         "id": "LVyK4BMoKn0",
@@ -4808,7 +4808,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.28,
+      "latestWinnerShare": 0.27450980392156865,
       "consensusWinner": "Star Guardian",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -4852,9 +4852,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/wby5QEL1wyA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AatroxMains",
-      "totalVotes": 288,
-      "participantCount": 288,
-      "lastVoteAt": "2026-09-20T10:21:16.000Z",
+      "totalVotes": 289,
+      "participantCount": 289,
+      "lastVoteAt": "2026-09-20T21:33:55.000Z",
       "updatedAt": "2025-11-19T21:43:53.000Z",
       "winner": {
         "id": "1Mnw3JQd5n7",
@@ -4878,9 +4878,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2743055555555556,
+      "winnerShare": 0.27335640138408307,
       "marginVotes": 27,
-      "marginShare": 0.09375,
+      "marginShare": 0.09342560553633218,
       "options": [
         {
           "id": "1Mnw3JQd5n7",
@@ -4953,7 +4953,7 @@ window.POLL_DATA = {
           "name": "Prestige DRX Aatrox",
           "normalizedName": "Prestige DRX",
           "normalizedKey": "prestige drx",
-          "votes": 12,
+          "votes": 13,
           "position": 11,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdjwQn04-c.png",
           "imageSourceYear": 2025,
@@ -5036,16 +5036,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NMnQNewrBg6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AhriMains",
-      "totalVotes": 219,
-      "participantCount": 219,
-      "lastVoteAt": "2026-09-16T22:10:28.000Z",
+      "totalVotes": 220,
+      "participantCount": 220,
+      "lastVoteAt": "2026-09-20T21:34:28.000Z",
       "updatedAt": "2025-11-19T21:43:55.000Z",
       "winner": {
         "id": "poy9DpYJwZJ",
         "name": "Spirit Blossom Ahri",
         "normalizedName": "Spirit Blossom",
         "normalizedKey": "spirit blossom",
-        "votes": 70,
+        "votes": 71,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Q0Zprd9JnMB-c.png",
         "imageSourceYear": 2025,
@@ -5062,16 +5062,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.319634703196347,
-      "marginVotes": 33,
-      "marginShare": 0.1506849315068493,
+      "winnerShare": 0.32272727272727275,
+      "marginVotes": 34,
+      "marginShare": 0.15454545454545454,
       "options": [
         {
           "id": "poy9DpYJwZJ",
           "name": "Spirit Blossom Ahri",
           "normalizedName": "Spirit Blossom",
           "normalizedKey": "spirit blossom",
-          "votes": 70,
+          "votes": 71,
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Q0Zprd9JnMB-c.png",
           "imageSourceYear": 2025,
@@ -5308,9 +5308,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/YVyPvY4MkgN/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/akalimains",
-      "totalVotes": 149,
-      "participantCount": 149,
-      "lastVoteAt": "2026-09-19T17:52:09.000Z",
+      "totalVotes": 150,
+      "participantCount": 150,
+      "lastVoteAt": "2026-09-20T21:35:26.000Z",
       "updatedAt": "2025-11-19T21:43:56.000Z",
       "winner": {
         "id": "BDyNQ61x7ZR",
@@ -5334,9 +5334,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.24161073825503357,
+      "winnerShare": 0.24,
       "marginVotes": 21,
-      "marginShare": 0.14093959731543623,
+      "marginShare": 0.14,
       "options": [
         {
           "id": "BDyNQ61x7ZR",
@@ -5383,6 +5383,17 @@ window.POLL_DATA = {
           "rank": 4
         },
         {
+          "id": "Q0ZpGDeExgM",
+          "name": "K/DA Akali",
+          "normalizedName": "K/DA",
+          "normalizedKey": "k da",
+          "votes": 9,
+          "position": 9,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/B2ZBdRDxnJq-c.png",
+          "imageSourceYear": 2025,
+          "rank": 5
+        },
+        {
           "id": "kogjGMzxEZ6",
           "name": "Prestige K/DA Akali",
           "normalizedName": "Prestige K/DA",
@@ -5391,7 +5402,7 @@ window.POLL_DATA = {
           "position": 10,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/61gDdbD5gwd-c.png",
           "imageSourceYear": 2025,
-          "rank": 5
+          "rank": 6
         },
         {
           "id": "xVg7MeWOOyr",
@@ -5401,17 +5412,6 @@ window.POLL_DATA = {
           "votes": 8,
           "position": 5,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NoZrBb9NZ3x-c.png",
-          "imageSourceYear": 2025,
-          "rank": 6
-        },
-        {
-          "id": "Q0ZpGDeExgM",
-          "name": "K/DA Akali",
-          "normalizedName": "K/DA",
-          "normalizedKey": "k da",
-          "votes": 8,
-          "position": 9,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/B2ZBdRDxnJq-c.png",
           "imageSourceYear": 2025,
           "rank": 7
         },
@@ -5676,16 +5676,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/6QnMQ2lGVne/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/alistarmains",
-      "totalVotes": 73,
-      "participantCount": 73,
-      "lastVoteAt": "2026-09-13T11:55:56.000Z",
+      "totalVotes": 74,
+      "participantCount": 74,
+      "lastVoteAt": "2026-09-20T21:36:12.000Z",
       "updatedAt": "2025-11-19T21:43:59.000Z",
       "winner": {
         "id": "e7ZJj1PodZ3",
         "name": "Moo Cow Alistar",
         "normalizedName": "Moo Cow",
         "normalizedKey": "moo cow",
-        "votes": 59,
+        "votes": 60,
         "position": 10,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxkNyWV-c.png",
         "imageSourceYear": 2025,
@@ -5702,16 +5702,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.8082191780821918,
-      "marginVotes": 54,
-      "marginShare": 0.7397260273972602,
+      "winnerShare": 0.8108108108108109,
+      "marginVotes": 55,
+      "marginShare": 0.7432432432432432,
       "options": [
         {
           "id": "e7ZJj1PodZ3",
           "name": "Moo Cow Alistar",
           "normalizedName": "Moo Cow",
           "normalizedKey": "moo cow",
-          "votes": 59,
+          "votes": 60,
           "position": 10,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxkNyWV-c.png",
           "imageSourceYear": 2025,
@@ -5956,16 +5956,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/B2ZB94OljgJ/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/amumumains",
-      "totalVotes": 59,
-      "participantCount": 59,
-      "lastVoteAt": "2026-09-09T12:01:35.000Z",
+      "totalVotes": 60,
+      "participantCount": 60,
+      "lastVoteAt": "2026-09-20T21:37:19.000Z",
       "updatedAt": "2025-11-19T21:44:02.000Z",
       "winner": {
         "id": "NPgxGmOJPn2",
         "name": "Porcelain Amumu",
         "normalizedName": "Porcelain",
         "normalizedKey": "porcelain",
-        "votes": 17,
+        "votes": 18,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/YVyPEk19nNd-c.png",
         "imageSourceYear": 2025,
@@ -5982,16 +5982,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.288135593220339,
-      "marginVotes": 8,
-      "marginShare": 0.13559322033898305,
+      "winnerShare": 0.3,
+      "marginVotes": 9,
+      "marginShare": 0.15,
       "options": [
         {
           "id": "NPgxGmOJPn2",
           "name": "Porcelain Amumu",
           "normalizedName": "Porcelain",
           "normalizedKey": "porcelain",
-          "votes": 17,
+          "votes": 18,
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/YVyPEk19nNd-c.png",
           "imageSourceYear": 2025,
@@ -6162,16 +6162,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/PbZqbA8JAyN/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AniviaMains",
-      "totalVotes": 57,
-      "participantCount": 57,
-      "lastVoteAt": "2026-08-16T22:34:33.000Z",
+      "totalVotes": 58,
+      "participantCount": 58,
+      "lastVoteAt": "2026-09-20T21:37:50.000Z",
       "updatedAt": "2025-11-19T21:44:04.000Z",
       "winner": {
         "id": "e7ZJj1P5KZ3",
         "name": "Blackfrost Anivia",
         "normalizedName": "Blackfrost",
         "normalizedKey": "blackfrost",
-        "votes": 21,
+        "votes": 22,
         "position": 5,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kjn14AJGyQe-c.png",
         "imageSourceYear": 2025,
@@ -6188,16 +6188,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3684210526315789,
-      "marginVotes": 11,
-      "marginShare": 0.19298245614035087,
+      "winnerShare": 0.3793103448275862,
+      "marginVotes": 12,
+      "marginShare": 0.20689655172413793,
       "options": [
         {
           "id": "e7ZJj1P5KZ3",
           "name": "Blackfrost Anivia",
           "normalizedName": "Blackfrost",
           "normalizedKey": "blackfrost",
-          "votes": 21,
+          "votes": 22,
           "position": 5,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kjn14AJGyQe-c.png",
           "imageSourceYear": 2025,
@@ -6585,9 +6585,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/7MZ0kXL1Rgo/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ApheliosMains",
-      "totalVotes": 81,
-      "participantCount": 81,
-      "lastVoteAt": "2026-09-16T21:16:30.000Z",
+      "totalVotes": 82,
+      "participantCount": 82,
+      "lastVoteAt": "2026-09-20T21:38:20.000Z",
       "updatedAt": "2025-11-19T21:44:07.000Z",
       "winner": {
         "id": "XOgOoXBGag3",
@@ -6611,9 +6611,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.32098765432098764,
+      "winnerShare": 0.3170731707317073,
       "marginVotes": 3,
-      "marginShare": 0.037037037037037035,
+      "marginShare": 0.036585365853658534,
       "options": [
         {
           "id": "XOgOoXBGag3",
@@ -6675,7 +6675,7 @@ window.POLL_DATA = {
           "name": "Lunar Beast Aphelios",
           "normalizedName": "Lunar Beast",
           "normalizedKey": "lunar beast",
-          "votes": 3,
+          "votes": 4,
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjrql1g6M-c.png",
           "imageSourceYear": 2025,
@@ -6703,9 +6703,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/40Zm4ALrwga/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AsheMains",
-      "totalVotes": 127,
-      "participantCount": 127,
-      "lastVoteAt": "2026-09-05T09:12:12.000Z",
+      "totalVotes": 128,
+      "participantCount": 128,
+      "lastVoteAt": "2026-09-20T21:38:49.000Z",
       "updatedAt": "2025-11-19T21:44:09.000Z",
       "winner": {
         "id": "eNg6MY2KwnA",
@@ -6729,9 +6729,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3779527559055118,
+      "winnerShare": 0.375,
       "marginVotes": 19,
-      "marginShare": 0.14960629921259844,
+      "marginShare": 0.1484375,
       "options": [
         {
           "id": "eNg6MY2KwnA",
@@ -6778,6 +6778,17 @@ window.POLL_DATA = {
           "rank": 4
         },
         {
+          "id": "PbZqxdk3egN",
+          "name": "Coven Ashe",
+          "normalizedName": "Coven",
+          "normalizedKey": "coven",
+          "votes": 5,
+          "position": 13,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/61gDdb3agwd-c.png",
+          "imageSourceYear": 2025,
+          "rank": 5
+        },
+        {
           "id": "poy9DpYOJZJ",
           "name": "Heartseeker Ashe",
           "normalizedName": "Heartseeker",
@@ -6786,7 +6797,7 @@ window.POLL_DATA = {
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wAg3kD6dg8J-c.png",
           "imageSourceYear": 2025,
-          "rank": 5
+          "rank": 6
         },
         {
           "id": "BJnXbWkDKZv",
@@ -6796,17 +6807,6 @@ window.POLL_DATA = {
           "votes": 4,
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/B2ZBdRj7nJq-c.png",
-          "imageSourceYear": 2025,
-          "rank": 6
-        },
-        {
-          "id": "PbZqxdk3egN",
-          "name": "Coven Ashe",
-          "normalizedName": "Coven",
-          "normalizedKey": "coven",
-          "votes": 4,
-          "position": 13,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/61gDdb3agwd-c.png",
           "imageSourceYear": 2025,
           "rank": 7
         },
@@ -6964,16 +6964,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/7rnzVA2lEnO/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/Aurelion_Sol_mains",
-      "totalVotes": 66,
-      "participantCount": 66,
-      "lastVoteAt": "2026-09-01T04:07:24.000Z",
+      "totalVotes": 67,
+      "participantCount": 67,
+      "lastVoteAt": "2026-09-20T16:26:01.000Z",
       "updatedAt": "2025-11-19T21:44:11.000Z",
       "winner": {
         "id": "40ZmG9Wz4na",
         "name": "Porcelain Protector Aurelion Sol",
         "normalizedName": "Porcelain Protector",
         "normalizedKey": "porcelain protector",
-        "votes": 26,
+        "votes": 27,
         "position": 5,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbqpKyEP-c.png",
         "imageSourceYear": 2025,
@@ -6990,16 +6990,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3939393939393939,
-      "marginVotes": 2,
-      "marginShare": 0.030303030303030304,
+      "winnerShare": 0.40298507462686567,
+      "marginVotes": 3,
+      "marginShare": 0.04477611940298507,
       "options": [
         {
           "id": "40ZmG9Wz4na",
           "name": "Porcelain Protector Aurelion Sol",
           "normalizedName": "Porcelain Protector",
           "normalizedKey": "porcelain protector",
-          "votes": 26,
+          "votes": 27,
           "position": 5,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbqpKyEP-c.png",
           "imageSourceYear": 2025,
@@ -7274,9 +7274,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/Qrgewl8oYyp/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/bardmains",
-      "totalVotes": 73,
-      "participantCount": 73,
-      "lastVoteAt": "2026-09-12T06:34:48.000Z",
+      "totalVotes": 74,
+      "participantCount": 74,
+      "lastVoteAt": "2026-09-20T21:39:22.000Z",
       "updatedAt": "2025-11-19T21:44:15.000Z",
       "winner": {
         "id": "kjn1MzEeGnQ",
@@ -7300,9 +7300,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3150684931506849,
+      "winnerShare": 0.3108108108108108,
       "marginVotes": 10,
-      "marginShare": 0.136986301369863,
+      "marginShare": 0.13513513513513514,
       "options": [
         {
           "id": "kjn1MzEeGnQ",
@@ -7342,7 +7342,7 @@ window.POLL_DATA = {
           "name": "Cafe Cuties Bard",
           "normalizedName": "Cafe Cuties",
           "normalizedKey": "cafe cuties",
-          "votes": 6,
+          "votes": 7,
           "position": 5,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMvWnOl-c.png",
           "imageSourceYear": 2025,
@@ -7716,16 +7716,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/Dwyo3A8rDyA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/BrandMains",
-      "totalVotes": 74,
-      "participantCount": 74,
-      "lastVoteAt": "2026-09-05T04:06:13.000Z",
+      "totalVotes": 75,
+      "participantCount": 75,
+      "lastVoteAt": "2026-09-21T07:40:23.000Z",
       "updatedAt": "2025-11-19T21:44:20.000Z",
       "winner": {
         "id": "05ZdbN5d4n6",
         "name": "Zombie Brand",
         "normalizedName": "Zombie",
         "normalizedKey": "zombie",
-        "votes": 47,
+        "votes": 48,
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPJE4Z6P-c.png",
         "imageSourceYear": 2025,
@@ -7742,16 +7742,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.6351351351351351,
-      "marginVotes": 41,
-      "marginShare": 0.5540540540540541,
+      "winnerShare": 0.64,
+      "marginVotes": 42,
+      "marginShare": 0.56,
       "options": [
         {
           "id": "05ZdbN5d4n6",
           "name": "Zombie Brand",
           "normalizedName": "Zombie",
           "normalizedKey": "zombie",
-          "votes": 47,
+          "votes": 48,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPJE4Z6P-c.png",
           "imageSourceYear": 2025,
@@ -8114,16 +8114,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NPgxeAz2oZ2/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/Caitlynmains",
-      "totalVotes": 128,
-      "participantCount": 128,
-      "lastVoteAt": "2026-09-01T22:44:23.000Z",
+      "totalVotes": 129,
+      "participantCount": 129,
+      "lastVoteAt": "2026-09-20T21:39:45.000Z",
       "updatedAt": "2025-11-19T21:44:25.000Z",
       "winner": {
         "id": "NPgxGmOQQn2",
         "name": "Pool Party Caitlyn",
         "normalizedName": "Pool Party",
         "normalizedKey": "pool party",
-        "votes": 32,
+        "votes": 33,
         "position": 9,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/DwyoLPpxnAz-c.png",
         "imageSourceYear": 2025,
@@ -8140,16 +8140,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.25,
-      "marginVotes": 10,
-      "marginShare": 0.078125,
+      "winnerShare": 0.2558139534883721,
+      "marginVotes": 11,
+      "marginShare": 0.08527131782945736,
       "options": [
         {
           "id": "NPgxGmOQQn2",
           "name": "Pool Party Caitlyn",
           "normalizedName": "Pool Party",
           "normalizedKey": "pool party",
-          "votes": 32,
+          "votes": 33,
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/DwyoLPpxnAz-c.png",
           "imageSourceYear": 2025,
@@ -8375,9 +8375,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NoZrzA8ODZ3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/CamilleMains",
-      "totalVotes": 45,
-      "participantCount": 45,
-      "lastVoteAt": "2026-08-16T22:38:19.000Z",
+      "totalVotes": 46,
+      "participantCount": 46,
+      "lastVoteAt": "2026-09-20T21:40:57.000Z",
       "updatedAt": "2025-11-19T21:44:26.000Z",
       "winner": {
         "id": "X3nk1rarBZE",
@@ -8401,7 +8401,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.24444444444444444,
+      "winnerShare": 0.2391304347826087,
       "marginVotes": 0,
       "marginShare": 0,
       "options": [
@@ -8465,7 +8465,7 @@ window.POLL_DATA = {
           "name": "Winterblessed Camille",
           "normalizedName": "Winterblessed",
           "normalizedKey": "winterblessed",
-          "votes": 2,
+          "votes": 3,
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PbZqrYjbyN1-c.png",
           "imageSourceYear": 2025,
@@ -8504,16 +8504,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/kjn1DXLGJyQ/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/CassiopeiaMains",
-      "totalVotes": 50,
-      "participantCount": 50,
-      "lastVoteAt": "2026-09-16T21:16:08.000Z",
+      "totalVotes": 52,
+      "participantCount": 52,
+      "lastVoteAt": "2026-09-21T07:51:57.000Z",
       "updatedAt": "2025-11-19T21:44:28.000Z",
       "winner": {
         "id": "e2nab5j5pgB",
         "name": "Spirit Blossom Cassiopeia",
         "normalizedName": "Spirit Blossom",
         "normalizedKey": "spirit blossom",
-        "votes": 27,
+        "votes": 29,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbqWByEP-c.png",
         "imageSourceYear": 2025,
@@ -8530,16 +8530,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.54,
-      "marginVotes": 17,
-      "marginShare": 0.34,
+      "winnerShare": 0.5576923076923077,
+      "marginVotes": 19,
+      "marginShare": 0.36538461538461536,
       "options": [
         {
           "id": "e2nab5j5pgB",
           "name": "Spirit Blossom Cassiopeia",
           "normalizedName": "Spirit Blossom",
           "normalizedKey": "spirit blossom",
-          "votes": 27,
+          "votes": 29,
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbqWByEP-c.png",
           "imageSourceYear": 2025,
@@ -8655,9 +8655,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/61gD95JpvZw/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ChoGathMains",
-      "totalVotes": 67,
-      "participantCount": 67,
-      "lastVoteAt": "2026-09-07T18:19:38.000Z",
+      "totalVotes": 68,
+      "participantCount": 68,
+      "lastVoteAt": "2026-09-20T21:41:20.000Z",
       "updatedAt": "2025-11-19T21:44:29.000Z",
       "winner": {
         "id": "PbZqxdk2WgN",
@@ -8681,9 +8681,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3283582089552239,
+      "winnerShare": 0.3235294117647059,
       "marginVotes": 7,
-      "marginShare": 0.1044776119402985,
+      "marginShare": 0.10294117647058823,
       "options": [
         {
           "id": "PbZqxdk2WgN",
@@ -8712,7 +8712,7 @@ window.POLL_DATA = {
           "name": "Broken Covenant Cho'Gath",
           "normalizedName": "Broken Covenant",
           "normalizedKey": "broken covenant",
-          "votes": 11,
+          "votes": 12,
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOOev0g3o-c.png",
           "imageSourceYear": 2025,
@@ -9413,16 +9413,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/7MZ0kXLPRgo/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/DrMundoMains",
-      "totalVotes": 72,
-      "participantCount": 72,
-      "lastVoteAt": "2026-09-05T09:17:35.000Z",
+      "totalVotes": 73,
+      "participantCount": 73,
+      "lastVoteAt": "2026-09-20T21:41:41.000Z",
       "updatedAt": "2025-11-19T21:44:36.000Z",
       "winner": {
         "id": "1Mnw3JQK0n7",
         "name": "Corporate Mundo",
         "normalizedName": "Corporate Mundo",
         "normalizedKey": "corporate mundo",
-        "votes": 66,
+        "votes": 67,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMJlnOl-c.png",
         "imageSourceYear": 2025,
@@ -9439,16 +9439,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.9166666666666666,
-      "marginVotes": 63,
-      "marginShare": 0.875,
+      "winnerShare": 0.9178082191780822,
+      "marginVotes": 64,
+      "marginShare": 0.8767123287671232,
       "options": [
         {
           "id": "1Mnw3JQK0n7",
           "name": "Corporate Mundo",
           "normalizedName": "Corporate Mundo",
           "normalizedKey": "corporate mundo",
-          "votes": 66,
+          "votes": 67,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMJlnOl-c.png",
           "imageSourceYear": 2025,
@@ -10355,9 +10355,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e7ZJam7oWg3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ezrealmains",
-      "totalVotes": 84,
-      "participantCount": 84,
-      "lastVoteAt": "2026-09-06T14:33:04.000Z",
+      "totalVotes": 85,
+      "participantCount": 85,
+      "lastVoteAt": "2026-09-20T21:42:09.000Z",
       "updatedAt": "2025-11-19T21:44:44.000Z",
       "winner": {
         "id": "xVg7MeW3ryr",
@@ -10381,9 +10381,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.35714285714285715,
+      "winnerShare": 0.35294117647058826,
       "marginVotes": 21,
-      "marginShare": 0.25,
+      "marginShare": 0.24705882352941178,
       "options": [
         {
           "id": "xVg7MeW3ryr",
@@ -10423,7 +10423,7 @@ window.POLL_DATA = {
           "name": "Striker Ezreal",
           "normalizedName": "Striker",
           "normalizedKey": "striker",
-          "votes": 5,
+          "votes": 6,
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjrqGqg6M-c.png",
           "imageSourceYear": 2025,
@@ -11245,9 +11245,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/GJn44OL3Xnz/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/galiomains",
-      "totalVotes": 47,
-      "participantCount": 47,
-      "lastVoteAt": "2026-09-07T18:18:45.000Z",
+      "totalVotes": 48,
+      "participantCount": 48,
+      "lastVoteAt": "2026-09-20T21:43:00.000Z",
       "updatedAt": "2025-11-19T21:44:50.000Z",
       "winner": {
         "id": "kogjGM5J9Z6",
@@ -11271,9 +11271,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.5319148936170213,
+      "winnerShare": 0.5208333333333334,
       "marginVotes": 17,
-      "marginShare": 0.3617021276595745,
+      "marginShare": 0.3541666666666667,
       "options": [
         {
           "id": "kogjGM5J9Z6",
@@ -11302,7 +11302,7 @@ window.POLL_DATA = {
           "name": "Original Galio",
           "normalizedName": "Original",
           "normalizedKey": "original",
-          "votes": 3,
+          "votes": 4,
           "position": 0,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6N4ALgAk-c.png",
           "imageSourceYear": 2025,
@@ -12176,16 +12176,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/poy9kaL1AgJ/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/GravesMains",
-      "totalVotes": 54,
-      "participantCount": 54,
-      "lastVoteAt": "2026-08-28T17:59:36.000Z",
+      "totalVotes": 55,
+      "participantCount": 55,
+      "lastVoteAt": "2026-09-20T21:43:31.000Z",
       "updatedAt": "2025-11-19T21:44:58.000Z",
       "winner": {
         "id": "LVyK4Bz1bn0",
         "name": "Crime City Graves",
         "normalizedName": "Crime City",
         "normalizedKey": "crime city",
-        "votes": 25,
+        "votes": 26,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdwqYn3K-c.png",
         "imageSourceYear": 2025,
@@ -12202,16 +12202,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.46296296296296297,
-      "marginVotes": 14,
-      "marginShare": 0.25925925925925924,
+      "winnerShare": 0.4727272727272727,
+      "marginVotes": 15,
+      "marginShare": 0.2727272727272727,
       "options": [
         {
           "id": "LVyK4Bz1bn0",
           "name": "Crime City Graves",
           "normalizedName": "Crime City",
           "normalizedKey": "crime city",
-          "votes": 25,
+          "votes": 26,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdwqYn3K-c.png",
           "imageSourceYear": 2025,
@@ -13546,16 +13546,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NoZrzA8vBZ3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/JarvanIVmains",
-      "totalVotes": 51,
-      "participantCount": 51,
-      "lastVoteAt": "2026-09-16T21:02:43.000Z",
+      "totalVotes": 52,
+      "participantCount": 52,
+      "lastVoteAt": "2026-09-20T21:43:52.000Z",
       "updatedAt": "2025-11-19T21:45:13.000Z",
       "winner": {
         "id": "e2nab5WWpgB",
         "name": "Prestige Visions of the Fallen Jarvan IV",
         "normalizedName": "Prestige Visions of the Fallen",
         "normalizedKey": "prestige visions of the fallen",
-        "votes": 17,
+        "votes": 18,
         "position": 15,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/61gDdbjvgwd-c.png",
         "imageSourceYear": 2025,
@@ -13572,16 +13572,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3333333333333333,
-      "marginVotes": 6,
-      "marginShare": 0.11764705882352941,
+      "winnerShare": 0.34615384615384615,
+      "marginVotes": 7,
+      "marginShare": 0.1346153846153846,
       "options": [
         {
           "id": "e2nab5WWpgB",
           "name": "Prestige Visions of the Fallen Jarvan IV",
           "normalizedName": "Prestige Visions of the Fallen",
           "normalizedKey": "prestige visions of the fallen",
-          "votes": 17,
+          "votes": 18,
           "position": 15,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/61gDdbjvgwd-c.png",
           "imageSourceYear": 2025,
@@ -13763,16 +13763,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/kjn1DXLQLyQ/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/Jaxmains",
-      "totalVotes": 67,
-      "participantCount": 67,
-      "lastVoteAt": "2026-09-13T12:01:45.000Z",
+      "totalVotes": 68,
+      "participantCount": 68,
+      "lastVoteAt": "2026-09-20T21:44:28.000Z",
       "updatedAt": "2025-11-19T21:45:14.000Z",
       "winner": {
         "id": "NoZrR6ARpZ3",
         "name": "God Staff Jax",
         "normalizedName": "God Staff",
         "normalizedKey": "god staff",
-        "votes": 27,
+        "votes": 28,
         "position": 10,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdjvOn04-c.png",
         "imageSourceYear": 2025,
@@ -13789,16 +13789,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.40298507462686567,
-      "marginVotes": 19,
-      "marginShare": 0.2835820895522388,
+      "winnerShare": 0.4117647058823529,
+      "marginVotes": 20,
+      "marginShare": 0.29411764705882354,
       "options": [
         {
           "id": "NoZrR6ARpZ3",
           "name": "God Staff Jax",
           "normalizedName": "God Staff",
           "normalizedKey": "god staff",
-          "votes": 27,
+          "votes": 28,
           "position": 10,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdjvOn04-c.png",
           "imageSourceYear": 2025,
@@ -13991,9 +13991,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/B2ZB94OkQgJ/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/jaycemains",
-      "totalVotes": 58,
-      "participantCount": 58,
-      "lastVoteAt": "2026-09-16T21:15:38.000Z",
+      "totalVotes": 59,
+      "participantCount": 59,
+      "lastVoteAt": "2026-09-20T21:45:06.000Z",
       "updatedAt": "2025-11-19T21:45:16.000Z",
       "winner": {
         "id": "X3nk1rQ1zZE",
@@ -14011,15 +14011,15 @@ window.POLL_DATA = {
         "name": "Resistance Jayce",
         "normalizedName": "Resistance",
         "normalizedKey": "resistance",
-        "votes": 6,
+        "votes": 7,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKPMRnp0-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.6379310344827587,
-      "marginVotes": 31,
-      "marginShare": 0.5344827586206896,
+      "winnerShare": 0.6271186440677966,
+      "marginVotes": 30,
+      "marginShare": 0.5084745762711864,
       "options": [
         {
           "id": "X3nk1rQ1zZE",
@@ -14037,7 +14037,7 @@ window.POLL_DATA = {
           "name": "Resistance Jayce",
           "normalizedName": "Resistance",
           "normalizedKey": "resistance",
-          "votes": 6,
+          "votes": 7,
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKPMRnp0-c.png",
           "imageSourceYear": 2025,
@@ -14164,16 +14164,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/61gD95JazZw/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/JhinMains",
-      "totalVotes": 89,
-      "participantCount": 89,
-      "lastVoteAt": "2026-09-09T20:17:36.000Z",
+      "totalVotes": 90,
+      "participantCount": 90,
+      "lastVoteAt": "2026-09-20T21:45:32.000Z",
       "updatedAt": "2025-11-19T21:45:18.000Z",
       "winner": {
         "id": "e6Z2daRdMnN",
         "name": "Dark Cosmic Jhin",
         "normalizedName": "Dark Cosmic",
         "normalizedKey": "dark cosmic",
-        "votes": 55,
+        "votes": 56,
         "position": 5,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Qrgerm5LZpY-c.png",
         "imageSourceYear": 2025,
@@ -14190,16 +14190,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.6179775280898876,
-      "marginVotes": 45,
-      "marginShare": 0.5056179775280899,
+      "winnerShare": 0.6222222222222222,
+      "marginVotes": 46,
+      "marginShare": 0.5111111111111111,
       "options": [
         {
           "id": "e6Z2daRdMnN",
           "name": "Dark Cosmic Jhin",
           "normalizedName": "Dark Cosmic",
           "normalizedKey": "dark cosmic",
-          "votes": 55,
+          "votes": 56,
           "position": 5,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Qrgerm5LZpY-c.png",
           "imageSourceYear": 2025,
@@ -14348,9 +14348,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/BJnXVQGMOZv/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/leagueofjinx",
-      "totalVotes": 91,
-      "participantCount": 91,
-      "lastVoteAt": "2026-09-07T17:00:34.000Z",
+      "totalVotes": 92,
+      "participantCount": 92,
+      "lastVoteAt": "2026-09-21T07:38:27.000Z",
       "updatedAt": "2025-11-19T21:45:20.000Z",
       "winner": {
         "id": "LVyK4BzMKn0",
@@ -14374,9 +14374,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3516483516483517,
+      "winnerShare": 0.34782608695652173,
       "marginVotes": 12,
-      "marginShare": 0.13186813186813187,
+      "marginShare": 0.13043478260869565,
       "options": [
         {
           "id": "LVyK4BzMKn0",
@@ -14460,7 +14460,7 @@ window.POLL_DATA = {
           "name": "PROJECT: Jinx",
           "normalizedName": "PROJECT:",
           "normalizedKey": "project",
-          "votes": 3,
+          "votes": 4,
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/6QnML8Pkye9-c.png",
           "imageSourceYear": 2025,
@@ -14554,9 +14554,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/mpnb178zYy5/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/KSanteMains",
-      "totalVotes": 35,
-      "participantCount": 35,
-      "lastVoteAt": "2026-09-16T21:15:21.000Z",
+      "totalVotes": 36,
+      "participantCount": 36,
+      "lastVoteAt": "2026-09-20T21:46:09.000Z",
       "updatedAt": "2025-11-19T21:45:21.000Z",
       "winner": {
         "id": "7rnz3aArLgO",
@@ -14580,9 +14580,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.5142857142857142,
+      "winnerShare": 0.5,
       "marginVotes": 11,
-      "marginShare": 0.3142857142857143,
+      "marginShare": 0.3055555555555556,
       "options": [
         {
           "id": "7rnz3aArLgO",
@@ -14611,7 +14611,7 @@ window.POLL_DATA = {
           "name": "Original K'Sante",
           "normalizedName": "Original",
           "normalizedKey": "original",
-          "votes": 5,
+          "votes": 6,
           "position": 0,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6N488gAk-c.png",
           "imageSourceYear": 2025,
@@ -17061,9 +17061,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/jVyG2Oa4kZ7/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/LeeSinMains",
-      "totalVotes": 65,
-      "participantCount": 65,
-      "lastVoteAt": "2026-09-16T21:00:29.000Z",
+      "totalVotes": 66,
+      "participantCount": 66,
+      "lastVoteAt": "2026-09-20T21:46:34.000Z",
       "updatedAt": "2025-11-19T21:45:45.000Z",
       "winner": {
         "id": "wAg3M2XxMy8",
@@ -17087,9 +17087,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4153846153846154,
+      "winnerShare": 0.4090909090909091,
       "marginVotes": 14,
-      "marginShare": 0.2153846153846154,
+      "marginShare": 0.21212121212121213,
       "options": [
         {
           "id": "wAg3M2XxMy8",
@@ -17118,7 +17118,7 @@ window.POLL_DATA = {
           "name": "Muay Thai Lee Sin",
           "normalizedName": "Muay Thai",
           "normalizedKey": "muay thai",
-          "votes": 8,
+          "votes": 9,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDQzneA-c.png",
           "imageSourceYear": 2025,
@@ -17819,16 +17819,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/kjn1DXLK0yQ/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/LucianMains",
-      "totalVotes": 58,
-      "participantCount": 58,
-      "lastVoteAt": "2026-09-04T09:23:06.000Z",
+      "totalVotes": 59,
+      "participantCount": 59,
+      "lastVoteAt": "2026-09-20T21:47:07.000Z",
       "updatedAt": "2025-11-19T21:45:51.000Z",
       "winner": {
         "id": "61gDkx5lVnw",
         "name": "High Noon Lucian",
         "normalizedName": "High Noon",
         "normalizedKey": "high noon",
-        "votes": 41,
+        "votes": 42,
         "position": 5,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/6QnML8Y7ye9-c.png",
         "imageSourceYear": 2025,
@@ -17845,16 +17845,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.7068965517241379,
-      "marginVotes": 37,
-      "marginShare": 0.6379310344827587,
+      "winnerShare": 0.711864406779661,
+      "marginVotes": 38,
+      "marginShare": 0.6440677966101694,
       "options": [
         {
           "id": "61gDkx5lVnw",
           "name": "High Noon Lucian",
           "normalizedName": "High Noon",
           "normalizedKey": "high noon",
-          "votes": 41,
+          "votes": 42,
           "position": 5,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/6QnML8Y7ye9-c.png",
           "imageSourceYear": 2025,
@@ -18514,16 +18514,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/LVyK2zYmbZ0/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/malphitemains",
-      "totalVotes": 67,
-      "participantCount": 67,
-      "lastVoteAt": "2026-09-13T16:53:55.000Z",
+      "totalVotes": 68,
+      "participantCount": 68,
+      "lastVoteAt": "2026-09-20T21:47:30.000Z",
       "updatedAt": "2025-11-19T21:46:00.000Z",
       "winner": {
         "id": "7MZ0rmXm1no",
         "name": "Shamrock Malphite",
         "normalizedName": "Shamrock",
         "normalizedKey": "shamrock",
-        "votes": 31,
+        "votes": 32,
         "position": 1,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wby5o67jgAe-c.png",
         "imageSourceYear": 2025,
@@ -18540,16 +18540,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4626865671641791,
-      "marginVotes": 25,
-      "marginShare": 0.373134328358209,
+      "winnerShare": 0.47058823529411764,
+      "marginVotes": 26,
+      "marginShare": 0.38235294117647056,
       "options": [
         {
           "id": "7MZ0rmXm1no",
           "name": "Shamrock Malphite",
           "normalizedName": "Shamrock",
           "normalizedKey": "shamrock",
-          "votes": 31,
+          "votes": 32,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wby5o67jgAe-c.png",
           "imageSourceYear": 2025,
@@ -19077,9 +19077,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/PKgleobmoZp/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/yimo",
-      "totalVotes": 51,
-      "participantCount": 51,
-      "lastVoteAt": "2026-09-10T05:25:34.000Z",
+      "totalVotes": 52,
+      "participantCount": 52,
+      "lastVoteAt": "2026-09-21T07:35:18.000Z",
       "updatedAt": "2025-11-19T21:46:05.000Z",
       "winner": {
         "id": "eJnvGEAKGgv",
@@ -19103,9 +19103,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.45098039215686275,
+      "winnerShare": 0.4423076923076923,
       "marginVotes": 16,
-      "marginShare": 0.3137254901960784,
+      "marginShare": 0.3076923076923077,
       "options": [
         {
           "id": "eJnvGEAKGgv",
@@ -19134,7 +19134,7 @@ window.POLL_DATA = {
           "name": "Eternal Sword Yi",
           "normalizedName": "Eternal Sword Yi",
           "normalizedKey": "eternal sword yi",
-          "votes": 4,
+          "votes": 5,
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BDyNdNAkgRO-c.png",
           "imageSourceYear": 2025,
@@ -19475,9 +19475,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/BDyNzWp24yR/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/MissFortune",
-      "totalVotes": 91,
-      "participantCount": 91,
-      "lastVoteAt": "2026-09-07T18:14:03.000Z",
+      "totalVotes": 92,
+      "participantCount": 92,
+      "lastVoteAt": "2026-09-21T02:37:48.000Z",
       "updatedAt": "2025-11-19T21:46:10.000Z",
       "winner": {
         "id": "w4nWb25a5yA",
@@ -19501,9 +19501,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2857142857142857,
+      "winnerShare": 0.2826086956521739,
       "marginVotes": 19,
-      "marginShare": 0.2087912087912088,
+      "marginShare": 0.20652173913043478,
       "options": [
         {
           "id": "w4nWb25a5yA",
@@ -19528,6 +19528,17 @@ window.POLL_DATA = {
           "rank": 2
         },
         {
+          "id": "LVyK4BzX6n0",
+          "name": "Arcade Miss Fortune",
+          "normalizedName": "Arcade",
+          "normalizedKey": "arcade",
+          "votes": 6,
+          "position": 7,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLdbAvy4k-c.png",
+          "imageSourceYear": 2025,
+          "rank": 3
+        },
+        {
           "id": "e6Z2daRYJnN",
           "name": "Ruined Miss Fortune",
           "normalizedName": "Ruined",
@@ -19536,7 +19547,7 @@ window.POLL_DATA = {
           "position": 15,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naozAAZBO-c.png",
           "imageSourceYear": 2025,
-          "rank": 3
+          "rank": 4
         },
         {
           "id": "kogjGM538Z6",
@@ -19546,17 +19557,6 @@ window.POLL_DATA = {
           "votes": 6,
           "position": 22,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOOeMag3o-c.png",
-          "imageSourceYear": 2025,
-          "rank": 4
-        },
-        {
-          "id": "LVyK4BzX6n0",
-          "name": "Arcade Miss Fortune",
-          "normalizedName": "Arcade",
-          "normalizedKey": "arcade",
-          "votes": 5,
-          "position": 7,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLdbAvy4k-c.png",
           "imageSourceYear": 2025,
           "rank": 5
         },
@@ -19769,9 +19769,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/YVyPvY473gN/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/MordekaiserMains",
-      "totalVotes": 65,
-      "participantCount": 65,
-      "lastVoteAt": "2026-09-13T16:53:14.000Z",
+      "totalVotes": 66,
+      "participantCount": 66,
+      "lastVoteAt": "2026-09-21T07:38:59.000Z",
       "updatedAt": "2025-11-19T21:46:13.000Z",
       "winner": {
         "id": "61gDkx58Wnw",
@@ -19795,9 +19795,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3076923076923077,
+      "winnerShare": 0.30303030303030304,
       "marginVotes": 4,
-      "marginShare": 0.06153846153846154,
+      "marginShare": 0.06060606060606061,
       "options": [
         {
           "id": "61gDkx58Wnw",
@@ -19859,7 +19859,7 @@ window.POLL_DATA = {
           "name": "Dark Star Mordekaiser",
           "normalizedName": "Dark Star",
           "normalizedKey": "dark star",
-          "votes": 3,
+          "votes": 4,
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/w4nW7R6dnAL-c.png",
           "imageSourceYear": 2025,
@@ -20181,9 +20181,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NoZrzA8YkZ3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/NaafiriMains",
-      "totalVotes": 44,
-      "participantCount": 44,
-      "lastVoteAt": "2026-07-27T21:26:07.000Z",
+      "totalVotes": 45,
+      "participantCount": 45,
+      "lastVoteAt": "2026-09-20T21:47:46.000Z",
       "updatedAt": "2025-11-19T21:46:19.000Z",
       "winner": {
         "id": "40ZmG9AOona",
@@ -20201,15 +20201,15 @@ window.POLL_DATA = {
         "name": "Soul Fighter Naafiri",
         "normalizedName": "Soul Fighter",
         "normalizedKey": "soul fighter",
-        "votes": 13,
+        "votes": 14,
         "position": 1,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPJ7lZ6P-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.38636363636363635,
-      "marginVotes": 4,
-      "marginShare": 0.09090909090909091,
+      "winnerShare": 0.37777777777777777,
+      "marginVotes": 3,
+      "marginShare": 0.06666666666666667,
       "options": [
         {
           "id": "40ZmG9AOona",
@@ -20227,7 +20227,7 @@ window.POLL_DATA = {
           "name": "Soul Fighter Naafiri",
           "normalizedName": "Soul Fighter",
           "normalizedKey": "soul fighter",
-          "votes": 13,
+          "votes": 14,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPJ7lZ6P-c.png",
           "imageSourceYear": 2025,
@@ -20266,9 +20266,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/kjn1DXLe0yQ/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/NamiMains",
-      "totalVotes": 62,
-      "participantCount": 62,
-      "lastVoteAt": "2026-09-16T22:11:37.000Z",
+      "totalVotes": 63,
+      "participantCount": 63,
+      "lastVoteAt": "2026-09-21T07:37:53.000Z",
       "updatedAt": "2025-11-19T21:46:21.000Z",
       "winner": {
         "id": "poy9Dpa9PZJ",
@@ -20286,15 +20286,15 @@ window.POLL_DATA = {
         "name": "Sunken Shadows Nami",
         "normalizedName": "Sunken Shadows",
         "normalizedKey": "sunken shadows",
-        "votes": 18,
+        "votes": 19,
         "position": 14,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdbq6n04-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4032258064516129,
-      "marginVotes": 7,
-      "marginShare": 0.11290322580645161,
+      "winnerShare": 0.3968253968253968,
+      "marginVotes": 6,
+      "marginShare": 0.09523809523809523,
       "options": [
         {
           "id": "poy9Dpa9PZJ",
@@ -20312,7 +20312,7 @@ window.POLL_DATA = {
           "name": "Sunken Shadows Nami",
           "normalizedName": "Sunken Shadows",
           "normalizedKey": "sunken shadows",
-          "votes": 18,
+          "votes": 19,
           "position": 14,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdbq6n04-c.png",
           "imageSourceYear": 2025,
@@ -20980,9 +20980,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/GPgVYwvK3na/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/NidaleeMains",
-      "totalVotes": 48,
-      "participantCount": 48,
-      "lastVoteAt": "2026-09-03T22:59:33.000Z",
+      "totalVotes": 50,
+      "participantCount": 50,
+      "lastVoteAt": "2026-09-21T07:43:52.000Z",
       "updatedAt": "2025-11-19T21:46:27.000Z",
       "winner": {
         "id": "PKglG8G6anp",
@@ -21006,9 +21006,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2916666666666667,
+      "winnerShare": 0.28,
       "marginVotes": 8,
-      "marginShare": 0.16666666666666666,
+      "marginShare": 0.16,
       "options": [
         {
           "id": "PKglG8G6anp",
@@ -21059,7 +21059,7 @@ window.POLL_DATA = {
           "name": "Dawnbringer Nidalee",
           "normalizedName": "Dawnbringer",
           "normalizedKey": "dawnbringer",
-          "votes": 4,
+          "votes": 5,
           "position": 10,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDQ5yNG-c.png",
           "imageSourceYear": 2025,
@@ -21088,6 +21088,17 @@ window.POLL_DATA = {
           "rank": 7
         },
         {
+          "id": "3RnYb7bppge",
+          "name": "Ocean Song Nidalee",
+          "normalizedName": "Ocean Song",
+          "normalizedKey": "ocean song",
+          "votes": 2,
+          "position": 13,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeD5BneA-c.png",
+          "imageSourceYear": 2025,
+          "rank": 8
+        },
+        {
           "id": "PKglG8Gzenp",
           "name": "La Ilusión Nidalee",
           "normalizedName": "La Ilusión",
@@ -21096,7 +21107,7 @@ window.POLL_DATA = {
           "position": 15,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKPq1np0-c.png",
           "imageSourceYear": 2025,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "QrgeGvGaOyp",
@@ -21107,7 +21118,7 @@ window.POLL_DATA = {
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdja7n04-c.png",
           "imageSourceYear": 2025,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "XOgOoXoaXg3",
@@ -21118,7 +21129,7 @@ window.POLL_DATA = {
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOOe2ag3o-c.png",
           "imageSourceYear": 2025,
-          "rank": 10
+          "rank": 11
         },
         {
           "id": "7rnz3a36YgO",
@@ -21128,17 +21139,6 @@ window.POLL_DATA = {
           "votes": 1,
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMYxnOl-c.png",
-          "imageSourceYear": 2025,
-          "rank": 11
-        },
-        {
-          "id": "3RnYb7bppge",
-          "name": "Ocean Song Nidalee",
-          "normalizedName": "Ocean Song",
-          "normalizedKey": "ocean song",
-          "votes": 1,
-          "position": 13,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeD5BneA-c.png",
           "imageSourceYear": 2025,
           "rank": 12
         },
@@ -22092,16 +22092,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/w4nWW5PKlnA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/PantheonMains",
-      "totalVotes": 54,
-      "participantCount": 54,
-      "lastVoteAt": "2026-08-28T17:59:35.000Z",
+      "totalVotes": 56,
+      "participantCount": 56,
+      "lastVoteAt": "2026-09-21T07:52:24.000Z",
       "updatedAt": "2025-11-19T21:46:38.000Z",
       "winner": {
         "id": "NMnQbObN1g6",
         "name": "Dragonslayer Pantheon",
         "normalizedName": "Dragonslayer",
         "normalizedKey": "dragonslayer",
-        "votes": 17,
+        "votes": 18,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/jVyG6xBKZ7E-c.png",
         "imageSourceYear": 2025,
@@ -22118,16 +22118,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3148148148148148,
-      "marginVotes": 5,
-      "marginShare": 0.09259259259259259,
+      "winnerShare": 0.32142857142857145,
+      "marginVotes": 6,
+      "marginShare": 0.10714285714285714,
       "options": [
         {
           "id": "NMnQbObN1g6",
           "name": "Dragonslayer Pantheon",
           "normalizedName": "Dragonslayer",
           "normalizedKey": "dragonslayer",
-          "votes": 17,
+          "votes": 18,
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/jVyG6xBKZ7E-c.png",
           "imageSourceYear": 2025,
@@ -22189,6 +22189,17 @@ window.POLL_DATA = {
           "rank": 6
         },
         {
+          "id": "YVyPNqNv4gN",
+          "name": "Ruined Pantheon",
+          "normalizedName": "Ruined",
+          "normalizedKey": "ruined",
+          "votes": 2,
+          "position": 10,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NoZrBbdGZ3x-c.png",
+          "imageSourceYear": 2025,
+          "rank": 7
+        },
+        {
           "id": "wAg3M2MQ1y8",
           "name": "Chosen of the Wolf Pantheon",
           "normalizedName": "Chosen of the Wolf",
@@ -22197,7 +22208,7 @@ window.POLL_DATA = {
           "position": 13,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kjn14A77yQe-c.png",
           "imageSourceYear": 2025,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "kogjGMGR2Z6",
@@ -22208,7 +22219,7 @@ window.POLL_DATA = {
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/DwyoLP1xnAz-c.png",
           "imageSourceYear": 2025,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "wby5B7BQBnA",
@@ -22219,7 +22230,7 @@ window.POLL_DATA = {
           "position": 5,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/YVyPEkA7nNd-c.png",
           "imageSourceYear": 2025,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "eJnvGEGVkgv",
@@ -22229,17 +22240,6 @@ window.POLL_DATA = {
           "votes": 1,
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/6QnML8bAye9-c.png",
-          "imageSourceYear": 2025,
-          "rank": 10
-        },
-        {
-          "id": "YVyPNqNv4gN",
-          "name": "Ruined Pantheon",
-          "normalizedName": "Ruined",
-          "normalizedKey": "ruined",
-          "votes": 1,
-          "position": 10,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NoZrBbdGZ3x-c.png",
           "imageSourceYear": 2025,
           "rank": 11
         },
@@ -22287,9 +22287,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/xVg71mLqzyr/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/PoppyMains",
-      "totalVotes": 52,
-      "participantCount": 52,
-      "lastVoteAt": "2026-09-17T03:49:50.000Z",
+      "totalVotes": 53,
+      "participantCount": 53,
+      "lastVoteAt": "2026-09-21T07:36:27.000Z",
       "updatedAt": "2025-11-19T21:46:39.000Z",
       "winner": {
         "id": "bVg8AlAB3ZY",
@@ -22313,9 +22313,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.21153846153846154,
+      "winnerShare": 0.20754716981132076,
       "marginVotes": 3,
-      "marginShare": 0.057692307692307696,
+      "marginShare": 0.05660377358490566,
       "options": [
         {
           "id": "bVg8AlAB3ZY",
@@ -22340,6 +22340,17 @@ window.POLL_DATA = {
           "rank": 2
         },
         {
+          "id": "PbZqxdxbKgN",
+          "name": "Astronaut Poppy",
+          "normalizedName": "Astronaut",
+          "normalizedKey": "astronaut",
+          "votes": 7,
+          "position": 10,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7MZ0joxpnom-c.png",
+          "imageSourceYear": 2025,
+          "rank": 3
+        },
+        {
           "id": "mpnbbQb1Mn5",
           "name": "Bewitching Poppy",
           "normalizedName": "Bewitching",
@@ -22347,17 +22358,6 @@ window.POLL_DATA = {
           "votes": 7,
           "position": 11,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLdbYVy4k-c.png",
-          "imageSourceYear": 2025,
-          "rank": 3
-        },
-        {
-          "id": "PbZqxdxbKgN",
-          "name": "Astronaut Poppy",
-          "normalizedName": "Astronaut",
-          "normalizedKey": "astronaut",
-          "votes": 6,
-          "position": 10,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7MZ0joxpnom-c.png",
           "imageSourceYear": 2025,
           "rank": 4
         },
@@ -22471,16 +22471,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/PKgleobWoZp/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/pykemains",
-      "totalVotes": 66,
-      "participantCount": 66,
-      "lastVoteAt": "2026-09-04T09:25:55.000Z",
+      "totalVotes": 67,
+      "participantCount": 67,
+      "lastVoteAt": "2026-09-20T19:51:56.000Z",
       "updatedAt": "2025-11-19T21:46:41.000Z",
       "winner": {
         "id": "e2nab5bE0gB",
         "name": "Ashen Knight Pyke",
         "normalizedName": "Ashen Knight",
         "normalizedKey": "ashen knight",
-        "votes": 29,
+        "votes": 30,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naozB9ZBO-c.png",
         "imageSourceYear": 2025,
@@ -22497,16 +22497,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4393939393939394,
-      "marginVotes": 9,
-      "marginShare": 0.13636363636363635,
+      "winnerShare": 0.44776119402985076,
+      "marginVotes": 10,
+      "marginShare": 0.14925373134328357,
       "options": [
         {
           "id": "e2nab5bE0gB",
           "name": "Ashen Knight Pyke",
           "normalizedName": "Ashen Knight",
           "normalizedKey": "ashen knight",
-          "votes": 29,
+          "votes": 30,
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naozB9ZBO-c.png",
           "imageSourceYear": 2025,
@@ -22655,9 +22655,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e7ZJam7Kdg3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/QiyanaMains",
-      "totalVotes": 65,
-      "participantCount": 65,
-      "lastVoteAt": "2026-09-16T20:49:08.000Z",
+      "totalVotes": 67,
+      "participantCount": 67,
+      "lastVoteAt": "2026-09-21T07:34:19.000Z",
       "updatedAt": "2025-11-19T21:46:42.000Z",
       "winner": {
         "id": "BJnXbWb7XZv",
@@ -22681,9 +22681,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.27692307692307694,
+      "winnerShare": 0.26865671641791045,
       "marginVotes": 4,
-      "marginShare": 0.06153846153846154,
+      "marginShare": 0.05970149253731343,
       "options": [
         {
           "id": "BJnXbWb7XZv",
@@ -22708,6 +22708,17 @@ window.POLL_DATA = {
           "rank": 2
         },
         {
+          "id": "eNg6MYMo0nA",
+          "name": "True Damage Qiyana",
+          "normalizedName": "True Damage",
+          "normalizedKey": "true damage",
+          "votes": 7,
+          "position": 2,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdwWMn3K-c.png",
+          "imageSourceYear": 2025,
+          "rank": 3
+        },
+        {
           "id": "GeZAzvzGEyV",
           "name": "La Ilusión Qiyana",
           "normalizedName": "La Ilusión",
@@ -22716,18 +22727,18 @@ window.POLL_DATA = {
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/xVg7vXBKnrR-c.png",
           "imageSourceYear": 2025,
-          "rank": 3
+          "rank": 4
         },
         {
-          "id": "eNg6MYMo0nA",
-          "name": "True Damage Qiyana",
-          "normalizedName": "True Damage",
-          "normalizedKey": "true damage",
+          "id": "7MZ0rmro8no",
+          "name": "Prestige Battle Academia Qiyana",
+          "normalizedName": "Prestige Battle Academia",
+          "normalizedKey": "prestige battle academia",
           "votes": 6,
-          "position": 2,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdwWMn3K-c.png",
+          "position": 9,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDGQneA-c.png",
           "imageSourceYear": 2025,
-          "rank": 4
+          "rank": 5
         },
         {
           "id": "61gDkxk6Onw",
@@ -22737,17 +22748,6 @@ window.POLL_DATA = {
           "votes": 5,
           "position": 0,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOOep0g3o-c.png",
-          "imageSourceYear": 2025,
-          "rank": 5
-        },
-        {
-          "id": "7MZ0rmro8no",
-          "name": "Prestige Battle Academia Qiyana",
-          "normalizedName": "Prestige Battle Academia",
-          "normalizedKey": "prestige battle academia",
-          "votes": 5,
-          "position": 9,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDGQneA-c.png",
           "imageSourceYear": 2025,
           "rank": 6
         },
@@ -23108,9 +23108,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/Q0Zp701lxgM/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/RammusMains",
-      "totalVotes": 37,
-      "participantCount": 37,
-      "lastVoteAt": "2026-08-11T07:18:03.000Z",
+      "totalVotes": 38,
+      "participantCount": 38,
+      "lastVoteAt": "2026-09-21T07:35:47.000Z",
       "updatedAt": "2025-11-19T21:46:47.000Z",
       "winner": {
         "id": "kogjGMG7PZ6",
@@ -23128,15 +23128,15 @@ window.POLL_DATA = {
         "name": "Sweeper Rammus",
         "normalizedName": "Sweeper",
         "normalizedKey": "sweeper",
-        "votes": 4,
+        "votes": 5,
         "position": 8,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XmZRm7qPgdb-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.5135135135135135,
-      "marginVotes": 15,
-      "marginShare": 0.40540540540540543,
+      "winnerShare": 0.5,
+      "marginVotes": 14,
+      "marginShare": 0.3684210526315789,
       "options": [
         {
           "id": "kogjGMG7PZ6",
@@ -23154,7 +23154,7 @@ window.POLL_DATA = {
           "name": "Sweeper Rammus",
           "normalizedName": "Sweeper",
           "normalizedKey": "sweeper",
-          "votes": 4,
+          "votes": 5,
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XmZRm7qPgdb-c.png",
           "imageSourceYear": 2025,
@@ -23591,16 +23591,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/eJnvVAJQanv/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/RenektonMains",
-      "totalVotes": 43,
-      "participantCount": 43,
-      "lastVoteAt": "2026-08-13T18:25:36.000Z",
+      "totalVotes": 44,
+      "participantCount": 44,
+      "lastVoteAt": "2026-09-20T21:50:13.000Z",
       "updatedAt": "2025-11-19T21:46:53.000Z",
       "winner": {
         "id": "poy9DpDP8ZJ",
         "name": "Pool Party Renekton",
         "normalizedName": "Pool Party",
         "normalizedKey": "pool party",
-        "votes": 13,
+        "votes": 14,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/YVyPEwV2nNd-c.png",
         "imageSourceYear": 2025,
@@ -23617,16 +23617,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3023255813953488,
-      "marginVotes": 3,
-      "marginShare": 0.06976744186046512,
+      "winnerShare": 0.3181818181818182,
+      "marginVotes": 4,
+      "marginShare": 0.09090909090909091,
       "options": [
         {
           "id": "poy9DpDP8ZJ",
           "name": "Pool Party Renekton",
           "normalizedName": "Pool Party",
           "normalizedKey": "pool party",
-          "votes": 13,
+          "votes": 14,
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/YVyPEwV2nNd-c.png",
           "imageSourceYear": 2025,
@@ -24187,16 +24187,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/05Zdze0dVn6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/Rumblemains",
-      "totalVotes": 38,
-      "participantCount": 38,
-      "lastVoteAt": "2026-09-11T03:41:49.000Z",
+      "totalVotes": 39,
+      "participantCount": 39,
+      "lastVoteAt": "2026-09-20T21:51:18.000Z",
       "updatedAt": "2025-11-19T21:46:59.000Z",
       "winner": {
         "id": "7rnz3a3O6gO",
         "name": "Super Galaxy Rumble",
         "normalizedName": "Super Galaxy",
         "normalizedKey": "super galaxy",
-        "votes": 30,
+        "votes": 31,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoDNwZBO-c.png",
         "imageSourceYear": 2025,
@@ -24213,16 +24213,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.7894736842105263,
-      "marginVotes": 26,
-      "marginShare": 0.6842105263157895,
+      "winnerShare": 0.7948717948717948,
+      "marginVotes": 27,
+      "marginShare": 0.6923076923076923,
       "options": [
         {
           "id": "7rnz3a3O6gO",
           "name": "Super Galaxy Rumble",
           "normalizedName": "Super Galaxy",
           "normalizedKey": "super galaxy",
-          "votes": 30,
+          "votes": 31,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoDNwZBO-c.png",
           "imageSourceYear": 2025,
@@ -24305,9 +24305,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/40Zm4AL2Mga/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/RyzeMains",
-      "totalVotes": 44,
-      "participantCount": 44,
-      "lastVoteAt": "2026-09-16T21:23:03.000Z",
+      "totalVotes": 45,
+      "participantCount": 45,
+      "lastVoteAt": "2026-09-20T21:51:54.000Z",
       "updatedAt": "2025-11-19T21:47:00.000Z",
       "winner": {
         "id": "3RnYb7bm9ge",
@@ -24331,9 +24331,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3181818181818182,
+      "winnerShare": 0.3111111111111111,
       "marginVotes": 7,
-      "marginShare": 0.1590909090909091,
+      "marginShare": 0.15555555555555556,
       "options": [
         {
           "id": "3RnYb7bm9ge",
@@ -24413,6 +24413,17 @@ window.POLL_DATA = {
           "rank": 7
         },
         {
+          "id": "ajnE737kAZW",
+          "name": "Professor Ryze",
+          "normalizedName": "Professor",
+          "normalizedKey": "professor",
+          "votes": 2,
+          "position": 5,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/YVyPEw21nNd-c.png",
+          "imageSourceYear": 2025,
+          "rank": 8
+        },
+        {
           "id": "40ZmG9G5Rna",
           "name": "Dark Crystal Ryze",
           "normalizedName": "Dark Crystal",
@@ -24421,7 +24432,7 @@ window.POLL_DATA = {
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NPgxd8k4g2r-c.png",
           "imageSourceYear": 2025,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "2ayLwDw3bZ4",
@@ -24431,17 +24442,6 @@ window.POLL_DATA = {
           "votes": 1,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NMnQJRBGg6Y-c.png",
-          "imageSourceYear": 2025,
-          "rank": 9
-        },
-        {
-          "id": "ajnE737kAZW",
-          "name": "Professor Ryze",
-          "normalizedName": "Professor",
-          "normalizedKey": "professor",
-          "votes": 1,
-          "position": 5,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/YVyPEw21nNd-c.png",
           "imageSourceYear": 2025,
           "rank": 10
         },
@@ -24964,9 +24964,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/kogjR58mEg6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/SeraphineMains",
-      "totalVotes": 71,
-      "participantCount": 71,
-      "lastVoteAt": "2026-09-16T22:10:07.000Z",
+      "totalVotes": 72,
+      "participantCount": 72,
+      "lastVoteAt": "2026-09-20T21:56:26.000Z",
       "updatedAt": "2025-11-19T21:47:06.000Z",
       "winner": {
         "id": "e6Z2dad6EnN",
@@ -24990,9 +24990,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.28169014084507044,
+      "winnerShare": 0.2777777777777778,
       "marginVotes": 3,
-      "marginShare": 0.04225352112676056,
+      "marginShare": 0.041666666666666664,
       "options": [
         {
           "id": "e6Z2dad6EnN",
@@ -25039,6 +25039,17 @@ window.POLL_DATA = {
           "rank": 4
         },
         {
+          "id": "xVg7MeMJOyr",
+          "name": "Ocean Song Seraphine",
+          "normalizedName": "Ocean Song",
+          "normalizedKey": "ocean song",
+          "votes": 4,
+          "position": 3,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eJnvR8v9nv4-c.png",
+          "imageSourceYear": 2025,
+          "rank": 5
+        },
+        {
           "id": "PKglG8Gj4np",
           "name": "Star Guardian Seraphine",
           "normalizedName": "Star Guardian",
@@ -25047,7 +25058,7 @@ window.POLL_DATA = {
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NPgxd8E4g2r-c.png",
           "imageSourceYear": 2025,
-          "rank": 5
+          "rank": 6
         },
         {
           "id": "w4nWb2bXxyA",
@@ -25057,17 +25068,6 @@ window.POLL_DATA = {
           "votes": 3,
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BDyNdDEOgRO-c.png",
-          "imageSourceYear": 2025,
-          "rank": 6
-        },
-        {
-          "id": "xVg7MeMJOyr",
-          "name": "Ocean Song Seraphine",
-          "normalizedName": "Ocean Song",
-          "normalizedKey": "ocean song",
-          "votes": 3,
-          "position": 3,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eJnvR8v9nv4-c.png",
           "imageSourceYear": 2025,
           "rank": 7
         },
@@ -25483,9 +25483,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/jVyG2OamzZ7/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/Shen",
-      "totalVotes": 53,
-      "participantCount": 53,
-      "lastVoteAt": "2026-09-08T03:04:17.000Z",
+      "totalVotes": 54,
+      "participantCount": 54,
+      "lastVoteAt": "2026-09-20T21:57:30.000Z",
       "updatedAt": "2025-11-19T21:47:11.000Z",
       "winner": {
         "id": "GPgVbabQkga",
@@ -25509,9 +25509,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.39622641509433965,
+      "winnerShare": 0.3888888888888889,
       "marginVotes": 13,
-      "marginShare": 0.24528301886792453,
+      "marginShare": 0.24074074074074073,
       "options": [
         {
           "id": "GPgVbabQkga",
@@ -25540,7 +25540,7 @@ window.POLL_DATA = {
           "name": "Shockblade Shen",
           "normalizedName": "Shockblade",
           "normalizedKey": "shockblade",
-          "votes": 7,
+          "votes": 8,
           "position": 10,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/w4nW7eWYnAL-c.png",
           "imageSourceYear": 2025,
@@ -25807,9 +25807,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/6QnMQ2ld7ne/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/singedmains",
-      "totalVotes": 44,
-      "participantCount": 44,
-      "lastVoteAt": "2026-08-13T18:26:49.000Z",
+      "totalVotes": 45,
+      "participantCount": 45,
+      "lastVoteAt": "2026-09-21T07:37:18.000Z",
       "updatedAt": "2025-11-19T21:47:14.000Z",
       "winner": {
         "id": "7rnz3a3WagO",
@@ -25833,9 +25833,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.38636363636363635,
+      "winnerShare": 0.37777777777777777,
       "marginVotes": 10,
-      "marginShare": 0.22727272727272727,
+      "marginShare": 0.2222222222222222,
       "options": [
         {
           "id": "7rnz3a3WagO",
@@ -25860,6 +25860,17 @@ window.POLL_DATA = {
           "rank": 2
         },
         {
+          "id": "QrgeGvGJjyp",
+          "name": "Surfer Singed",
+          "normalizedName": "Surfer",
+          "normalizedKey": "surfer",
+          "votes": 4,
+          "position": 3,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/jVyG612GZ7E-c.png",
+          "imageSourceYear": 2025,
+          "rank": 3
+        },
+        {
           "id": "xVg7MeMzOyr",
           "name": "Riot Squad Singed",
           "normalizedName": "Riot Squad",
@@ -25867,17 +25878,6 @@ window.POLL_DATA = {
           "votes": 3,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eJnvR8Vknv4-c.png",
-          "imageSourceYear": 2025,
-          "rank": 3
-        },
-        {
-          "id": "QrgeGvGJjyp",
-          "name": "Surfer Singed",
-          "normalizedName": "Surfer",
-          "normalizedKey": "surfer",
-          "votes": 3,
-          "position": 3,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/jVyG612GZ7E-c.png",
           "imageSourceYear": 2025,
           "rank": 4
         },
@@ -26403,9 +26403,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/BJnXVQGWLZv/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/SkarnerMains",
-      "totalVotes": 23,
-      "participantCount": 23,
-      "lastVoteAt": "2026-08-29T21:59:13.000Z",
+      "totalVotes": 24,
+      "participantCount": 24,
+      "lastVoteAt": "2026-09-21T07:40:02.000Z",
       "updatedAt": "2025-11-19T21:47:19.000Z",
       "winner": {
         "id": "Q0ZpGDGeJgM",
@@ -26423,15 +26423,15 @@ window.POLL_DATA = {
         "name": "Cosmic Sting Skarner",
         "normalizedName": "Cosmic Sting",
         "normalizedKey": "cosmic sting",
-        "votes": 5,
+        "votes": 6,
         "position": 5,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NPgxd80Bg2r-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.6086956521739131,
-      "marginVotes": 9,
-      "marginShare": 0.391304347826087,
+      "winnerShare": 0.5833333333333334,
+      "marginVotes": 8,
+      "marginShare": 0.3333333333333333,
       "options": [
         {
           "id": "Q0ZpGDGeJgM",
@@ -26449,7 +26449,7 @@ window.POLL_DATA = {
           "name": "Cosmic Sting Skarner",
           "normalizedName": "Cosmic Sting",
           "normalizedKey": "cosmic sting",
-          "votes": 5,
+          "votes": 6,
           "position": 5,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NPgxd80Bg2r-c.png",
           "imageSourceYear": 2025,
@@ -27202,16 +27202,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e7ZJam71dg3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/sylasmains",
-      "totalVotes": 58,
-      "participantCount": 58,
-      "lastVoteAt": "2026-09-19T17:53:25.000Z",
+      "totalVotes": 59,
+      "participantCount": 59,
+      "lastVoteAt": "2026-09-20T21:58:19.000Z",
       "updatedAt": "2025-11-19T21:47:27.000Z",
       "winner": {
         "id": "XOgOoXooag3",
         "name": "Freljord Sylas",
         "normalizedName": "Freljord",
         "normalizedKey": "freljord",
-        "votes": 26,
+        "votes": 27,
         "position": 2,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NMnQJRWYg6Y-c.png",
         "imageSourceYear": 2025,
@@ -27228,16 +27228,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4482758620689655,
-      "marginVotes": 12,
-      "marginShare": 0.20689655172413793,
+      "winnerShare": 0.4576271186440678,
+      "marginVotes": 13,
+      "marginShare": 0.22033898305084745,
       "options": [
         {
           "id": "XOgOoXooag3",
           "name": "Freljord Sylas",
           "normalizedName": "Freljord",
           "normalizedKey": "freljord",
-          "votes": 26,
+          "votes": 27,
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NMnQJRWYg6Y-c.png",
           "imageSourceYear": 2025,
@@ -27353,16 +27353,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/7rnzVA2adnO/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/syndramains",
-      "totalVotes": 77,
-      "participantCount": 77,
-      "lastVoteAt": "2026-09-19T17:54:00.000Z",
+      "totalVotes": 78,
+      "participantCount": 78,
+      "lastVoteAt": "2026-09-20T21:58:53.000Z",
       "updatedAt": "2025-11-19T21:47:28.000Z",
       "winner": {
         "id": "61gDkxkkanw",
         "name": "Spirit Blossom Syndra",
         "normalizedName": "Spirit Blossom",
         "normalizedKey": "spirit blossom",
-        "votes": 26,
+        "votes": 27,
         "position": 11,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/mpnbNXXLn5J-c.png",
         "imageSourceYear": 2025,
@@ -27379,16 +27379,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.33766233766233766,
-      "marginVotes": 9,
-      "marginShare": 0.11688311688311688,
+      "winnerShare": 0.34615384615384615,
+      "marginVotes": 10,
+      "marginShare": 0.1282051282051282,
       "options": [
         {
           "id": "61gDkxkkanw",
           "name": "Spirit Blossom Syndra",
           "normalizedName": "Spirit Blossom",
           "normalizedKey": "spirit blossom",
-          "votes": 26,
+          "votes": 27,
           "position": 11,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/mpnbNXXLn5J-c.png",
           "imageSourceYear": 2025,
@@ -27666,9 +27666,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/w4nWW5P2xnA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/TaliyahMains",
-      "totalVotes": 46,
-      "participantCount": 46,
-      "lastVoteAt": "2026-08-11T01:24:32.000Z",
+      "totalVotes": 47,
+      "participantCount": 47,
+      "lastVoteAt": "2026-09-20T21:59:06.000Z",
       "updatedAt": "2025-11-19T21:47:31.000Z",
       "winner": {
         "id": "ajnE737MkZW",
@@ -27686,15 +27686,15 @@ window.POLL_DATA = {
         "name": "Pool Party Taliyah",
         "normalizedName": "Pool Party",
         "normalizedKey": "pool party",
-        "votes": 11,
+        "votes": 12,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoDDeZBO-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3695652173913043,
-      "marginVotes": 6,
-      "marginShare": 0.13043478260869565,
+      "winnerShare": 0.3617021276595745,
+      "marginVotes": 5,
+      "marginShare": 0.10638297872340426,
       "options": [
         {
           "id": "ajnE737MkZW",
@@ -27712,7 +27712,7 @@ window.POLL_DATA = {
           "name": "Pool Party Taliyah",
           "normalizedName": "Pool Party",
           "normalizedKey": "pool party",
-          "votes": 11,
+          "votes": 12,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoDDeZBO-c.png",
           "imageSourceYear": 2025,
@@ -29775,16 +29775,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/40Zm4ALJ2ga/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/VarusMains",
-      "totalVotes": 49,
-      "participantCount": 49,
-      "lastVoteAt": "2026-09-16T21:03:13.000Z",
+      "totalVotes": 50,
+      "participantCount": 50,
+      "lastVoteAt": "2026-09-20T21:59:34.000Z",
       "updatedAt": "2025-11-19T21:47:50.000Z",
       "winner": {
         "id": "7MZ0rmrv8no",
         "name": "Snow Moon Varus",
         "normalizedName": "Snow Moon",
         "normalizedKey": "snow moon",
-        "votes": 8,
+        "votes": 9,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/6QnMLw6kye9-c.png",
         "imageSourceYear": 2025,
@@ -29801,16 +29801,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.16326530612244897,
-      "marginVotes": 0,
-      "marginShare": 0,
+      "winnerShare": 0.18,
+      "marginVotes": 1,
+      "marginShare": 0.02,
       "options": [
         {
           "id": "7MZ0rmrv8no",
           "name": "Snow Moon Varus",
           "normalizedName": "Snow Moon",
           "normalizedKey": "snow moon",
-          "votes": 8,
+          "votes": 9,
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/6QnMLw6kye9-c.png",
           "imageSourceYear": 2025,
@@ -29992,16 +29992,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/3RnYXoxAWye/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/vaynemains",
-      "totalVotes": 79,
-      "participantCount": 79,
-      "lastVoteAt": "2026-09-03T22:56:38.000Z",
+      "totalVotes": 80,
+      "participantCount": 80,
+      "lastVoteAt": "2026-09-20T21:59:56.000Z",
       "updatedAt": "2025-11-19T21:47:52.000Z",
       "winner": {
         "id": "eJnvGEGOEgv",
         "name": "Sentinel Vayne",
         "normalizedName": "Sentinel",
         "normalizedKey": "sentinel",
-        "votes": 18,
+        "votes": 19,
         "position": 13,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbldVyEP-c.png",
         "imageSourceYear": 2025,
@@ -30018,16 +30018,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.22784810126582278,
-      "marginVotes": 1,
-      "marginShare": 0.012658227848101266,
+      "winnerShare": 0.2375,
+      "marginVotes": 2,
+      "marginShare": 0.025,
       "options": [
         {
           "id": "eJnvGEGOEgv",
           "name": "Sentinel Vayne",
           "normalizedName": "Sentinel",
           "normalizedKey": "sentinel",
-          "votes": 18,
+          "votes": 19,
           "position": 13,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbldVyEP-c.png",
           "imageSourceYear": 2025,
@@ -30242,16 +30242,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/GJn44OLb7nz/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/VeigarMains",
-      "totalVotes": 56,
-      "participantCount": 56,
-      "lastVoteAt": "2026-09-09T12:03:23.000Z",
+      "totalVotes": 57,
+      "participantCount": 57,
+      "lastVoteAt": "2026-09-20T19:21:26.000Z",
       "updatedAt": "2025-11-19T21:47:55.000Z",
       "winner": {
         "id": "PKglG8G4Qnp",
         "name": "Final Boss Veigar",
         "normalizedName": "Final Boss",
         "normalizedKey": "final boss",
-        "votes": 22,
+        "votes": 23,
         "position": 8,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wby5oYD8gAe-c.png",
         "imageSourceYear": 2025,
@@ -30268,16 +30268,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.39285714285714285,
-      "marginVotes": 5,
-      "marginShare": 0.08928571428571429,
+      "winnerShare": 0.40350877192982454,
+      "marginVotes": 6,
+      "marginShare": 0.10526315789473684,
       "options": [
         {
           "id": "PKglG8G4Qnp",
           "name": "Final Boss Veigar",
           "normalizedName": "Final Boss",
           "normalizedKey": "final boss",
-          "votes": 22,
+          "votes": 23,
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wby5oYD8gAe-c.png",
           "imageSourceYear": 2025,
@@ -30662,9 +30662,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/YVyPvY4rBgN/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ViMains",
-      "totalVotes": 52,
-      "participantCount": 52,
-      "lastVoteAt": "2026-07-09T16:19:38.000Z",
+      "totalVotes": 53,
+      "participantCount": 53,
+      "lastVoteAt": "2026-09-20T22:00:12.000Z",
       "updatedAt": "2025-11-19T21:48:00.000Z",
       "winner": {
         "id": "e6Z2dadKqnN",
@@ -30688,9 +30688,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.40384615384615385,
+      "winnerShare": 0.39622641509433965,
       "marginVotes": 14,
-      "marginShare": 0.2692307692307692,
+      "marginShare": 0.2641509433962264,
       "options": [
         {
           "id": "e6Z2dadKqnN",
@@ -30748,6 +30748,17 @@ window.POLL_DATA = {
           "rank": 5
         },
         {
+          "id": "w4nWb2bBNyA",
+          "name": "T1 Vi",
+          "normalizedName": "T1",
+          "normalizedKey": "t1",
+          "votes": 3,
+          "position": 13,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeY8DneA-c.png",
+          "imageSourceYear": 2025,
+          "rank": 6
+        },
+        {
           "id": "w4nWb2bBqyA",
           "name": "Neon Strike Vi",
           "normalizedName": "Neon Strike",
@@ -30756,7 +30767,7 @@ window.POLL_DATA = {
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLd14Ay4k-c.png",
           "imageSourceYear": 2025,
-          "rank": 6
+          "rank": 7
         },
         {
           "id": "xVg7MeMKryr",
@@ -30767,7 +30778,7 @@ window.POLL_DATA = {
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdbwkn04-c.png",
           "imageSourceYear": 2025,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "e7ZJj1jQ5Z3",
@@ -30778,7 +30789,7 @@ window.POLL_DATA = {
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzr8D6nOl-c.png",
           "imageSourceYear": 2025,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "40ZmG9Gvwna",
@@ -30788,17 +30799,6 @@ window.POLL_DATA = {
           "votes": 2,
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoDPvZBO-c.png",
-          "imageSourceYear": 2025,
-          "rank": 9
-        },
-        {
-          "id": "w4nWb2bBNyA",
-          "name": "T1 Vi",
-          "normalizedName": "T1",
-          "normalizedKey": "t1",
-          "votes": 2,
-          "position": 13,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeY8DneA-c.png",
           "imageSourceYear": 2025,
           "rank": 10
         },
@@ -30857,9 +30857,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/jVyG2OaQYZ7/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ViegoMains",
-      "totalVotes": 60,
-      "participantCount": 60,
-      "lastVoteAt": "2026-09-20T02:48:30.000Z",
+      "totalVotes": 61,
+      "participantCount": 61,
+      "lastVoteAt": "2026-09-20T22:00:27.000Z",
       "updatedAt": "2025-11-19T21:48:02.000Z",
       "winner": {
         "id": "kogjGMGQ3Z6",
@@ -30873,19 +30873,19 @@ window.POLL_DATA = {
         "rank": 1
       },
       "runnerUp": {
-        "id": "Q0ZpGDGxAgM",
-        "name": "King Viego",
-        "normalizedName": "King",
-        "normalizedKey": "king",
+        "id": "QrgeGvGpYyp",
+        "name": "Dissonance of Pentakill Viego",
+        "normalizedName": "Dissonance of Pentakill",
+        "normalizedKey": "dissonance of pentakill",
         "votes": 9,
-        "position": 4,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdYDLn3K-c.png",
+        "position": 2,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOO8r4g3o-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.55,
+      "winnerShare": 0.5409836065573771,
       "marginVotes": 24,
-      "marginShare": 0.4,
+      "marginShare": 0.39344262295081966,
       "options": [
         {
           "id": "kogjGMGQ3Z6",
@@ -30899,6 +30899,17 @@ window.POLL_DATA = {
           "rank": 1
         },
         {
+          "id": "QrgeGvGpYyp",
+          "name": "Dissonance of Pentakill Viego",
+          "normalizedName": "Dissonance of Pentakill",
+          "normalizedKey": "dissonance of pentakill",
+          "votes": 9,
+          "position": 2,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOO8r4g3o-c.png",
+          "imageSourceYear": 2025,
+          "rank": 2
+        },
+        {
           "id": "Q0ZpGDGxAgM",
           "name": "King Viego",
           "normalizedName": "King",
@@ -30906,17 +30917,6 @@ window.POLL_DATA = {
           "votes": 9,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdYDLn3K-c.png",
-          "imageSourceYear": 2025,
-          "rank": 2
-        },
-        {
-          "id": "QrgeGvGpYyp",
-          "name": "Dissonance of Pentakill Viego",
-          "normalizedName": "Dissonance of Pentakill",
-          "normalizedKey": "dissonance of pentakill",
-          "votes": 8,
-          "position": 2,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOO8r4g3o-c.png",
           "imageSourceYear": 2025,
           "rank": 3
         },
@@ -30975,9 +30975,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/wAg3QXLqGy8/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/viktormains",
-      "totalVotes": 64,
-      "participantCount": 64,
-      "lastVoteAt": "2026-09-12T23:18:14.000Z",
+      "totalVotes": 65,
+      "participantCount": 65,
+      "lastVoteAt": "2026-09-20T22:00:43.000Z",
       "updatedAt": "2025-11-19T21:48:03.000Z",
       "winner": {
         "id": "BJnXbWb5kZv",
@@ -30995,15 +30995,15 @@ window.POLL_DATA = {
         "name": "Machine Herald Viktor",
         "normalizedName": "Machine Herald",
         "normalizedKey": "machine herald",
-        "votes": 20,
+        "votes": 21,
         "position": 8,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjr7jNg6M-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.390625,
-      "marginVotes": 5,
-      "marginShare": 0.078125,
+      "winnerShare": 0.38461538461538464,
+      "marginVotes": 4,
+      "marginShare": 0.06153846153846154,
       "options": [
         {
           "id": "BJnXbWb5kZv",
@@ -31021,7 +31021,7 @@ window.POLL_DATA = {
           "name": "Machine Herald Viktor",
           "normalizedName": "Machine Herald",
           "normalizedKey": "machine herald",
-          "votes": 20,
+          "votes": 21,
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjr7jNg6M-c.png",
           "imageSourceYear": 2025,
@@ -31310,16 +31310,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/05Zdze07bn6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/VolibearMains",
-      "totalVotes": 44,
-      "participantCount": 44,
-      "lastVoteAt": "2026-09-04T09:27:48.000Z",
+      "totalVotes": 45,
+      "participantCount": 45,
+      "lastVoteAt": "2026-09-20T16:25:26.000Z",
       "updatedAt": "2025-11-19T21:48:06.000Z",
       "winner": {
         "id": "poy9DpDmpZJ",
         "name": "Prestige Duality Dragon Volibear",
         "normalizedName": "Prestige Duality Dragon",
         "normalizedKey": "prestige duality dragon",
-        "votes": 12,
+        "votes": 13,
         "position": 8,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdb3bn04-c.png",
         "imageSourceYear": 2025,
@@ -31336,16 +31336,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2727272727272727,
-      "marginVotes": 1,
-      "marginShare": 0.022727272727272728,
+      "winnerShare": 0.28888888888888886,
+      "marginVotes": 2,
+      "marginShare": 0.044444444444444446,
       "options": [
         {
           "id": "poy9DpDmpZJ",
           "name": "Prestige Duality Dragon Volibear",
           "normalizedName": "Prestige Duality Dragon",
           "normalizedKey": "prestige duality dragon",
-          "votes": 12,
+          "votes": 13,
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdb3bn04-c.png",
           "imageSourceYear": 2025,
@@ -31689,9 +31689,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/2ayLQaeGvn4/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/WukongMains",
-      "totalVotes": 35,
-      "participantCount": 35,
-      "lastVoteAt": "2026-09-16T21:12:09.000Z",
+      "totalVotes": 36,
+      "participantCount": 36,
+      "lastVoteAt": "2026-09-20T22:01:01.000Z",
       "updatedAt": "2025-11-19T21:48:09.000Z",
       "winner": {
         "id": "YVyPNqNeAgN",
@@ -31715,9 +31715,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2857142857142857,
+      "winnerShare": 0.2777777777777778,
       "marginVotes": 5,
-      "marginShare": 0.14285714285714285,
+      "marginShare": 0.1388888888888889,
       "options": [
         {
           "id": "YVyPNqNeAgN",
@@ -31786,6 +31786,17 @@ window.POLL_DATA = {
           "rank": 6
         },
         {
+          "id": "DwyodBdKNnA",
+          "name": "General Wukong",
+          "normalizedName": "General",
+          "normalizedKey": "general",
+          "votes": 2,
+          "position": 2,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BDyNdDR4gRO-c.png",
+          "imageSourceYear": 2025,
+          "rank": 7
+        },
+        {
           "id": "BDyNQ6Q77ZR",
           "name": "Jade Dragon Wukong",
           "normalizedName": "Jade Dragon",
@@ -31794,7 +31805,7 @@ window.POLL_DATA = {
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eJnvR82Wnv4-c.png",
           "imageSourceYear": 2025,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "wby5B7BG7nA",
@@ -31805,7 +31816,7 @@ window.POLL_DATA = {
           "position": 0,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NMnQJRdwg6Y-c.png",
           "imageSourceYear": 2025,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "NMnQbOblAg6",
@@ -31815,17 +31826,6 @@ window.POLL_DATA = {
           "votes": 1,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/DwyoLk5XnAz-c.png",
-          "imageSourceYear": 2025,
-          "rank": 9
-        },
-        {
-          "id": "DwyodBdKNnA",
-          "name": "General Wukong",
-          "normalizedName": "General",
-          "normalizedKey": "general",
-          "votes": 1,
-          "position": 2,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BDyNdDR4gRO-c.png",
           "imageSourceYear": 2025,
           "rank": 10
         }
@@ -32576,9 +32576,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e6Z2ARLN5gN/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/YoneMains",
-      "totalVotes": 75,
-      "participantCount": 75,
-      "lastVoteAt": "2026-09-16T20:51:33.000Z",
+      "totalVotes": 76,
+      "participantCount": 76,
+      "lastVoteAt": "2026-09-20T22:01:35.000Z",
       "updatedAt": "2025-11-19T21:48:17.000Z",
       "winner": {
         "id": "PKglG8GEEnp",
@@ -32602,9 +32602,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.32,
+      "winnerShare": 0.3157894736842105,
       "marginVotes": 9,
-      "marginShare": 0.12,
+      "marginShare": 0.11842105263157894,
       "options": [
         {
           "id": "PKglG8GEEnp",
@@ -32699,7 +32699,7 @@ window.POLL_DATA = {
           "name": "Battle Academia Yone",
           "normalizedName": "Battle Academia",
           "normalizedKey": "battle academia",
-          "votes": 1,
+          "votes": 2,
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/61gDdYvLgwd-c.png",
           "imageSourceYear": 2025,
@@ -33932,9 +33932,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/wAg3QXJWly8/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/zoemains",
-      "totalVotes": 50,
-      "participantCount": 50,
-      "lastVoteAt": "2026-08-28T18:00:04.000Z",
+      "totalVotes": 51,
+      "participantCount": 51,
+      "lastVoteAt": "2026-09-20T12:58:00.000Z",
       "updatedAt": "2025-11-19T21:48:33.000Z",
       "winner": {
         "id": "LVyK4BMoKn0",
@@ -33958,9 +33958,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.28,
+      "winnerShare": 0.27450980392156865,
       "marginVotes": 4,
-      "marginShare": 0.08,
+      "marginShare": 0.0784313725490196,
       "options": [
         {
           "id": "LVyK4BMoKn0",
@@ -34007,6 +34007,17 @@ window.POLL_DATA = {
           "rank": 4
         },
         {
+          "id": "e7ZJj1rQvZ3",
+          "name": "Winterblessed Zoe",
+          "normalizedName": "Winterblessed",
+          "normalizedKey": "winterblessed",
+          "votes": 5,
+          "position": 7,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6NlJwgAk-c.png",
+          "imageSourceYear": 2025,
+          "rank": 5
+        },
+        {
           "id": "40ZmG9EvKna",
           "name": "Dark Star Zoe",
           "normalizedName": "Dark Star",
@@ -34014,17 +34025,6 @@ window.POLL_DATA = {
           "votes": 5,
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BJnXYdQKgvV-c.png",
-          "imageSourceYear": 2025,
-          "rank": 5
-        },
-        {
-          "id": "e7ZJj1rQvZ3",
-          "name": "Winterblessed Zoe",
-          "normalizedName": "Winterblessed",
-          "normalizedKey": "winterblessed",
-          "votes": 4,
-          "position": 7,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6NlJwgAk-c.png",
           "imageSourceYear": 2025,
           "rank": 6
         },
