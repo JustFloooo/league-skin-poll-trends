@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-09-21T12:13:44.224Z",
-  "startedAt": "2026-09-21T12:13:34.231Z",
+  "fetchedAt": "2026-09-22T11:07:27.317Z",
+  "startedAt": "2026-09-22T11:07:17.183Z",
   "sources": [
     {
       "year": 2024,
@@ -64,7 +64,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 8149,
+      "totalVotesAcrossYears": 8150,
       "latestYear": 2025,
       "latestWinner": {
         "id": "1Mnw3JQd5n7",
@@ -77,7 +77,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.27335640138408307,
+      "latestWinnerShare": 0.27241379310344827,
       "consensusWinner": "Prestige Blood Moon",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -1204,7 +1204,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1638,
+      "totalVotesAcrossYears": 1639,
       "latestYear": 2025,
       "latestWinner": {
         "id": "LVyK4Bz1bn0",
@@ -1217,7 +1217,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4727272727272727,
+      "latestWinnerShare": 0.4642857142857143,
       "consensusWinner": "Crime City",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2482,7 +2482,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1431,
+      "totalVotesAcrossYears": 1432,
       "latestYear": 2025,
       "latestWinner": {
         "id": "poy9Dpa9PZJ",
@@ -2495,7 +2495,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3968253968253968,
+      "latestWinnerShare": 0.390625,
       "consensusWinner": "Coven",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -3070,7 +3070,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1254,
+      "totalVotesAcrossYears": 1255,
       "latestYear": 2025,
       "latestWinner": {
         "id": "poy9DpDP8ZJ",
@@ -3083,7 +3083,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3181818181818182,
+      "latestWinnerShare": 0.3111111111111111,
       "consensusWinner": "PROJECT",
       "consensusWins": 4,
       "changedFromPrevious": true
@@ -4852,9 +4852,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/wby5QEL1wyA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AatroxMains",
-      "totalVotes": 289,
-      "participantCount": 289,
-      "lastVoteAt": "2026-09-20T21:33:55.000Z",
+      "totalVotes": 290,
+      "participantCount": 290,
+      "lastVoteAt": "2026-09-22T10:05:30.000Z",
       "updatedAt": "2025-11-19T21:43:53.000Z",
       "winner": {
         "id": "1Mnw3JQd5n7",
@@ -4878,9 +4878,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.27335640138408307,
+      "winnerShare": 0.27241379310344827,
       "marginVotes": 27,
-      "marginShare": 0.09342560553633218,
+      "marginShare": 0.09310344827586207,
       "options": [
         {
           "id": "1Mnw3JQd5n7",
@@ -5004,6 +5004,17 @@ window.POLL_DATA = {
           "rank": 11
         },
         {
+          "id": "3RnYb7aMzge",
+          "name": "Victorious Aatrox",
+          "normalizedName": "Victorious",
+          "normalizedKey": "victorious",
+          "votes": 3,
+          "position": 6,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GPgVWp7vZaE-c.png",
+          "imageSourceYear": 2025,
+          "rank": 12
+        },
+        {
           "id": "QrgeGvQejyp",
           "name": "Odyssey Aatrox",
           "normalizedName": "Odyssey",
@@ -5011,17 +5022,6 @@ window.POLL_DATA = {
           "votes": 3,
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XmZRm7zWgdb-c.png",
-          "imageSourceYear": 2025,
-          "rank": 12
-        },
-        {
-          "id": "3RnYb7aMzge",
-          "name": "Victorious Aatrox",
-          "normalizedName": "Victorious",
-          "normalizedKey": "victorious",
-          "votes": 2,
-          "position": 6,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GPgVWp7vZaE-c.png",
           "imageSourceYear": 2025,
           "rank": 13
         }
@@ -12176,9 +12176,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/poy9kaL1AgJ/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/GravesMains",
-      "totalVotes": 55,
-      "participantCount": 55,
-      "lastVoteAt": "2026-09-20T21:43:31.000Z",
+      "totalVotes": 56,
+      "participantCount": 56,
+      "lastVoteAt": "2026-09-21T16:37:03.000Z",
       "updatedAt": "2025-11-19T21:44:58.000Z",
       "winner": {
         "id": "LVyK4Bz1bn0",
@@ -12202,9 +12202,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4727272727272727,
+      "winnerShare": 0.4642857142857143,
       "marginVotes": 15,
-      "marginShare": 0.2727272727272727,
+      "marginShare": 0.26785714285714285,
       "options": [
         {
           "id": "LVyK4Bz1bn0",
@@ -12273,6 +12273,17 @@ window.POLL_DATA = {
           "rank": 6
         },
         {
+          "id": "2ayLwDaRbZ4",
+          "name": "Jailbreak Graves",
+          "normalizedName": "Jailbreak",
+          "normalizedKey": "jailbreak",
+          "votes": 1,
+          "position": 2,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxqxyWV-c.png",
+          "imageSourceYear": 2025,
+          "rank": 7
+        },
+        {
           "id": "X3nk1rQYYZE",
           "name": "Riot Graves",
           "normalizedName": "Riot",
@@ -12281,7 +12292,7 @@ window.POLL_DATA = {
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BMlgaR-c.png",
           "imageSourceYear": 2025,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "e7ZJj1m9LZ3",
@@ -12292,7 +12303,7 @@ window.POLL_DATA = {
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDb7yNG-c.png",
           "imageSourceYear": 2025,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "40ZmG9AlRna",
@@ -12303,7 +12314,7 @@ window.POLL_DATA = {
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/w4nW7RqYnAL-c.png",
           "imageSourceYear": 2025,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "7rnz3aAoDgO",
@@ -12314,7 +12325,7 @@ window.POLL_DATA = {
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/xVg7vXb6nrR-c.png",
           "imageSourceYear": 2025,
-          "rank": 10
+          "rank": 11
         },
         {
           "id": "xVg7Memazyr",
@@ -12325,7 +12336,7 @@ window.POLL_DATA = {
           "position": 13,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Q0ZprdMjnMB-c.png",
           "imageSourceYear": 2025,
-          "rank": 11
+          "rank": 12
         },
         {
           "id": "7MZ0rmX7Bno",
@@ -12335,17 +12346,6 @@ window.POLL_DATA = {
           "votes": 0,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOOeqQg3o-c.png",
-          "imageSourceYear": 2025,
-          "rank": 12
-        },
-        {
-          "id": "2ayLwDaRbZ4",
-          "name": "Jailbreak Graves",
-          "normalizedName": "Jailbreak",
-          "normalizedKey": "jailbreak",
-          "votes": 0,
-          "position": 2,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxqxyWV-c.png",
           "imageSourceYear": 2025,
           "rank": 13
         },
@@ -20266,9 +20266,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/kjn1DXLe0yQ/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/NamiMains",
-      "totalVotes": 63,
-      "participantCount": 63,
-      "lastVoteAt": "2026-09-21T07:37:53.000Z",
+      "totalVotes": 64,
+      "participantCount": 64,
+      "lastVoteAt": "2026-09-21T21:06:56.000Z",
       "updatedAt": "2025-11-19T21:46:21.000Z",
       "winner": {
         "id": "poy9Dpa9PZJ",
@@ -20292,9 +20292,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3968253968253968,
+      "winnerShare": 0.390625,
       "marginVotes": 6,
-      "marginShare": 0.09523809523809523,
+      "marginShare": 0.09375,
       "options": [
         {
           "id": "poy9Dpa9PZJ",
@@ -20363,6 +20363,17 @@ window.POLL_DATA = {
           "rank": 6
         },
         {
+          "id": "NMnQbOe40g6",
+          "name": "Koi Nami",
+          "normalizedName": "Koi",
+          "normalizedKey": "koi",
+          "votes": 1,
+          "position": 1,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/mpnbNO2Qn5J-c.png",
+          "imageSourceYear": 2025,
+          "rank": 7
+        },
+        {
           "id": "BDyNQ6Wl8ZR",
           "name": "Urf the Nami-tee",
           "normalizedName": "Urf the Nami-tee",
@@ -20371,7 +20382,7 @@ window.POLL_DATA = {
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XmZRm799gdb-c.png",
           "imageSourceYear": 2025,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "jVyGerOj8g7",
@@ -20382,7 +20393,7 @@ window.POLL_DATA = {
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLdbGqy4k-c.png",
           "imageSourceYear": 2025,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "6QnM5d2M8ne",
@@ -20393,7 +20404,7 @@ window.POLL_DATA = {
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOOeYag3o-c.png",
           "imageSourceYear": 2025,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "wby5B7E9knA",
@@ -20403,17 +20414,6 @@ window.POLL_DATA = {
           "votes": 0,
           "position": 0,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PbZqrYPeyN1-c.png",
-          "imageSourceYear": 2025,
-          "rank": 10
-        },
-        {
-          "id": "NMnQbOe40g6",
-          "name": "Koi Nami",
-          "normalizedName": "Koi",
-          "normalizedKey": "koi",
-          "votes": 0,
-          "position": 1,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/mpnbNO2Qn5J-c.png",
           "imageSourceYear": 2025,
           "rank": 11
         },
@@ -23591,9 +23591,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/eJnvVAJQanv/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/RenektonMains",
-      "totalVotes": 44,
-      "participantCount": 44,
-      "lastVoteAt": "2026-09-20T21:50:13.000Z",
+      "totalVotes": 45,
+      "participantCount": 45,
+      "lastVoteAt": "2026-09-21T16:37:58.000Z",
       "updatedAt": "2025-11-19T21:46:53.000Z",
       "winner": {
         "id": "poy9DpDP8ZJ",
@@ -23617,9 +23617,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3181818181818182,
+      "winnerShare": 0.3111111111111111,
       "marginVotes": 4,
-      "marginShare": 0.09090909090909091,
+      "marginShare": 0.08888888888888889,
       "options": [
         {
           "id": "poy9DpDP8ZJ",
@@ -23688,6 +23688,17 @@ window.POLL_DATA = {
           "rank": 6
         },
         {
+          "id": "NoZrR6RVDZ3",
+          "name": "Rune Wars Renekton",
+          "normalizedName": "Rune Wars",
+          "normalizedKey": "rune wars",
+          "votes": 1,
+          "position": 4,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BDyNdN88gRO-c.png",
+          "imageSourceYear": 2025,
+          "rank": 7
+        },
+        {
           "id": "B2ZBaPaWjgJ",
           "name": "SKT T1 Renekton",
           "normalizedName": "SKT T1",
@@ -23696,7 +23707,7 @@ window.POLL_DATA = {
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NPgxd8qeg2r-c.png",
           "imageSourceYear": 2025,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "eNg6MYMp3nA",
@@ -23707,7 +23718,7 @@ window.POLL_DATA = {
           "position": 11,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NoZrBeqeZ3x-c.png",
           "imageSourceYear": 2025,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "PbZqxdxVAgN",
@@ -23718,7 +23729,7 @@ window.POLL_DATA = {
           "position": 13,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/poy9K6QPgJr-c.png",
           "imageSourceYear": 2025,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "mpnbbQbLbn5",
@@ -23729,7 +23740,7 @@ window.POLL_DATA = {
           "position": 14,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kjn14wl2yQe-c.png",
           "imageSourceYear": 2025,
-          "rank": 10
+          "rank": 11
         },
         {
           "id": "NPgxGmG6on2",
@@ -23740,7 +23751,7 @@ window.POLL_DATA = {
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wby5o6vkgAe-c.png",
           "imageSourceYear": 2025,
-          "rank": 11
+          "rank": 12
         },
         {
           "id": "wAg3M2M88y8",
@@ -23751,7 +23762,7 @@ window.POLL_DATA = {
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NMnQJW60g6Y-c.png",
           "imageSourceYear": 2025,
-          "rank": 12
+          "rank": 13
         },
         {
           "id": "6QnM5d5pVne",
@@ -23761,17 +23772,6 @@ window.POLL_DATA = {
           "votes": 0,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/DwyoLPWJnAz-c.png",
-          "imageSourceYear": 2025,
-          "rank": 13
-        },
-        {
-          "id": "NoZrR6RVDZ3",
-          "name": "Rune Wars Renekton",
-          "normalizedName": "Rune Wars",
-          "normalizedKey": "rune wars",
-          "votes": 0,
-          "position": 4,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BDyNdN88gRO-c.png",
           "imageSourceYear": 2025,
           "rank": 14
         },
