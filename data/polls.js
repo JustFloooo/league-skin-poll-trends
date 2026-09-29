@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-09-28T13:09:43.115Z",
-  "startedAt": "2026-09-28T13:09:32.644Z",
+  "fetchedAt": "2026-09-29T12:19:00.560Z",
+  "startedAt": "2026-09-29T12:18:49.076Z",
   "sources": [
     {
       "year": 2024,
@@ -700,7 +700,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2242,
+      "totalVotesAcrossYears": 2243,
       "latestYear": 2025,
       "latestWinner": {
         "id": "PbZqxdk2WgN",
@@ -713,7 +713,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3333333333333333,
+      "latestWinnerShare": 0.32857142857142857,
       "consensusWinner": "Gentleman",
       "consensusWins": 2,
       "changedFromPrevious": false
@@ -924,7 +924,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2004,
+      "totalVotesAcrossYears": 2005,
       "latestYear": 2025,
       "latestWinner": {
         "id": "ajnE73P9xZW",
@@ -937,7 +937,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.36507936507936506,
+      "latestWinnerShare": 0.359375,
       "consensusWinner": "Coven",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -8655,9 +8655,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/61gD95JpvZw/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ChoGathMains",
-      "totalVotes": 69,
-      "participantCount": 69,
-      "lastVoteAt": "2026-09-24T18:35:39.000Z",
+      "totalVotes": 70,
+      "participantCount": 70,
+      "lastVoteAt": "2026-09-29T12:15:35.000Z",
       "updatedAt": "2025-11-19T21:44:29.000Z",
       "winner": {
         "id": "PbZqxdk2WgN",
@@ -8675,15 +8675,15 @@ window.POLL_DATA = {
         "name": "Gentleman Cho'Gath",
         "normalizedName": "Gentleman",
         "normalizedKey": "gentleman",
-        "votes": 15,
+        "votes": 16,
         "position": 2,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoz99ZBO-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3333333333333333,
-      "marginVotes": 8,
-      "marginShare": 0.11594202898550725,
+      "winnerShare": 0.32857142857142857,
+      "marginVotes": 7,
+      "marginShare": 0.1,
       "options": [
         {
           "id": "PbZqxdk2WgN",
@@ -8701,7 +8701,7 @@ window.POLL_DATA = {
           "name": "Gentleman Cho'Gath",
           "normalizedName": "Gentleman",
           "normalizedKey": "gentleman",
-          "votes": 15,
+          "votes": 16,
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naoz99ZBO-c.png",
           "imageSourceYear": 2025,
@@ -10127,9 +10127,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e2naXWVpMyB/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/EvelynnMains",
-      "totalVotes": 63,
-      "participantCount": 63,
-      "lastVoteAt": "2026-09-24T18:41:22.000Z",
+      "totalVotes": 64,
+      "participantCount": 64,
+      "lastVoteAt": "2026-09-29T00:54:26.000Z",
       "updatedAt": "2025-11-19T21:44:42.000Z",
       "winner": {
         "id": "ajnE73P9xZW",
@@ -10147,15 +10147,15 @@ window.POLL_DATA = {
         "name": "K/DA ALL OUT Evelynn",
         "normalizedName": "K/DA ALL OUT",
         "normalizedKey": "k da all out",
-        "votes": 6,
+        "votes": 7,
         "position": 9,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BAKgaR-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.36507936507936506,
-      "marginVotes": 17,
-      "marginShare": 0.2698412698412698,
+      "winnerShare": 0.359375,
+      "marginVotes": 16,
+      "marginShare": 0.25,
       "options": [
         {
           "id": "ajnE73P9xZW",
@@ -10173,7 +10173,7 @@ window.POLL_DATA = {
           "name": "K/DA ALL OUT Evelynn",
           "normalizedName": "K/DA ALL OUT",
           "normalizedKey": "k da all out",
-          "votes": 6,
+          "votes": 7,
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BAKgaR-c.png",
           "imageSourceYear": 2025,
