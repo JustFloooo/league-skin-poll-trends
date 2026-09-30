@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-09-29T12:19:00.560Z",
-  "startedAt": "2026-09-29T12:18:49.076Z",
+  "fetchedAt": "2026-09-30T12:04:33.729Z",
+  "startedAt": "2026-09-30T12:04:23.206Z",
   "sources": [
     {
       "year": 2024,
@@ -3098,20 +3098,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1108,
+      "totalVotesAcrossYears": 1109,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BDyNQ6QLzZR",
         "name": "Headhunter Rengar",
         "normalizedName": "Headhunter",
         "normalizedKey": "headhunter",
-        "votes": 29,
+        "votes": 30,
         "position": 1,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPq4GZ6P-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4084507042253521,
+      "latestWinnerShare": 0.4166666666666667,
       "consensusWinner": "Pretty Kitty",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -4271,7 +4271,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1467,
+      "totalVotesAcrossYears": 1468,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BJnXbWb5kZv",
@@ -4284,7 +4284,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3787878787878788,
+      "latestWinnerShare": 0.373134328358209,
       "consensusWinner": "High Noon",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -23808,16 +23808,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/6QnMQ2lY7ne/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/Rengarmains",
-      "totalVotes": 71,
-      "participantCount": 71,
-      "lastVoteAt": "2026-09-23T04:12:20.000Z",
+      "totalVotes": 72,
+      "participantCount": 72,
+      "lastVoteAt": "2026-09-30T06:11:55.000Z",
       "updatedAt": "2025-11-19T21:46:55.000Z",
       "winner": {
         "id": "BDyNQ6QLzZR",
         "name": "Headhunter Rengar",
         "normalizedName": "Headhunter",
         "normalizedKey": "headhunter",
-        "votes": 29,
+        "votes": 30,
         "position": 1,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPq4GZ6P-c.png",
         "imageSourceYear": 2025,
@@ -23834,16 +23834,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4084507042253521,
-      "marginVotes": 6,
-      "marginShare": 0.08450704225352113,
+      "winnerShare": 0.4166666666666667,
+      "marginVotes": 7,
+      "marginShare": 0.09722222222222222,
       "options": [
         {
           "id": "BDyNQ6QLzZR",
           "name": "Headhunter Rengar",
           "normalizedName": "Headhunter",
           "normalizedKey": "headhunter",
-          "votes": 29,
+          "votes": 30,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPq4GZ6P-c.png",
           "imageSourceYear": 2025,
@@ -30975,9 +30975,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/wAg3QXLqGy8/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/viktormains",
-      "totalVotes": 66,
-      "participantCount": 66,
-      "lastVoteAt": "2026-09-27T21:31:11.000Z",
+      "totalVotes": 67,
+      "participantCount": 67,
+      "lastVoteAt": "2026-09-29T12:47:28.000Z",
       "updatedAt": "2025-11-19T21:48:03.000Z",
       "winner": {
         "id": "BJnXbWb5kZv",
@@ -31001,9 +31001,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3787878787878788,
+      "winnerShare": 0.373134328358209,
       "marginVotes": 4,
-      "marginShare": 0.06060606060606061,
+      "marginShare": 0.05970149253731343,
       "options": [
         {
           "id": "BJnXbWb5kZv",
@@ -31039,6 +31039,17 @@ window.POLL_DATA = {
           "rank": 3
         },
         {
+          "id": "61gDkxk1vnw",
+          "name": "Death Sworn Viktor",
+          "normalizedName": "Death Sworn",
+          "normalizedKey": "death sworn",
+          "votes": 5,
+          "position": 4,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeY89neA-c.png",
+          "imageSourceYear": 2025,
+          "rank": 4
+        },
+        {
           "id": "B2ZBaPa8jgJ",
           "name": "Creator Viktor",
           "normalizedName": "Creator",
@@ -31046,17 +31057,6 @@ window.POLL_DATA = {
           "votes": 4,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/xVg7vw6znrR-c.png",
-          "imageSourceYear": 2025,
-          "rank": 4
-        },
-        {
-          "id": "61gDkxk1vnw",
-          "name": "Death Sworn Viktor",
-          "normalizedName": "Death Sworn",
-          "normalizedKey": "death sworn",
-          "votes": 4,
-          "position": 4,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeY89neA-c.png",
           "imageSourceYear": 2025,
           "rank": 5
         },
