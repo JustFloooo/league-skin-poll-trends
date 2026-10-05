@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-10-04T11:54:27.600Z",
-  "startedAt": "2026-10-04T11:54:17.495Z",
+  "fetchedAt": "2026-10-05T13:52:21.407Z",
+  "startedAt": "2026-10-05T13:52:11.459Z",
   "sources": [
     {
       "year": 2024,
@@ -1538,7 +1538,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 3173,
+      "totalVotesAcrossYears": 3174,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e6Z2daRdMnN",
@@ -1551,7 +1551,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.6195652173913043,
+      "latestWinnerShare": 0.6129032258064516,
       "consensusWinner": "Dark Cosmic",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2874,20 +2874,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1368,
+      "totalVotesAcrossYears": 1370,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BJnXbWb7XZv",
         "name": "Prestige True Damage Qiyana",
         "normalizedName": "Prestige True Damage",
         "normalizedKey": "prestige true damage",
-        "votes": 18,
+        "votes": 19,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BOogaR-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.26865671641791045,
+      "latestWinnerShare": 0.2753623188405797,
       "consensusWinner": "Prestige True Damage",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -14164,9 +14164,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/61gD95JazZw/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/JhinMains",
-      "totalVotes": 92,
-      "participantCount": 92,
-      "lastVoteAt": "2026-09-27T02:39:31.000Z",
+      "totalVotes": 93,
+      "participantCount": 93,
+      "lastVoteAt": "2026-10-05T10:03:56.000Z",
       "updatedAt": "2025-11-19T21:45:18.000Z",
       "winner": {
         "id": "e6Z2daRdMnN",
@@ -14190,9 +14190,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.6195652173913043,
+      "winnerShare": 0.6129032258064516,
       "marginVotes": 47,
-      "marginShare": 0.5108695652173914,
+      "marginShare": 0.5053763440860215,
       "options": [
         {
           "id": "e6Z2daRdMnN",
@@ -14254,7 +14254,7 @@ window.POLL_DATA = {
           "name": "Mythmaker Jhin",
           "normalizedName": "Mythmaker",
           "normalizedKey": "mythmaker",
-          "votes": 2,
+          "votes": 3,
           "position": 11,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wby5o6r8gAe-c.png",
           "imageSourceYear": 2025,
@@ -22655,16 +22655,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e7ZJam7Kdg3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/QiyanaMains",
-      "totalVotes": 67,
-      "participantCount": 67,
-      "lastVoteAt": "2026-09-21T07:34:19.000Z",
+      "totalVotes": 69,
+      "participantCount": 69,
+      "lastVoteAt": "2026-10-05T07:15:06.000Z",
       "updatedAt": "2025-11-19T21:46:42.000Z",
       "winner": {
         "id": "BJnXbWb7XZv",
         "name": "Prestige True Damage Qiyana",
         "normalizedName": "Prestige True Damage",
         "normalizedKey": "prestige true damage",
-        "votes": 18,
+        "votes": 19,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BOogaR-c.png",
         "imageSourceYear": 2025,
@@ -22681,16 +22681,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.26865671641791045,
-      "marginVotes": 4,
-      "marginShare": 0.05970149253731343,
+      "winnerShare": 0.2753623188405797,
+      "marginVotes": 5,
+      "marginShare": 0.07246376811594203,
       "options": [
         {
           "id": "BJnXbWb7XZv",
           "name": "Prestige True Damage Qiyana",
           "normalizedName": "Prestige True Damage",
           "normalizedKey": "prestige true damage",
-          "votes": 18,
+          "votes": 19,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BOogaR-c.png",
           "imageSourceYear": 2025,
@@ -22752,6 +22752,17 @@ window.POLL_DATA = {
           "rank": 6
         },
         {
+          "id": "mpnbbQbJMn5",
+          "name": "Shockblade Qiyana",
+          "normalizedName": "Shockblade",
+          "normalizedKey": "shockblade",
+          "votes": 4,
+          "position": 5,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naozBpZBO-c.png",
+          "imageSourceYear": 2025,
+          "rank": 7
+        },
+        {
           "id": "05ZdbNbDNn6",
           "name": "Battle Boss Qiyana",
           "normalizedName": "Battle Boss",
@@ -22759,17 +22770,6 @@ window.POLL_DATA = {
           "votes": 3,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/ajnEdxJmyWV-c.png",
-          "imageSourceYear": 2025,
-          "rank": 7
-        },
-        {
-          "id": "mpnbbQbJMn5",
-          "name": "Shockblade Qiyana",
-          "normalizedName": "Shockblade",
-          "normalizedKey": "shockblade",
-          "votes": 3,
-          "position": 5,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naozBpZBO-c.png",
           "imageSourceYear": 2025,
           "rank": 8
         },
