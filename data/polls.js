@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-10-05T13:52:21.407Z",
-  "startedAt": "2026-10-05T13:52:11.459Z",
+  "fetchedAt": "2026-10-06T12:55:28.736Z",
+  "startedAt": "2026-10-06T12:55:18.568Z",
   "sources": [
     {
       "year": 2024,
@@ -313,7 +313,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 3060,
+      "totalVotesAcrossYears": 3061,
       "latestYear": 2025,
       "latestWinner": {
         "id": "XOgOoXBGag3",
@@ -326,7 +326,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.30952380952380953,
+      "latestWinnerShare": 0.3058823529411765,
       "consensusWinner": "Spirit Blossom",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -4523,20 +4523,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2262,
+      "totalVotesAcrossYears": 2263,
       "latestYear": 2025,
       "latestWinner": {
         "id": "PKglG8GEEnp",
         "name": "High Noon Yone",
         "normalizedName": "High Noon",
         "normalizedKey": "high noon",
-        "votes": 24,
+        "votes": 25,
         "position": 8,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GeZAABPPZV5-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3076923076923077,
+      "latestWinnerShare": 0.31645569620253167,
       "consensusWinner": "Spirit Blossom",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -6585,9 +6585,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/7MZ0kXL1Rgo/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ApheliosMains",
-      "totalVotes": 84,
-      "participantCount": 84,
-      "lastVoteAt": "2026-09-24T18:24:15.000Z",
+      "totalVotes": 85,
+      "participantCount": 85,
+      "lastVoteAt": "2026-10-05T21:12:00.000Z",
       "updatedAt": "2025-11-19T21:44:07.000Z",
       "winner": {
         "id": "XOgOoXBGag3",
@@ -6605,15 +6605,15 @@ window.POLL_DATA = {
         "name": "EDG Aphelios",
         "normalizedName": "EDG",
         "normalizedKey": "edg",
-        "votes": 23,
+        "votes": 24,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GJn4Qk66gzm-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.30952380952380953,
-      "marginVotes": 3,
-      "marginShare": 0.03571428571428571,
+      "winnerShare": 0.3058823529411765,
+      "marginVotes": 2,
+      "marginShare": 0.023529411764705882,
       "options": [
         {
           "id": "XOgOoXBGag3",
@@ -6631,7 +6631,7 @@ window.POLL_DATA = {
           "name": "EDG Aphelios",
           "normalizedName": "EDG",
           "normalizedKey": "edg",
-          "votes": 23,
+          "votes": 24,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GJn4Qk66gzm-c.png",
           "imageSourceYear": 2025,
@@ -32576,16 +32576,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e6Z2ARLN5gN/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/YoneMains",
-      "totalVotes": 78,
-      "participantCount": 78,
-      "lastVoteAt": "2026-09-28T07:55:57.000Z",
+      "totalVotes": 79,
+      "participantCount": 79,
+      "lastVoteAt": "2026-10-05T21:40:09.000Z",
       "updatedAt": "2025-11-19T21:48:17.000Z",
       "winner": {
         "id": "PKglG8GEEnp",
         "name": "High Noon Yone",
         "normalizedName": "High Noon",
         "normalizedKey": "high noon",
-        "votes": 24,
+        "votes": 25,
         "position": 8,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GeZAABPPZV5-c.png",
         "imageSourceYear": 2025,
@@ -32602,16 +32602,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3076923076923077,
-      "marginVotes": 8,
-      "marginShare": 0.10256410256410256,
+      "winnerShare": 0.31645569620253167,
+      "marginVotes": 9,
+      "marginShare": 0.11392405063291139,
       "options": [
         {
           "id": "PKglG8GEEnp",
           "name": "High Noon Yone",
           "normalizedName": "High Noon",
           "normalizedKey": "high noon",
-          "votes": 24,
+          "votes": 25,
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GeZAABPPZV5-c.png",
           "imageSourceYear": 2025,
