@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-10-08T12:58:14.080Z",
-  "startedAt": "2026-10-08T12:58:03.966Z",
+  "fetchedAt": "2026-10-10T12:03:11.317Z",
+  "startedAt": "2026-10-10T12:03:00.963Z",
   "sources": [
     {
       "year": 2024,
@@ -1260,23 +1260,23 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1388,
+      "totalVotesAcrossYears": 1389,
       "latestYear": 2025,
       "latestWinner": {
-        "id": "NMnQbOevDg6",
-        "name": "Arcade Hecarim",
-        "normalizedName": "Arcade",
-        "normalizedKey": "arcade",
-        "votes": 11,
-        "position": 4,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naozkeZBO-c.png",
+        "id": "DwyodBA0YnA",
+        "name": "Elderwood Hecarim",
+        "normalizedName": "Elderwood",
+        "normalizedKey": "elderwood",
+        "votes": 12,
+        "position": 5,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDEwyNG-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2619047619047619,
+      "latestWinnerShare": 0.27906976744186046,
       "consensusWinner": "Arcade",
-      "consensusWins": 5,
-      "changedFromPrevious": false
+      "consensusWins": 4,
+      "changedFromPrevious": true
     },
     {
       "champion": "Heimerdinger",
@@ -12478,11 +12478,22 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/kogjR58p9g6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/HecarimMains",
-      "totalVotes": 42,
-      "participantCount": 42,
-      "lastVoteAt": "2026-10-06T14:11:52.000Z",
+      "totalVotes": 43,
+      "participantCount": 43,
+      "lastVoteAt": "2026-10-09T19:59:41.000Z",
       "updatedAt": "2025-11-19T21:45:02.000Z",
       "winner": {
+        "id": "DwyodBA0YnA",
+        "name": "Elderwood Hecarim",
+        "normalizedName": "Elderwood",
+        "normalizedKey": "elderwood",
+        "votes": 12,
+        "position": 5,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDEwyNG-c.png",
+        "imageSourceYear": 2025,
+        "rank": 1
+      },
+      "runnerUp": {
         "id": "NMnQbOevDg6",
         "name": "Arcade Hecarim",
         "normalizedName": "Arcade",
@@ -12491,23 +12502,23 @@ window.POLL_DATA = {
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naozkeZBO-c.png",
         "imageSourceYear": 2025,
-        "rank": 1
-      },
-      "runnerUp": {
-        "id": "DwyodBA0YnA",
-        "name": "Elderwood Hecarim",
-        "normalizedName": "Elderwood",
-        "normalizedKey": "elderwood",
-        "votes": 11,
-        "position": 5,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDEwyNG-c.png",
-        "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2619047619047619,
-      "marginVotes": 0,
-      "marginShare": 0,
+      "winnerShare": 0.27906976744186046,
+      "marginVotes": 1,
+      "marginShare": 0.023255813953488372,
       "options": [
+        {
+          "id": "DwyodBA0YnA",
+          "name": "Elderwood Hecarim",
+          "normalizedName": "Elderwood",
+          "normalizedKey": "elderwood",
+          "votes": 12,
+          "position": 5,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDEwyNG-c.png",
+          "imageSourceYear": 2025,
+          "rank": 1
+        },
         {
           "id": "NMnQbOevDg6",
           "name": "Arcade Hecarim",
@@ -12516,17 +12527,6 @@ window.POLL_DATA = {
           "votes": 11,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naozkeZBO-c.png",
-          "imageSourceYear": 2025,
-          "rank": 1
-        },
-        {
-          "id": "DwyodBA0YnA",
-          "name": "Elderwood Hecarim",
-          "normalizedName": "Elderwood",
-          "normalizedKey": "elderwood",
-          "votes": 11,
-          "position": 5,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDEwyNG-c.png",
           "imageSourceYear": 2025,
           "rank": 2
         },
