@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-10-21T11:19:47.640Z",
-  "startedAt": "2026-10-21T11:19:37.607Z",
+  "fetchedAt": "2026-10-22T11:19:14.063Z",
+  "startedAt": "2026-10-22T11:19:04.071Z",
   "sources": [
     {
       "year": 2024,
@@ -120,7 +120,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 4580,
+      "totalVotesAcrossYears": 4581,
       "latestYear": 2025,
       "latestWinner": {
         "id": "BDyNQ61x7ZR",
@@ -133,7 +133,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2360248447204969,
+      "latestWinnerShare": 0.2345679012345679,
       "consensusWinner": "Star Guardian",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2069,7 +2069,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1269,
+      "totalVotesAcrossYears": 1270,
       "latestYear": 2025,
       "latestWinner": {
         "id": "40ZmG9AwRna",
@@ -2082,7 +2082,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.29411764705882354,
+      "latestWinnerShare": 0.28846153846153844,
       "consensusWinner": "Shan Hai Scrolls",
       "consensusWins": 2,
       "changedFromPrevious": true
@@ -4243,7 +4243,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1667,
+      "totalVotesAcrossYears": 1668,
       "latestYear": 2025,
       "latestWinner": {
         "id": "kogjGMGQ3Z6",
@@ -4256,7 +4256,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.5384615384615384,
+      "latestWinnerShare": 0.5303030303030303,
       "consensusWinner": "Soul Fighter",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -5308,9 +5308,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/YVyPvY4MkgN/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/akalimains",
-      "totalVotes": 161,
-      "participantCount": 161,
-      "lastVoteAt": "2026-10-19T03:44:11.000Z",
+      "totalVotes": 162,
+      "participantCount": 162,
+      "lastVoteAt": "2026-10-22T05:27:53.000Z",
       "updatedAt": "2025-11-19T21:43:56.000Z",
       "winner": {
         "id": "BDyNQ61x7ZR",
@@ -5334,9 +5334,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2360248447204969,
+      "winnerShare": 0.2345679012345679,
       "marginVotes": 20,
-      "marginShare": 0.12422360248447205,
+      "marginShare": 0.12345679012345678,
       "options": [
         {
           "id": "BDyNQ61x7ZR",
@@ -5482,6 +5482,17 @@ window.POLL_DATA = {
           "rank": 13
         },
         {
+          "id": "NPgxGmOYMn2",
+          "name": "Empyrean Akali",
+          "normalizedName": "Empyrean",
+          "normalizedKey": "empyrean",
+          "votes": 4,
+          "position": 20,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLdbrvy4k-c.png",
+          "imageSourceYear": 2025,
+          "rank": 14
+        },
+        {
           "id": "w4nWb2mzxyA",
           "name": "Nurse Akali",
           "normalizedName": "Nurse",
@@ -5489,17 +5500,6 @@ window.POLL_DATA = {
           "votes": 3,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/6QnML8r3ye9-c.png",
-          "imageSourceYear": 2025,
-          "rank": 14
-        },
-        {
-          "id": "NPgxGmOYMn2",
-          "name": "Empyrean Akali",
-          "normalizedName": "Empyrean",
-          "normalizedKey": "empyrean",
-          "votes": 3,
-          "position": 20,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLdbrvy4k-c.png",
           "imageSourceYear": 2025,
           "rank": 15
         },
@@ -17561,9 +17561,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NoZrzA8MkZ3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/LilliaMains",
-      "totalVotes": 51,
-      "participantCount": 51,
-      "lastVoteAt": "2026-10-06T14:20:47.000Z",
+      "totalVotes": 52,
+      "participantCount": 52,
+      "lastVoteAt": "2026-10-21T17:46:36.000Z",
       "updatedAt": "2025-11-19T21:45:48.000Z",
       "winner": {
         "id": "40ZmG9AwRna",
@@ -17587,9 +17587,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.29411764705882354,
+      "winnerShare": 0.28846153846153844,
       "marginVotes": 3,
-      "marginShare": 0.058823529411764705,
+      "marginShare": 0.057692307692307696,
       "options": [
         {
           "id": "40ZmG9AwRna",
@@ -17618,7 +17618,7 @@ window.POLL_DATA = {
           "name": "Bowling League Lillia",
           "normalizedName": "Bowling League",
           "normalizedKey": "bowling league",
-          "votes": 10,
+          "votes": 11,
           "position": 5,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDKzneA-c.png",
           "imageSourceYear": 2025,
@@ -30857,9 +30857,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/jVyG2OaQYZ7/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ViegoMains",
-      "totalVotes": 65,
-      "participantCount": 65,
-      "lastVoteAt": "2026-10-06T14:46:05.000Z",
+      "totalVotes": 66,
+      "participantCount": 66,
+      "lastVoteAt": "2026-10-21T16:11:14.000Z",
       "updatedAt": "2025-11-19T21:48:02.000Z",
       "winner": {
         "id": "kogjGMGQ3Z6",
@@ -30873,19 +30873,19 @@ window.POLL_DATA = {
         "rank": 1
       },
       "runnerUp": {
-        "id": "QrgeGvGpYyp",
-        "name": "Dissonance of Pentakill Viego",
-        "normalizedName": "Dissonance of Pentakill",
-        "normalizedKey": "dissonance of pentakill",
-        "votes": 9,
-        "position": 2,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOO8r4g3o-c.png",
+        "id": "Q0ZpGDGxAgM",
+        "name": "King Viego",
+        "normalizedName": "King",
+        "normalizedKey": "king",
+        "votes": 10,
+        "position": 4,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdYDLn3K-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.5384615384615384,
-      "marginVotes": 26,
-      "marginShare": 0.4,
+      "winnerShare": 0.5303030303030303,
+      "marginVotes": 25,
+      "marginShare": 0.3787878787878788,
       "options": [
         {
           "id": "kogjGMGQ3Z6",
@@ -30899,6 +30899,17 @@ window.POLL_DATA = {
           "rank": 1
         },
         {
+          "id": "Q0ZpGDGxAgM",
+          "name": "King Viego",
+          "normalizedName": "King",
+          "normalizedKey": "king",
+          "votes": 10,
+          "position": 4,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdYDLn3K-c.png",
+          "imageSourceYear": 2025,
+          "rank": 2
+        },
+        {
           "id": "QrgeGvGpYyp",
           "name": "Dissonance of Pentakill Viego",
           "normalizedName": "Dissonance of Pentakill",
@@ -30906,17 +30917,6 @@ window.POLL_DATA = {
           "votes": 9,
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOO8r4g3o-c.png",
-          "imageSourceYear": 2025,
-          "rank": 2
-        },
-        {
-          "id": "Q0ZpGDGxAgM",
-          "name": "King Viego",
-          "normalizedName": "King",
-          "normalizedKey": "king",
-          "votes": 9,
-          "position": 4,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdYDLn3K-c.png",
           "imageSourceYear": 2025,
           "rank": 3
         },
