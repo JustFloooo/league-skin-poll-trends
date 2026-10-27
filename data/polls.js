@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-10-26T12:25:39.238Z",
-  "startedAt": "2026-10-26T12:25:28.925Z",
+  "fetchedAt": "2026-10-27T11:44:15.578Z",
+  "startedAt": "2026-10-27T11:44:05.427Z",
   "sources": [
     {
       "year": 2024,
@@ -4711,20 +4711,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1265,
+      "totalVotesAcrossYears": 1266,
       "latestYear": 2025,
       "latestWinner": {
         "id": "05ZdbNmqDn6",
         "name": "Winter Wonder Zeri",
         "normalizedName": "Winter Wonder",
         "normalizedKey": "winter wonder",
-        "votes": 42,
+        "votes": 43,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdYqBn3K-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.5454545454545454,
+      "latestWinnerShare": 0.5512820512820513,
       "consensusWinner": "Ocean Song",
       "consensusWins": 2,
       "changedFromPrevious": true
@@ -4795,7 +4795,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1559,
+      "totalVotesAcrossYears": 1560,
       "latestYear": 2025,
       "latestWinner": {
         "id": "LVyK4BMoKn0",
@@ -4808,7 +4808,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.25925925925925924,
+      "latestWinnerShare": 0.2545454545454545,
       "consensusWinner": "Star Guardian",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -33501,16 +33501,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/3RnYXoxWJye/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ZeriMains",
-      "totalVotes": 77,
-      "participantCount": 77,
-      "lastVoteAt": "2026-10-16T13:13:01.000Z",
+      "totalVotes": 78,
+      "participantCount": 78,
+      "lastVoteAt": "2026-10-27T08:53:26.000Z",
       "updatedAt": "2025-11-19T21:48:28.000Z",
       "winner": {
         "id": "05ZdbNmqDn6",
         "name": "Winter Wonder Zeri",
         "normalizedName": "Winter Wonder",
         "normalizedKey": "winter wonder",
-        "votes": 42,
+        "votes": 43,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdYqBn3K-c.png",
         "imageSourceYear": 2025,
@@ -33527,16 +33527,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.5454545454545454,
-      "marginVotes": 23,
-      "marginShare": 0.2987012987012987,
+      "winnerShare": 0.5512820512820513,
+      "marginVotes": 24,
+      "marginShare": 0.3076923076923077,
       "options": [
         {
           "id": "05ZdbNmqDn6",
           "name": "Winter Wonder Zeri",
           "normalizedName": "Winter Wonder",
           "normalizedKey": "winter wonder",
-          "votes": 42,
+          "votes": 43,
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e7ZJdYqBn3K-c.png",
           "imageSourceYear": 2025,
@@ -33932,9 +33932,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/wAg3QXJWly8/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/zoemains",
-      "totalVotes": 54,
-      "participantCount": 54,
-      "lastVoteAt": "2026-10-25T13:04:52.000Z",
+      "totalVotes": 55,
+      "participantCount": 55,
+      "lastVoteAt": "2026-10-26T18:00:32.000Z",
       "updatedAt": "2025-11-19T21:48:33.000Z",
       "winner": {
         "id": "LVyK4BMoKn0",
@@ -33958,9 +33958,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.25925925925925924,
+      "winnerShare": 0.2545454545454545,
       "marginVotes": 4,
-      "marginShare": 0.07407407407407407,
+      "marginShare": 0.07272727272727272,
       "options": [
         {
           "id": "LVyK4BMoKn0",
@@ -34000,7 +34000,7 @@ window.POLL_DATA = {
           "name": "Cyber Pop Zoe",
           "normalizedName": "Cyber Pop",
           "normalizedKey": "cyber pop",
-          "votes": 6,
+          "votes": 7,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/bVg8PjzNgYa-c.png",
           "imageSourceYear": 2025,
