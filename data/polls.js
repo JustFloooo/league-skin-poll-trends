@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-10-27T11:44:15.578Z",
-  "startedAt": "2026-10-27T11:44:05.427Z",
+  "fetchedAt": "2026-10-28T12:17:40.390Z",
+  "startedAt": "2026-10-28T12:17:30.385Z",
   "sources": [
     {
       "year": 2024,
@@ -64,7 +64,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 8167,
+      "totalVotesAcrossYears": 8168,
       "latestYear": 2025,
       "latestWinner": {
         "id": "1Mnw3JQd5n7",
@@ -77,7 +77,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2703583061889251,
+      "latestWinnerShare": 0.2694805194805195,
       "consensusWinner": "Prestige Blood Moon",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -4683,7 +4683,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1885,
+      "totalVotesAcrossYears": 1886,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e7ZJj1rXWZ3",
@@ -4696,7 +4696,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.45714285714285713,
+      "latestWinnerShare": 0.4507042253521127,
       "consensusWinner": "Galaxy Slayer",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -4852,9 +4852,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/wby5QEL1wyA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AatroxMains",
-      "totalVotes": 307,
-      "participantCount": 307,
-      "lastVoteAt": "2026-10-24T17:03:23.000Z",
+      "totalVotes": 308,
+      "participantCount": 308,
+      "lastVoteAt": "2026-10-27T14:31:59.000Z",
       "updatedAt": "2025-11-19T21:43:53.000Z",
       "winner": {
         "id": "1Mnw3JQd5n7",
@@ -4878,9 +4878,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2703583061889251,
+      "winnerShare": 0.2694805194805195,
       "marginVotes": 25,
-      "marginShare": 0.08143322475570032,
+      "marginShare": 0.08116883116883117,
       "options": [
         {
           "id": "1Mnw3JQd5n7",
@@ -4953,7 +4953,7 @@ window.POLL_DATA = {
           "name": "Prestige DRX Aatrox",
           "normalizedName": "Prestige DRX",
           "normalizedKey": "prestige drx",
-          "votes": 16,
+          "votes": 17,
           "position": 11,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdjwQn04-c.png",
           "imageSourceYear": 2025,
@@ -33295,9 +33295,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/xVg71mL4Myr/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/zedmains",
-      "totalVotes": 70,
-      "participantCount": 70,
-      "lastVoteAt": "2026-10-17T04:34:27.000Z",
+      "totalVotes": 71,
+      "participantCount": 71,
+      "lastVoteAt": "2026-10-27T14:32:34.000Z",
       "updatedAt": "2025-11-19T21:48:26.000Z",
       "winner": {
         "id": "e7ZJj1rXWZ3",
@@ -33321,9 +33321,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.45714285714285713,
+      "winnerShare": 0.4507042253521127,
       "marginVotes": 21,
-      "marginShare": 0.3,
+      "marginShare": 0.29577464788732394,
       "options": [
         {
           "id": "e7ZJj1rXWZ3",
@@ -33370,6 +33370,17 @@ window.POLL_DATA = {
           "rank": 4
         },
         {
+          "id": "e6Z2da938nN",
+          "name": "Empyrean Zed",
+          "normalizedName": "Empyrean",
+          "normalizedKey": "empyrean",
+          "votes": 4,
+          "position": 10,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NPgxd8bPg2r-c.png",
+          "imageSourceYear": 2025,
+          "rank": 5
+        },
+        {
           "id": "X3nk1rv7VZE",
           "name": "PROJECT: Zed",
           "normalizedName": "PROJECT:",
@@ -33377,17 +33388,6 @@ window.POLL_DATA = {
           "votes": 3,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/wby5oY3jgAe-c.png",
-          "imageSourceYear": 2025,
-          "rank": 5
-        },
-        {
-          "id": "e6Z2da938nN",
-          "name": "Empyrean Zed",
-          "normalizedName": "Empyrean",
-          "normalizedKey": "empyrean",
-          "votes": 3,
-          "position": 10,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NPgxd8bPg2r-c.png",
           "imageSourceYear": 2025,
           "rank": 6
         },
