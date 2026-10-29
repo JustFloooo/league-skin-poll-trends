@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-10-28T12:17:40.390Z",
-  "startedAt": "2026-10-28T12:17:30.385Z",
+  "fetchedAt": "2026-10-29T12:27:03.583Z",
+  "startedAt": "2026-10-29T12:26:53.387Z",
   "sources": [
     {
       "year": 2024,
@@ -868,20 +868,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2137,
+      "totalVotesAcrossYears": 2138,
       "latestYear": 2025,
       "latestWinner": {
         "id": "1Mnw3JQ20n7",
         "name": "True Damage Ekko",
         "normalizedName": "True Damage",
         "normalizedKey": "true damage",
-        "votes": 55,
+        "votes": 56,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6N4JWgAk-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.6875,
+      "latestWinnerShare": 0.691358024691358,
       "consensusWinner": "True Damage",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -980,7 +980,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1689,
+      "totalVotesAcrossYears": 1690,
       "latestYear": 2025,
       "latestWinner": {
         "id": "NMnQbOezYg6",
@@ -993,7 +993,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.6129032258064516,
+      "latestWinnerShare": 0.6031746031746031,
       "consensusWinner": "Surprise Party",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -9792,16 +9792,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/ajnE1QmjjnW/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ekkomains",
-      "totalVotes": 80,
-      "participantCount": 80,
-      "lastVoteAt": "2026-10-20T13:50:35.000Z",
+      "totalVotes": 81,
+      "participantCount": 81,
+      "lastVoteAt": "2026-10-28T22:19:00.000Z",
       "updatedAt": "2025-11-19T21:44:39.000Z",
       "winner": {
         "id": "1Mnw3JQ20n7",
         "name": "True Damage Ekko",
         "normalizedName": "True Damage",
         "normalizedKey": "true damage",
-        "votes": 55,
+        "votes": 56,
         "position": 6,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6N4JWgAk-c.png",
         "imageSourceYear": 2025,
@@ -9818,16 +9818,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.6875,
-      "marginVotes": 47,
-      "marginShare": 0.5875,
+      "winnerShare": 0.691358024691358,
+      "marginVotes": 48,
+      "marginShare": 0.5925925925925926,
       "options": [
         {
           "id": "1Mnw3JQ20n7",
           "name": "True Damage Ekko",
           "normalizedName": "True Damage",
           "normalizedKey": "true damage",
-          "votes": 55,
+          "votes": 56,
           "position": 6,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6N4JWgAk-c.png",
           "imageSourceYear": 2025,
@@ -10638,9 +10638,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/w4nWW5P1WnA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/FiddlesticksMains",
-      "totalVotes": 62,
-      "participantCount": 62,
-      "lastVoteAt": "2026-10-06T14:08:04.000Z",
+      "totalVotes": 63,
+      "participantCount": 63,
+      "lastVoteAt": "2026-10-28T19:33:48.000Z",
       "updatedAt": "2025-11-19T21:44:45.000Z",
       "winner": {
         "id": "NMnQbOezYg6",
@@ -10664,9 +10664,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.6129032258064516,
+      "winnerShare": 0.6031746031746031,
       "marginVotes": 27,
-      "marginShare": 0.43548387096774194,
+      "marginShare": 0.42857142857142855,
       "options": [
         {
           "id": "NMnQbOezYg6",
@@ -10735,6 +10735,17 @@ window.POLL_DATA = {
           "rank": 6
         },
         {
+          "id": "Q0ZpGD0JEgM",
+          "name": "Spectral Fiddlesticks",
+          "normalizedName": "Spectral",
+          "normalizedKey": "spectral",
+          "votes": 1,
+          "position": 1,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BJnXYlbjgvV-c.png",
+          "imageSourceYear": 2025,
+          "rank": 7
+        },
+        {
           "id": "DwyodBAEenA",
           "name": "Dark Candy Fiddlesticks",
           "normalizedName": "Dark Candy",
@@ -10742,17 +10753,6 @@ window.POLL_DATA = {
           "votes": 1,
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7MZ0jorKnom-c.png",
-          "imageSourceYear": 2025,
-          "rank": 7
-        },
-        {
-          "id": "Q0ZpGD0JEgM",
-          "name": "Spectral Fiddlesticks",
-          "normalizedName": "Spectral",
-          "normalizedKey": "spectral",
-          "votes": 0,
-          "position": 1,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BJnXYlbjgvV-c.png",
           "imageSourceYear": 2025,
           "rank": 8
         },
