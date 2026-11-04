@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-11-03T13:46:07.936Z",
-  "startedAt": "2026-11-03T13:45:57.913Z",
+  "fetchedAt": "2026-11-04T13:54:28.804Z",
+  "startedAt": "2026-11-04T13:54:18.650Z",
   "sources": [
     {
       "year": 2024,
@@ -952,7 +952,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 3344,
+      "totalVotesAcrossYears": 3345,
       "latestYear": 2025,
       "latestWinner": {
         "id": "xVg7MeW3ryr",
@@ -965,7 +965,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.358695652173913,
+      "latestWinnerShare": 0.3548387096774194,
       "consensusWinner": "Battle Academia",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2846,7 +2846,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1951,
+      "totalVotesAcrossYears": 1952,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e2nab5bE0gB",
@@ -2859,7 +2859,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.44285714285714284,
+      "latestWinnerShare": 0.43661971830985913,
       "consensusWinner": "Ashen Knight",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -10355,9 +10355,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e7ZJam7oWg3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/ezrealmains",
-      "totalVotes": 92,
-      "participantCount": 92,
-      "lastVoteAt": "2026-11-01T11:26:05.000Z",
+      "totalVotes": 93,
+      "participantCount": 93,
+      "lastVoteAt": "2026-11-03T14:22:24.000Z",
       "updatedAt": "2025-11-19T21:44:44.000Z",
       "winner": {
         "id": "xVg7MeW3ryr",
@@ -10381,9 +10381,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.358695652173913,
+      "winnerShare": 0.3548387096774194,
       "marginVotes": 24,
-      "marginShare": 0.2608695652173913,
+      "marginShare": 0.25806451612903225,
       "options": [
         {
           "id": "xVg7MeW3ryr",
@@ -10529,6 +10529,17 @@ window.POLL_DATA = {
           "rank": 13
         },
         {
+          "id": "w4nWb2mJYyA",
+          "name": "Original Ezreal",
+          "normalizedName": "Original",
+          "normalizedKey": "original",
+          "votes": 1,
+          "position": 0,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKPGenp0-c.png",
+          "imageSourceYear": 2025,
+          "rank": 14
+        },
+        {
           "id": "e7ZJj1PNPZ3",
           "name": "Debonair Ezreal",
           "normalizedName": "Debonair",
@@ -10537,7 +10548,7 @@ window.POLL_DATA = {
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/DwyoLPdonAz-c.png",
           "imageSourceYear": 2025,
-          "rank": 14
+          "rank": 15
         },
         {
           "id": "40ZmG9WmAna",
@@ -10548,7 +10559,7 @@ window.POLL_DATA = {
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/BDyNdNQOgRO-c.png",
           "imageSourceYear": 2025,
-          "rank": 15
+          "rank": 16
         },
         {
           "id": "e2nab5jGegB",
@@ -10559,7 +10570,7 @@ window.POLL_DATA = {
           "position": 10,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/YVyPEkN1nNd-c.png",
           "imageSourceYear": 2025,
-          "rank": 16
+          "rank": 17
         },
         {
           "id": "QrgeGvQBKyp",
@@ -10570,7 +10581,7 @@ window.POLL_DATA = {
           "position": 15,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/NoZrBbRpZ3x-c.png",
           "imageSourceYear": 2025,
-          "rank": 17
+          "rank": 18
         },
         {
           "id": "1Mnw3JQxMn7",
@@ -10580,17 +10591,6 @@ window.POLL_DATA = {
           "votes": 1,
           "position": 20,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/61gDdbkAgwd-c.png",
-          "imageSourceYear": 2025,
-          "rank": 18
-        },
-        {
-          "id": "w4nWb2mJYyA",
-          "name": "Original Ezreal",
-          "normalizedName": "Original",
-          "normalizedKey": "original",
-          "votes": 0,
-          "position": 0,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKPGenp0-c.png",
           "imageSourceYear": 2025,
           "rank": 19
         },
@@ -22471,9 +22471,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/PKgleobWoZp/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/pykemains",
-      "totalVotes": 70,
-      "participantCount": 70,
-      "lastVoteAt": "2026-11-03T09:34:55.000Z",
+      "totalVotes": 71,
+      "participantCount": 71,
+      "lastVoteAt": "2026-11-03T17:44:53.000Z",
       "updatedAt": "2025-11-19T21:46:41.000Z",
       "winner": {
         "id": "e2nab5bE0gB",
@@ -22491,15 +22491,15 @@ window.POLL_DATA = {
         "name": "Empyrean Pyke",
         "normalizedName": "Empyrean",
         "normalizedKey": "empyrean",
-        "votes": 21,
+        "votes": 22,
         "position": 7,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDMJyNG-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.44285714285714284,
-      "marginVotes": 10,
-      "marginShare": 0.14285714285714285,
+      "winnerShare": 0.43661971830985913,
+      "marginVotes": 9,
+      "marginShare": 0.1267605633802817,
       "options": [
         {
           "id": "e2nab5bE0gB",
@@ -22517,7 +22517,7 @@ window.POLL_DATA = {
           "name": "Empyrean Pyke",
           "normalizedName": "Empyrean",
           "normalizedKey": "empyrean",
-          "votes": 21,
+          "votes": 22,
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDMJyNG-c.png",
           "imageSourceYear": 2025,
