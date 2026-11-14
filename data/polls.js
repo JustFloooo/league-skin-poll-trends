@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-11-13T14:04:55.605Z",
-  "startedAt": "2026-11-13T14:04:45.570Z",
+  "fetchedAt": "2026-11-14T13:06:18.726Z",
+  "startedAt": "2026-11-14T13:06:08.379Z",
   "sources": [
     {
       "year": 2024,
@@ -1538,7 +1538,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 3178,
+      "totalVotesAcrossYears": 3179,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e6Z2daRdMnN",
@@ -1551,7 +1551,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.6288659793814433,
+      "latestWinnerShare": 0.6224489795918368,
       "consensusWinner": "Dark Cosmic",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -14164,9 +14164,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/61gD95JazZw/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/JhinMains",
-      "totalVotes": 97,
-      "participantCount": 97,
-      "lastVoteAt": "2026-11-10T13:33:04.000Z",
+      "totalVotes": 98,
+      "participantCount": 98,
+      "lastVoteAt": "2026-11-13T22:17:21.000Z",
       "updatedAt": "2025-11-19T21:45:18.000Z",
       "winner": {
         "id": "e6Z2daRdMnN",
@@ -14190,9 +14190,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.6288659793814433,
+      "winnerShare": 0.6224489795918368,
       "marginVotes": 51,
-      "marginShare": 0.5257731958762887,
+      "marginShare": 0.5204081632653061,
       "options": [
         {
           "id": "e6Z2daRdMnN",
@@ -14331,7 +14331,7 @@ window.POLL_DATA = {
           "name": "Soul Fighter Jhin",
           "normalizedName": "Soul Fighter",
           "normalizedKey": "soul fighter",
-          "votes": 0,
+          "votes": 1,
           "position": 9,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/GJn4QkMXgzm-c.png",
           "imageSourceYear": 2025,
