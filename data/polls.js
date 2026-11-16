@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-11-15T13:35:48.422Z",
-  "startedAt": "2026-11-15T13:35:38.409Z",
+  "fetchedAt": "2026-11-16T15:05:31.597Z",
+  "startedAt": "2026-11-16T15:05:19.143Z",
   "sources": [
     {
       "year": 2024,
@@ -840,20 +840,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2020,
+      "totalVotesAcrossYears": 2021,
       "latestYear": 2025,
       "latestWinner": {
         "id": "2ayLwD92zZ4",
         "name": "Gladiator Draven",
         "normalizedName": "Gladiator",
         "normalizedKey": "gladiator",
-        "votes": 20,
+        "votes": 21,
         "position": 2,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/1Mnwr6QKy7D-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3225806451612903,
+      "latestWinnerShare": 0.3333333333333333,
       "consensusWinner": "Gladiator",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -896,7 +896,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1216,
+      "totalVotesAcrossYears": 1217,
       "latestYear": 2025,
       "latestWinner": {
         "id": "kjn1MzE5xnQ",
@@ -909,7 +909,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2909090909090909,
+      "latestWinnerShare": 0.2857142857142857,
       "consensusWinner": "Withered Rose",
       "consensusWins": 3,
       "changedFromPrevious": true
@@ -2181,20 +2181,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2602,
+      "totalVotesAcrossYears": 2603,
       "latestYear": 2025,
       "latestWinner": {
         "id": "YVyPNqY7AgN",
         "name": "Elementalist Lux",
         "normalizedName": "Elementalist",
         "normalizedKey": "elementalist",
-        "votes": 43,
+        "votes": 44,
         "position": 7,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKPa4np0-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.43434343434343436,
+      "latestWinnerShare": 0.44,
       "consensusWinner": "Elementalist",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -9586,16 +9586,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/XOgOV7jx3n3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/DravenMains",
-      "totalVotes": 62,
-      "participantCount": 62,
-      "lastVoteAt": "2026-11-07T14:52:42.000Z",
+      "totalVotes": 63,
+      "participantCount": 63,
+      "lastVoteAt": "2026-11-16T08:23:19.000Z",
       "updatedAt": "2025-11-19T21:44:37.000Z",
       "winner": {
         "id": "2ayLwD92zZ4",
         "name": "Gladiator Draven",
         "normalizedName": "Gladiator",
         "normalizedKey": "gladiator",
-        "votes": 20,
+        "votes": 21,
         "position": 2,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/1Mnwr6QKy7D-c.png",
         "imageSourceYear": 2025,
@@ -9612,16 +9612,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3225806451612903,
-      "marginVotes": 5,
-      "marginShare": 0.08064516129032258,
+      "winnerShare": 0.3333333333333333,
+      "marginVotes": 6,
+      "marginShare": 0.09523809523809523,
       "options": [
         {
           "id": "2ayLwD92zZ4",
           "name": "Gladiator Draven",
           "normalizedName": "Gladiator",
           "normalizedKey": "gladiator",
-          "votes": 20,
+          "votes": 21,
           "position": 2,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/1Mnwr6QKy7D-c.png",
           "imageSourceYear": 2025,
@@ -9976,9 +9976,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/e7ZJam7o5g3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/Elisemains",
-      "totalVotes": 55,
-      "participantCount": 55,
-      "lastVoteAt": "2026-11-11T22:45:49.000Z",
+      "totalVotes": 56,
+      "participantCount": 56,
+      "lastVoteAt": "2026-11-15T23:40:49.000Z",
       "updatedAt": "2025-11-19T21:44:40.000Z",
       "winner": {
         "id": "kjn1MzE5xnQ",
@@ -10002,9 +10002,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2909090909090909,
+      "winnerShare": 0.2857142857142857,
       "marginVotes": 8,
-      "marginShare": 0.14545454545454545,
+      "marginShare": 0.14285714285714285,
       "options": [
         {
           "id": "kjn1MzE5xnQ",
@@ -10088,7 +10088,7 @@ window.POLL_DATA = {
           "name": "Death Blossom Elise",
           "normalizedName": "Death Blossom",
           "normalizedKey": "death blossom",
-          "votes": 3,
+          "votes": 4,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/2ayLdbaMy4k-c.png",
           "imageSourceYear": 2025,
@@ -18220,16 +18220,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/mpnb178rGy5/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/lux",
-      "totalVotes": 99,
-      "participantCount": 99,
-      "lastVoteAt": "2026-11-06T22:28:04.000Z",
+      "totalVotes": 100,
+      "participantCount": 100,
+      "lastVoteAt": "2026-11-15T23:42:43.000Z",
       "updatedAt": "2025-11-19T21:45:59.000Z",
       "winner": {
         "id": "YVyPNqY7AgN",
         "name": "Elementalist Lux",
         "normalizedName": "Elementalist",
         "normalizedKey": "elementalist",
-        "votes": 43,
+        "votes": 44,
         "position": 7,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKPa4np0-c.png",
         "imageSourceYear": 2025,
@@ -18246,16 +18246,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.43434343434343436,
-      "marginVotes": 28,
-      "marginShare": 0.2828282828282828,
+      "winnerShare": 0.44,
+      "marginVotes": 29,
+      "marginShare": 0.29,
       "options": [
         {
           "id": "YVyPNqY7AgN",
           "name": "Elementalist Lux",
           "normalizedName": "Elementalist",
           "normalizedKey": "elementalist",
-          "votes": 43,
+          "votes": 44,
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKPa4np0-c.png",
           "imageSourceYear": 2025,
