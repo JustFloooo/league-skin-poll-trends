@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-11-19T15:22:48.930Z",
-  "startedAt": "2026-11-19T15:22:39.028Z",
+  "fetchedAt": "2026-11-20T14:59:52.486Z",
+  "startedAt": "2026-11-20T14:59:42.440Z",
   "sources": [
     {
       "year": 2024,
@@ -92,20 +92,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 5872,
+      "totalVotesAcrossYears": 5873,
       "latestYear": 2025,
       "latestWinner": {
         "id": "poy9DpYJwZJ",
         "name": "Spirit Blossom Ahri",
         "normalizedName": "Spirit Blossom",
         "normalizedKey": "spirit blossom",
-        "votes": 75,
+        "votes": 76,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Q0Zprd9JnMB-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3073770491803279,
+      "latestWinnerShare": 0.31020408163265306,
       "consensusWinner": "Spirit Blossom",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -588,20 +588,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 3,
-      "totalVotesAcrossYears": 790,
+      "totalVotesAcrossYears": 791,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e6Z2daJVJnN",
         "name": "Original Briar",
         "normalizedName": "Original",
         "normalizedKey": "original",
-        "votes": 28,
+        "votes": 29,
         "position": 0,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDBJyNG-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4375,
+      "latestWinnerShare": 0.4461538461538462,
       "consensusWinner": "Original",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -1873,20 +1873,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1526,
+      "totalVotesAcrossYears": 1527,
       "latestYear": 2025,
       "latestWinner": {
         "id": "DwyodBAODnA",
         "name": "Mecha Kha'Zix",
         "normalizedName": "Mecha",
         "normalizedKey": "mecha",
-        "votes": 24,
+        "votes": 25,
         "position": 1,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDO9neA-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4067796610169492,
+      "latestWinnerShare": 0.4166666666666667,
       "consensusWinner": "Mecha",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -2454,7 +2454,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 3,
-      "totalVotesAcrossYears": 369,
+      "totalVotesAcrossYears": 370,
       "latestYear": 2025,
       "latestWinner": {
         "id": "40ZmG9AOona",
@@ -2467,7 +2467,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.3673469387755102,
+      "latestWinnerShare": 0.36,
       "consensusWinner": "Glizzy",
       "consensusWins": 1,
       "changedFromPrevious": true
@@ -5036,16 +5036,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NMnQNewrBg6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AhriMains",
-      "totalVotes": 244,
-      "participantCount": 244,
-      "lastVoteAt": "2026-11-18T07:22:01.000Z",
+      "totalVotes": 245,
+      "participantCount": 245,
+      "lastVoteAt": "2026-11-20T06:16:33.000Z",
       "updatedAt": "2025-11-19T21:43:55.000Z",
       "winner": {
         "id": "poy9DpYJwZJ",
         "name": "Spirit Blossom Ahri",
         "normalizedName": "Spirit Blossom",
         "normalizedKey": "spirit blossom",
-        "votes": 75,
+        "votes": 76,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Q0Zprd9JnMB-c.png",
         "imageSourceYear": 2025,
@@ -5062,16 +5062,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3073770491803279,
-      "marginVotes": 33,
-      "marginShare": 0.13524590163934427,
+      "winnerShare": 0.31020408163265306,
+      "marginVotes": 34,
+      "marginShare": 0.13877551020408163,
       "options": [
         {
           "id": "poy9DpYJwZJ",
           "name": "Spirit Blossom Ahri",
           "normalizedName": "Spirit Blossom",
           "normalizedKey": "spirit blossom",
-          "votes": 75,
+          "votes": 76,
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/Q0Zprd9JnMB-c.png",
           "imageSourceYear": 2025,
@@ -8040,16 +8040,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/eJnvVAJzMnv/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/BriarMains",
-      "totalVotes": 64,
-      "participantCount": 64,
-      "lastVoteAt": "2026-11-19T12:10:37.000Z",
+      "totalVotes": 65,
+      "participantCount": 65,
+      "lastVoteAt": "2026-11-20T12:32:41.000Z",
       "updatedAt": "2025-11-19T21:44:23.000Z",
       "winner": {
         "id": "e6Z2daJVJnN",
         "name": "Original Briar",
         "normalizedName": "Original",
         "normalizedKey": "original",
-        "votes": 28,
+        "votes": 29,
         "position": 0,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDBJyNG-c.png",
         "imageSourceYear": 2025,
@@ -8066,16 +8066,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4375,
-      "marginVotes": 8,
-      "marginShare": 0.125,
+      "winnerShare": 0.4461538461538462,
+      "marginVotes": 9,
+      "marginShare": 0.13846153846153847,
       "options": [
         {
           "id": "e6Z2daJVJnN",
           "name": "Original Briar",
           "normalizedName": "Original",
           "normalizedKey": "original",
-          "votes": 28,
+          "votes": 29,
           "position": 0,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDBJyNG-c.png",
           "imageSourceYear": 2025,
@@ -16273,16 +16273,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/PKgleobNoZp/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/KhaZixMains",
-      "totalVotes": 59,
-      "participantCount": 59,
-      "lastVoteAt": "2026-11-03T09:59:35.000Z",
+      "totalVotes": 60,
+      "participantCount": 60,
+      "lastVoteAt": "2026-11-20T13:59:14.000Z",
       "updatedAt": "2025-11-19T21:45:37.000Z",
       "winner": {
         "id": "DwyodBAODnA",
         "name": "Mecha Kha'Zix",
         "normalizedName": "Mecha",
         "normalizedKey": "mecha",
-        "votes": 24,
+        "votes": 25,
         "position": 1,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDO9neA-c.png",
         "imageSourceYear": 2025,
@@ -16299,16 +16299,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4067796610169492,
-      "marginVotes": 10,
-      "marginShare": 0.1694915254237288,
+      "winnerShare": 0.4166666666666667,
+      "marginVotes": 11,
+      "marginShare": 0.18333333333333332,
       "options": [
         {
           "id": "DwyodBAODnA",
           "name": "Mecha Kha'Zix",
           "normalizedName": "Mecha",
           "normalizedKey": "mecha",
-          "votes": 24,
+          "votes": 25,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDO9neA-c.png",
           "imageSourceYear": 2025,
@@ -20181,9 +20181,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/NoZrzA8YkZ3/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/NaafiriMains",
-      "totalVotes": 49,
-      "participantCount": 49,
-      "lastVoteAt": "2026-11-03T09:56:05.000Z",
+      "totalVotes": 50,
+      "participantCount": 50,
+      "lastVoteAt": "2026-11-20T12:32:51.000Z",
       "updatedAt": "2025-11-19T21:46:19.000Z",
       "winner": {
         "id": "40ZmG9AOona",
@@ -20197,19 +20197,19 @@ window.POLL_DATA = {
         "rank": 1
       },
       "runnerUp": {
-        "id": "ajnE73QJmZW",
-        "name": "Soul Fighter Naafiri",
-        "normalizedName": "Soul Fighter",
-        "normalizedKey": "soul fighter",
-        "votes": 14,
-        "position": 1,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPJ7lZ6P-c.png",
+        "id": "e7ZJj1mWMZ3",
+        "name": "PROJECT: Naafiri",
+        "normalizedName": "PROJECT:",
+        "normalizedKey": "project",
+        "votes": 15,
+        "position": 2,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6N4OwgAk-c.png",
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.3673469387755102,
-      "marginVotes": 4,
-      "marginShare": 0.08163265306122448,
+      "winnerShare": 0.36,
+      "marginVotes": 3,
+      "marginShare": 0.06,
       "options": [
         {
           "id": "40ZmG9AOona",
@@ -20223,6 +20223,17 @@ window.POLL_DATA = {
           "rank": 1
         },
         {
+          "id": "e7ZJj1mWMZ3",
+          "name": "PROJECT: Naafiri",
+          "normalizedName": "PROJECT:",
+          "normalizedKey": "project",
+          "votes": 15,
+          "position": 2,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6N4OwgAk-c.png",
+          "imageSourceYear": 2025,
+          "rank": 2
+        },
+        {
           "id": "ajnE73QJmZW",
           "name": "Soul Fighter Naafiri",
           "normalizedName": "Soul Fighter",
@@ -20230,17 +20241,6 @@ window.POLL_DATA = {
           "votes": 14,
           "position": 1,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/05ZdPJ7lZ6P-c.png",
-          "imageSourceYear": 2025,
-          "rank": 2
-        },
-        {
-          "id": "e7ZJj1mWMZ3",
-          "name": "PROJECT: Naafiri",
-          "normalizedName": "PROJECT:",
-          "normalizedKey": "project",
-          "votes": 14,
-          "position": 2,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/eNg6N4OwgAk-c.png",
           "imageSourceYear": 2025,
           "rank": 3
         },
