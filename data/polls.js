@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-11-21T14:21:16.177Z",
-  "startedAt": "2026-11-21T14:21:06.090Z",
+  "fetchedAt": "2026-11-22T14:13:09.419Z",
+  "startedAt": "2026-11-22T14:12:59.312Z",
   "sources": [
     {
       "year": 2024,
@@ -1733,20 +1733,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1177,
+      "totalVotesAcrossYears": 1178,
       "latestYear": 2025,
       "latestWinner": {
         "id": "e7ZJj1m0PZ3",
         "name": "Cosmic Reaver Kassadin",
         "normalizedName": "Cosmic Reaver",
         "normalizedKey": "cosmic reaver",
-        "votes": 33,
+        "votes": 34,
         "position": 5,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BPmgaR-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.717391304347826,
+      "latestWinnerShare": 0.723404255319149,
       "consensusWinner": "Cosmic Reaver",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -1789,20 +1789,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1721,
+      "totalVotesAcrossYears": 1722,
       "latestYear": 2025,
       "latestWinner": {
         "id": "kogjGM5X3Z6",
         "name": "Prestige Empyrean Kayle",
         "normalizedName": "Prestige Empyrean",
         "normalizedKey": "prestige empyrean",
-        "votes": 16,
+        "votes": 17,
         "position": 16,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/61gDdbaVgwd-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2077922077922078,
+      "latestWinnerShare": 0.21794871794871795,
       "consensusWinner": "Sun-Eater",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -3991,7 +3991,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1460,
+      "totalVotesAcrossYears": 1461,
       "latestYear": 2025,
       "latestWinner": {
         "id": "7rnz3a3lLgO",
@@ -4004,7 +4004,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4406779661016949,
+      "latestWinnerShare": 0.43333333333333335,
       "consensusWinner": "Crime City",
       "consensusWins": 5,
       "changedFromPrevious": false
@@ -15342,16 +15342,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/w4nWW5PBWnA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/KassadinMains",
-      "totalVotes": 46,
-      "participantCount": 46,
-      "lastVoteAt": "2026-11-06T23:57:06.000Z",
+      "totalVotes": 47,
+      "participantCount": 47,
+      "lastVoteAt": "2026-11-21T18:58:58.000Z",
       "updatedAt": "2025-11-19T21:45:29.000Z",
       "winner": {
         "id": "e7ZJj1m0PZ3",
         "name": "Cosmic Reaver Kassadin",
         "normalizedName": "Cosmic Reaver",
         "normalizedKey": "cosmic reaver",
-        "votes": 33,
+        "votes": 34,
         "position": 5,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BPmgaR-c.png",
         "imageSourceYear": 2025,
@@ -15368,16 +15368,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.717391304347826,
-      "marginVotes": 29,
-      "marginShare": 0.6304347826086957,
+      "winnerShare": 0.723404255319149,
+      "marginVotes": 30,
+      "marginShare": 0.6382978723404256,
       "options": [
         {
           "id": "e7ZJj1m0PZ3",
           "name": "Cosmic Reaver Kassadin",
           "normalizedName": "Cosmic Reaver",
           "normalizedKey": "cosmic reaver",
-          "votes": 33,
+          "votes": 34,
           "position": 5,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm0BPmgaR-c.png",
           "imageSourceYear": 2025,
@@ -15743,16 +15743,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/7rnzVA2EDnO/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/Kaylemains",
-      "totalVotes": 77,
-      "participantCount": 77,
-      "lastVoteAt": "2026-11-08T00:44:51.000Z",
+      "totalVotes": 78,
+      "participantCount": 78,
+      "lastVoteAt": "2026-11-22T04:25:11.000Z",
       "updatedAt": "2025-11-19T21:45:33.000Z",
       "winner": {
         "id": "kogjGM5X3Z6",
         "name": "Prestige Empyrean Kayle",
         "normalizedName": "Prestige Empyrean",
         "normalizedKey": "prestige empyrean",
-        "votes": 16,
+        "votes": 17,
         "position": 16,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/61gDdbaVgwd-c.png",
         "imageSourceYear": 2025,
@@ -15769,16 +15769,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2077922077922078,
-      "marginVotes": 8,
-      "marginShare": 0.1038961038961039,
+      "winnerShare": 0.21794871794871795,
+      "marginVotes": 9,
+      "marginShare": 0.11538461538461539,
       "options": [
         {
           "id": "kogjGM5X3Z6",
           "name": "Prestige Empyrean Kayle",
           "normalizedName": "Prestige Empyrean",
           "normalizedKey": "prestige empyrean",
-          "votes": 16,
+          "votes": 17,
           "position": 16,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/61gDdbaVgwd-c.png",
           "imageSourceYear": 2025,
@@ -29322,9 +29322,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/GPgVYwvAvna/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/TwitchMains",
-      "totalVotes": 59,
-      "participantCount": 59,
-      "lastVoteAt": "2026-11-06T22:21:52.000Z",
+      "totalVotes": 60,
+      "participantCount": 60,
+      "lastVoteAt": "2026-11-22T12:33:13.000Z",
       "updatedAt": "2025-11-19T21:47:45.000Z",
       "winner": {
         "id": "7rnz3a3lLgO",
@@ -29348,9 +29348,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4406779661016949,
+      "winnerShare": 0.43333333333333335,
       "marginVotes": 17,
-      "marginShare": 0.288135593220339,
+      "marginShare": 0.2833333333333333,
       "options": [
         {
           "id": "7rnz3a3lLgO",
@@ -29408,6 +29408,17 @@ window.POLL_DATA = {
           "rank": 5
         },
         {
+          "id": "PKglG8GMJnp",
+          "name": "Dragonslayer Twitch",
+          "normalizedName": "Dragonslayer",
+          "normalizedKey": "dragonslayer",
+          "votes": 3,
+          "position": 11,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm01DwgaR-c.png",
+          "imageSourceYear": 2025,
+          "rank": 6
+        },
+        {
           "id": "xVg7MeMO6yr",
           "name": "Omega Squad Twitch",
           "normalizedName": "Omega Squad",
@@ -29415,17 +29426,6 @@ window.POLL_DATA = {
           "votes": 2,
           "position": 8,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkblR5yEP-c.png",
-          "imageSourceYear": 2025,
-          "rank": 6
-        },
-        {
-          "id": "PKglG8GMJnp",
-          "name": "Dragonslayer Twitch",
-          "normalizedName": "Dragonslayer",
-          "normalizedKey": "dragonslayer",
-          "votes": 2,
-          "position": 11,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/40Zm01DwgaR-c.png",
           "imageSourceYear": 2025,
           "rank": 7
         },
