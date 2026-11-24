@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-11-23T17:35:00.994Z",
-  "startedAt": "2026-11-23T17:34:50.638Z",
+  "fetchedAt": "2026-11-24T17:05:40.991Z",
+  "startedAt": "2026-11-24T17:05:30.637Z",
   "sources": [
     {
       "year": 2024,
@@ -784,7 +784,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2369,
+      "totalVotesAcrossYears": 2370,
       "latestYear": 2025,
       "latestWinner": {
         "id": "w4nWb2m6JyA",
@@ -797,7 +797,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.6629213483146067,
+      "latestWinnerShare": 0.6555555555555556,
       "consensusWinner": "Winterblessed",
       "consensusWins": 4,
       "changedFromPrevious": false
@@ -2013,20 +2013,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2749,
+      "totalVotesAcrossYears": 2750,
       "latestYear": 2025,
       "latestWinner": {
         "id": "wAg3M2XxMy8",
         "name": "Storm Dragon Lee Sin",
         "normalizedName": "Storm Dragon",
         "normalizedKey": "storm dragon",
-        "votes": 28,
+        "votes": 29,
         "position": 13,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/jVyG6xdzZ7E-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.4117647058823529,
+      "latestWinnerShare": 0.42028985507246375,
       "consensusWinner": "Muay Thai",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -9207,9 +9207,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/GeZARjLYbyV/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/DianaMains",
-      "totalVotes": 89,
-      "participantCount": 89,
-      "lastVoteAt": "2026-11-22T23:43:42.000Z",
+      "totalVotes": 90,
+      "participantCount": 90,
+      "lastVoteAt": "2026-11-24T00:29:39.000Z",
       "updatedAt": "2025-11-19T21:44:34.000Z",
       "winner": {
         "id": "w4nWb2m6JyA",
@@ -9233,9 +9233,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.6629213483146067,
+      "winnerShare": 0.6555555555555556,
       "marginVotes": 53,
-      "marginShare": 0.5955056179775281,
+      "marginShare": 0.5888888888888889,
       "options": [
         {
           "id": "w4nWb2m6JyA",
@@ -9348,6 +9348,17 @@ window.POLL_DATA = {
           "rank": 10
         },
         {
+          "id": "QrgeGvQDbyp",
+          "name": "Prestige Dark Cosmic Diana",
+          "normalizedName": "Prestige Dark Cosmic",
+          "normalizedKey": "prestige dark cosmic",
+          "votes": 2,
+          "position": 14,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOOeB0g3o-c.png",
+          "imageSourceYear": 2025,
+          "rank": 11
+        },
+        {
           "id": "xVg7MeWkRyr",
           "name": "Heavenscale Diana",
           "normalizedName": "Heavenscale",
@@ -9355,17 +9366,6 @@ window.POLL_DATA = {
           "votes": 1,
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/LVyKdjRdn04-c.png",
-          "imageSourceYear": 2025,
-          "rank": 11
-        },
-        {
-          "id": "QrgeGvQDbyp",
-          "name": "Prestige Dark Cosmic Diana",
-          "normalizedName": "Prestige Dark Cosmic",
-          "normalizedKey": "prestige dark cosmic",
-          "votes": 1,
-          "position": 14,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/XOgOOeB0g3o-c.png",
           "imageSourceYear": 2025,
           "rank": 12
         },
@@ -17061,16 +17061,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/jVyG2Oa4kZ7/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/LeeSinMains",
-      "totalVotes": 68,
-      "participantCount": 68,
-      "lastVoteAt": "2026-11-22T23:40:29.000Z",
+      "totalVotes": 69,
+      "participantCount": 69,
+      "lastVoteAt": "2026-11-23T23:11:34.000Z",
       "updatedAt": "2025-11-19T21:45:45.000Z",
       "winner": {
         "id": "wAg3M2XxMy8",
         "name": "Storm Dragon Lee Sin",
         "normalizedName": "Storm Dragon",
         "normalizedKey": "storm dragon",
-        "votes": 28,
+        "votes": 29,
         "position": 13,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/jVyG6xdzZ7E-c.png",
         "imageSourceYear": 2025,
@@ -17087,16 +17087,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.4117647058823529,
-      "marginVotes": 15,
-      "marginShare": 0.22058823529411764,
+      "winnerShare": 0.42028985507246375,
+      "marginVotes": 16,
+      "marginShare": 0.2318840579710145,
       "options": [
         {
           "id": "wAg3M2XxMy8",
           "name": "Storm Dragon Lee Sin",
           "normalizedName": "Storm Dragon",
           "normalizedKey": "storm dragon",
-          "votes": 28,
+          "votes": 29,
           "position": 13,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/jVyG6xdzZ7E-c.png",
           "imageSourceYear": 2025,
