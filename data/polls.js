@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-11-24T17:05:40.991Z",
-  "startedAt": "2026-11-24T17:05:30.637Z",
+  "fetchedAt": "2026-11-25T16:54:25.133Z",
+  "startedAt": "2026-11-25T16:54:14.483Z",
   "sources": [
     {
       "year": 2024,
@@ -64,20 +64,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 8186,
+      "totalVotesAcrossYears": 8187,
       "latestYear": 2025,
       "latestWinner": {
         "id": "1Mnw3JQd5n7",
         "name": "Primordian Aatrox",
         "normalizedName": "Primordian",
         "normalizedKey": "primordian",
-        "votes": 88,
+        "votes": 89,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbqBjyEP-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.26993865030674846,
+      "latestWinnerShare": 0.27217125382262997,
       "consensusWinner": "Prestige Blood Moon",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -1008,7 +1008,7 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1672,
+      "totalVotesAcrossYears": 1673,
       "latestYear": 2025,
       "latestWinner": {
         "id": "3RnYb7opAge",
@@ -1021,7 +1021,7 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.27692307692307694,
+      "latestWinnerShare": 0.2727272727272727,
       "consensusWinner": "iG",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -4852,16 +4852,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/wby5QEL1wyA/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/AatroxMains",
-      "totalVotes": 326,
-      "participantCount": 326,
-      "lastVoteAt": "2026-11-21T11:44:42.000Z",
+      "totalVotes": 327,
+      "participantCount": 327,
+      "lastVoteAt": "2026-11-24T21:48:26.000Z",
       "updatedAt": "2025-11-19T21:43:53.000Z",
       "winner": {
         "id": "1Mnw3JQd5n7",
         "name": "Primordian Aatrox",
         "normalizedName": "Primordian",
         "normalizedKey": "primordian",
-        "votes": 88,
+        "votes": 89,
         "position": 12,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbqBjyEP-c.png",
         "imageSourceYear": 2025,
@@ -4878,16 +4878,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.26993865030674846,
-      "marginVotes": 29,
-      "marginShare": 0.08895705521472393,
+      "winnerShare": 0.27217125382262997,
+      "marginVotes": 30,
+      "marginShare": 0.09174311926605505,
       "options": [
         {
           "id": "1Mnw3JQd5n7",
           "name": "Primordian Aatrox",
           "normalizedName": "Primordian",
           "normalizedKey": "primordian",
-          "votes": 88,
+          "votes": 89,
           "position": 12,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/X3nkbqBjyEP-c.png",
           "imageSourceYear": 2025,
@@ -10822,9 +10822,9 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/Qrgewl8jLyp/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/FioraMains",
-      "totalVotes": 65,
-      "participantCount": 65,
-      "lastVoteAt": "2026-11-22T23:42:19.000Z",
+      "totalVotes": 66,
+      "participantCount": 66,
+      "lastVoteAt": "2026-11-24T22:03:39.000Z",
       "updatedAt": "2025-11-19T21:44:47.000Z",
       "winner": {
         "id": "3RnYb7opAge",
@@ -10848,9 +10848,9 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.27692307692307694,
+      "winnerShare": 0.2727272727272727,
       "marginVotes": 4,
-      "marginShare": 0.06153846153846154,
+      "marginShare": 0.06060606060606061,
       "options": [
         {
           "id": "3RnYb7opAge",
@@ -10985,6 +10985,17 @@ window.POLL_DATA = {
           "rank": 12
         },
         {
+          "id": "QrgeGvlVYyp",
+          "name": "Pulsefire Fiora",
+          "normalizedName": "Pulsefire",
+          "normalizedKey": "pulsefire",
+          "votes": 1,
+          "position": 9,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKPOenp0-c.png",
+          "imageSourceYear": 2025,
+          "rank": 13
+        },
+        {
           "id": "Q0ZpGD04AgM",
           "name": "Prestige Lunar Beast Fiora",
           "normalizedName": "Prestige Lunar Beast",
@@ -10993,7 +11004,7 @@ window.POLL_DATA = {
           "position": 11,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/kogjrqNqg6M-c.png",
           "imageSourceYear": 2025,
-          "rank": 13
+          "rank": 14
         },
         {
           "id": "xVg7Memdeyr",
@@ -11003,17 +11014,6 @@ window.POLL_DATA = {
           "votes": 0,
           "position": 7,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/3RnYeDJpneA-c.png",
-          "imageSourceYear": 2025,
-          "rank": 14
-        },
-        {
-          "id": "QrgeGvlVYyp",
-          "name": "Pulsefire Fiora",
-          "normalizedName": "Pulsefire",
-          "normalizedKey": "pulsefire",
-          "votes": 0,
-          "position": 9,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/PKglKPOenp0-c.png",
           "imageSourceYear": 2025,
           "rank": 15
         },
