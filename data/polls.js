@@ -1,6 +1,6 @@
 window.POLL_DATA = {
-  "fetchedAt": "2026-11-26T16:31:38.190Z",
-  "startedAt": "2026-11-26T16:31:27.883Z",
+  "fetchedAt": "2026-11-27T16:17:44.687Z",
+  "startedAt": "2026-11-27T16:17:34.505Z",
   "sources": [
     {
       "year": 2024,
@@ -812,20 +812,20 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 2151,
+      "totalVotesAcrossYears": 2152,
       "latestYear": 2025,
       "latestWinner": {
         "id": "1Mnw3JQK0n7",
         "name": "Corporate Mundo",
         "normalizedName": "Corporate Mundo",
         "normalizedKey": "corporate mundo",
-        "votes": 73,
+        "votes": 74,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMJlnOl-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.9240506329113924,
+      "latestWinnerShare": 0.925,
       "consensusWinner": "Corporate Mundo",
       "consensusWins": 3,
       "changedFromPrevious": false
@@ -1260,23 +1260,23 @@ window.POLL_DATA = {
         2025
       ],
       "yearCount": 5,
-      "totalVotesAcrossYears": 1393,
+      "totalVotesAcrossYears": 1394,
       "latestYear": 2025,
       "latestWinner": {
-        "id": "NMnQbOevDg6",
-        "name": "Arcade Hecarim",
-        "normalizedName": "Arcade",
-        "normalizedKey": "arcade",
-        "votes": 12,
-        "position": 4,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naozkeZBO-c.png",
+        "id": "DwyodBA0YnA",
+        "name": "Elderwood Hecarim",
+        "normalizedName": "Elderwood",
+        "normalizedKey": "elderwood",
+        "votes": 13,
+        "position": 5,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDEwyNG-c.png",
         "imageSourceYear": 2025,
         "rank": 1
       },
-      "latestWinnerShare": 0.2553191489361702,
+      "latestWinnerShare": 0.2708333333333333,
       "consensusWinner": "Arcade",
-      "consensusWins": 5,
-      "changedFromPrevious": false
+      "consensusWins": 4,
+      "changedFromPrevious": true
     },
     {
       "champion": "Heimerdinger",
@@ -9413,16 +9413,16 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/7MZ0kXLPRgo/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/DrMundoMains",
-      "totalVotes": 79,
-      "participantCount": 79,
-      "lastVoteAt": "2026-11-01T11:24:12.000Z",
+      "totalVotes": 80,
+      "participantCount": 80,
+      "lastVoteAt": "2026-11-27T08:57:12.000Z",
       "updatedAt": "2025-11-19T21:44:36.000Z",
       "winner": {
         "id": "1Mnw3JQK0n7",
         "name": "Corporate Mundo",
         "normalizedName": "Corporate Mundo",
         "normalizedKey": "corporate mundo",
-        "votes": 73,
+        "votes": 74,
         "position": 3,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMJlnOl-c.png",
         "imageSourceYear": 2025,
@@ -9439,16 +9439,16 @@ window.POLL_DATA = {
         "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.9240506329113924,
-      "marginVotes": 70,
-      "marginShare": 0.8860759493670886,
+      "winnerShare": 0.925,
+      "marginVotes": 71,
+      "marginShare": 0.8875,
       "options": [
         {
           "id": "1Mnw3JQK0n7",
           "name": "Corporate Mundo",
           "normalizedName": "Corporate Mundo",
           "normalizedKey": "corporate mundo",
-          "votes": 73,
+          "votes": 74,
           "position": 3,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/7rnzrMJlnOl-c.png",
           "imageSourceYear": 2025,
@@ -12478,11 +12478,22 @@ window.POLL_DATA = {
       "resultsUrl": "https://strawpoll.com/kogjR58p9g6/results",
       "redditUrl": "https://www.reddit.com/r/leagueoflegends/comments/1q3n8ll/best_skin_per_champion_2025/",
       "subreddit": "r/HecarimMains",
-      "totalVotes": 47,
-      "participantCount": 47,
-      "lastVoteAt": "2026-11-12T03:17:05.000Z",
+      "totalVotes": 48,
+      "participantCount": 48,
+      "lastVoteAt": "2026-11-27T07:18:44.000Z",
       "updatedAt": "2025-11-19T21:45:02.000Z",
       "winner": {
+        "id": "DwyodBA0YnA",
+        "name": "Elderwood Hecarim",
+        "normalizedName": "Elderwood",
+        "normalizedKey": "elderwood",
+        "votes": 13,
+        "position": 5,
+        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDEwyNG-c.png",
+        "imageSourceYear": 2025,
+        "rank": 1
+      },
+      "runnerUp": {
         "id": "NMnQbOevDg6",
         "name": "Arcade Hecarim",
         "normalizedName": "Arcade",
@@ -12491,23 +12502,23 @@ window.POLL_DATA = {
         "position": 4,
         "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naozkeZBO-c.png",
         "imageSourceYear": 2025,
-        "rank": 1
-      },
-      "runnerUp": {
-        "id": "DwyodBA0YnA",
-        "name": "Elderwood Hecarim",
-        "normalizedName": "Elderwood",
-        "normalizedKey": "elderwood",
-        "votes": 12,
-        "position": 5,
-        "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDEwyNG-c.png",
-        "imageSourceYear": 2025,
         "rank": 2
       },
-      "winnerShare": 0.2553191489361702,
-      "marginVotes": 0,
-      "marginShare": 0,
+      "winnerShare": 0.2708333333333333,
+      "marginVotes": 1,
+      "marginShare": 0.020833333333333332,
       "options": [
+        {
+          "id": "DwyodBA0YnA",
+          "name": "Elderwood Hecarim",
+          "normalizedName": "Elderwood",
+          "normalizedKey": "elderwood",
+          "votes": 13,
+          "position": 5,
+          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDEwyNG-c.png",
+          "imageSourceYear": 2025,
+          "rank": 1
+        },
         {
           "id": "NMnQbOevDg6",
           "name": "Arcade Hecarim",
@@ -12516,17 +12527,6 @@ window.POLL_DATA = {
           "votes": 12,
           "position": 4,
           "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e2naozkeZBO-c.png",
-          "imageSourceYear": 2025,
-          "rank": 1
-        },
-        {
-          "id": "DwyodBA0YnA",
-          "name": "Elderwood Hecarim",
-          "normalizedName": "Elderwood",
-          "normalizedKey": "elderwood",
-          "votes": 12,
-          "position": 5,
-          "imageUrl": "https://cdn.strawpoll.com/images/polls/options/e6Z2wDEwyNG-c.png",
           "imageSourceYear": 2025,
           "rank": 2
         },
